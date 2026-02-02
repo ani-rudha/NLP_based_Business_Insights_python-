@@ -1,0 +1,3001 @@
+feedback_id,customer_id,feedback_date,channel,rating,feedback_text
+1,10860,2023-02-28,Email,5,bad experience refund still not received
+2,11294,2023-05-18,App Review,4,love the app but payment failed twice
+3,11130,2023-04-09,Email,2,everything works fine
+4,11095,2023-03-04,Email,3,awesome app easy to use
+5,11638,2023-02-18,Email,4,bad experience refund still not received
+6,12169,2023-02-01,Email,4,support team resolved issue quickly
+7,10466,2023-05-15,Support Ticket,3,cant track my order properly
+8,11238,2023-01-21,App Review,3,checkout page not loading
+9,10330,2023-01-20,Email,1,customer service is terrible
+10,11482,2023-06-03,Email,5,App crashes again after update
+11,12135,2023-05-07,App Review,3,bad experience refund still not received
+12,12919,2023-03-09,App Review,1,checkout page not loading
+13,10130,2023-04-20,App Review,5,price increased suddenly not fair
+14,11685,2023-04-26,App Review,5,frustrating experience will uninstall
+15,10769,2023-05-23,Email,5,customer service is terrible
+16,12391,2023-04-30,Support Ticket,2,payment deducted but order failed
+17,11515,2023-03-20,App Review,1,frustrating experience will uninstall
+18,12853,2023-04-26,App Review,3,everything works fine
+19,12433,2023-04-02,Support Ticket,1,everything works fine
+20,11215,2023-01-14,App Review,5,checkout page not loading
+21,10955,2023-06-04,App Review,1,everything works fine
+22,12324,2023-05-05,Email,2,payment deducted but order failed
+23,11184,2023-06-17,Email,3,love the app but payment failed twice
+24,10459,2023-02-27,App Review,2,price increased suddenly not fair
+25,10021,2023-01-28,App Review,5,frustrating experience will uninstall
+26,12300,2023-01-26,App Review,3,everything works fine
+27,10747,2023-04-23,Email,1,app slow and buggy sometimes
+28,12904,2023-03-07,Email,2,customer service is terrible
+29,10474,2023-06-02,App Review,3,great service very happy
+30,11082,2023-05-11,Email,1,frustrating experience will uninstall
+31,12558,2023-02-13,Support Ticket,4,support team resolved issue quickly
+32,12047,2023-04-07,App Review,4,price increased suddenly not fair
+33,12747,2023-02-11,App Review,4,payment deducted but order failed
+34,10975,2023-01-06,Email,5,customer service is terrible
+35,11806,2023-06-16,App Review,5,login issue cant access account
+36,10189,2023-06-29,App Review,5,awesome app easy to use
+37,12734,2023-01-23,Email,1,frustrating experience will uninstall
+38,10562,2023-03-30,Support Ticket,1,order got cancelled automatically
+39,11899,2023-05-03,Support Ticket,2,too many ads now hate it
+40,11267,2023-06-27,Email,5,awesome app easy to use
+41,12879,2023-06-20,Email,5,price increased suddenly not fair
+42,11528,2023-05-27,App Review,5,login issue cant access account
+43,10646,2023-02-20,Email,1,delivery was late and support not helpful
+44,12068,2023-01-11,App Review,5,cant track my order properly
+45,12888,2023-01-12,App Review,3,too many ads now hate it
+46,12214,2023-03-15,Email,1,great service very happy
+47,11297,2023-01-08,Email,3,frustrating experience will uninstall
+48,12435,2023-06-01,App Review,1,App crashes again after update
+49,10600,2023-02-10,Support Ticket,3,checkout page not loading
+50,12363,2023-06-13,App Review,2,awesome app easy to use
+51,12061,2023-03-26,App Review,3,app slow and buggy sometimes
+52,10241,2023-03-13,App Review,4,love the app but payment failed twice
+53,12041,2023-02-24,Email,5,great service very happy
+54,12824,2023-05-17,Email,4,cant track my order properly
+55,12612,2023-02-16,App Review,3,price increased suddenly not fair
+56,12945,2023-05-23,Email,5,delivery was late and support not helpful
+57,11363,2023-06-25,App Review,5,support team resolved issue quickly
+58,12139,2023-04-14,Email,1,order got cancelled automatically
+59,11390,2023-02-11,App Review,3,checkout page not loading
+60,11478,2023-03-01,App Review,2,cant track my order properly
+61,12556,2023-01-12,Support Ticket,1,App crashes again after update
+62,10775,2023-05-10,App Review,4,very smooth experience no issues
+63,10034,2023-01-07,App Review,5,frustrating experience will uninstall
+64,12253,2023-03-21,Email,1,frustrating experience will uninstall
+65,11955,2023-05-11,Support Ticket,5,great service very happy
+66,11585,2023-04-19,App Review,5,price increased suddenly not fair
+67,11021,2023-01-03,App Review,5,awesome app easy to use
+68,12613,2023-01-27,App Review,2,love the app but payment failed twice
+69,11129,2023-04-24,Email,5,too many ads now hate it
+70,11500,2023-04-17,App Review,2,cant track my order properly
+71,10702,2023-02-09,Email,4,very smooth experience no issues
+72,12449,2023-06-10,Support Ticket,1,everything works fine
+73,12777,2023-05-09,App Review,1,checkout page not loading
+74,11579,2023-01-08,App Review,4,App crashes again after update
+75,10161,2023-04-11,App Review,3,login issue cant access account
+76,10201,2023-06-09,App Review,2,very smooth experience no issues
+77,11981,2023-05-04,Support Ticket,1,app slow and buggy sometimes
+78,10995,2023-06-25,App Review,4,very smooth experience no issues
+79,12317,2023-04-17,App Review,1,payment deducted but order failed
+80,10815,2023-04-11,Email,5,bad experience refund still not received
+81,10455,2023-01-04,App Review,1,everything works fine
+82,11275,2023-04-20,Email,1,too many ads now hate it
+83,11016,2023-01-19,App Review,2,support team resolved issue quickly
+84,12343,2023-02-01,Support Ticket,3,frustrating experience will uninstall
+85,12767,2023-05-17,Support Ticket,2,app slow and buggy sometimes
+86,10337,2023-01-12,Email,2,great service very happy
+87,10878,2023-05-19,Support Ticket,5,cant track my order properly
+88,11076,2023-02-15,App Review,4,support team resolved issue quickly
+89,10791,2023-04-29,App Review,1,delivery was late and support not helpful
+90,12264,2023-01-16,Email,3,checkout page not loading
+91,10763,2023-05-09,Email,5,App crashes again after update
+92,12235,2023-03-04,App Review,2,very smooth experience no issues
+93,10379,2023-04-19,App Review,1,app slow and buggy sometimes
+94,10492,2023-04-29,App Review,5,delivery was late and support not helpful
+95,11180,2023-01-21,App Review,4,support team resolved issue quickly
+96,12062,2023-06-07,App Review,4,delivery was late and support not helpful
+97,10064,2023-01-13,Email,1,refund pending from last week
+98,12568,2023-06-11,App Review,1,payment deducted but order failed
+99,11367,2023-01-04,App Review,4,payment deducted but order failed
+100,11152,2023-06-05,Email,1,order got cancelled automatically
+101,12027,2023-04-12,Email,3,bad experience refund still not received
+102,12695,2023-02-28,Support Ticket,3,cant track my order properly
+103,11495,2023-05-08,Email,2,login issue cant access account
+104,11162,2023-01-27,App Review,5,customer service is terrible
+105,11522,2023-03-10,Support Ticket,5,App crashes again after update
+106,12640,2023-01-25,Email,4,cant track my order properly
+107,10391,2023-05-11,App Review,1,App crashes again after update
+108,11698,2023-04-07,Email,1,payment deducted but order failed
+109,10418,2023-01-25,Support Ticket,3,too many ads now hate it
+110,12336,2023-05-28,App Review,1,frustrating experience will uninstall
+111,10378,2023-06-11,App Review,5,love the app but payment failed twice
+112,11796,2023-06-03,App Review,1,very smooth experience no issues
+113,12278,2023-05-06,App Review,3,great service very happy
+114,12088,2023-05-13,App Review,2,support team resolved issue quickly
+115,12182,2023-01-09,Email,4,very smooth experience no issues
+116,10200,2023-04-26,App Review,1,app slow and buggy sometimes
+117,11863,2023-06-27,Support Ticket,3,everything works fine
+118,10779,2023-05-14,Email,2,great service very happy
+119,12977,2023-03-01,Email,5,great service very happy
+120,10502,2023-06-21,Support Ticket,1,support team resolved issue quickly
+121,12454,2023-05-01,App Review,5,frustrating experience will uninstall
+122,11751,2023-05-19,App Review,5,order got cancelled automatically
+123,10804,2023-06-24,Email,2,app slow and buggy sometimes
+124,12146,2023-04-18,Support Ticket,5,App crashes again after update
+125,12731,2023-04-18,Email,1,customer service is terrible
+126,11895,2023-05-11,App Review,5,awesome app easy to use
+127,12773,2023-03-17,Support Ticket,3,order got cancelled automatically
+128,11570,2023-01-30,App Review,2,frustrating experience will uninstall
+129,10960,2023-01-21,Support Ticket,2,cant track my order properly
+130,12660,2023-06-05,Support Ticket,1,App crashes again after update
+131,11485,2023-06-10,App Review,5,price increased suddenly not fair
+132,12690,2023-06-12,Email,1,great service very happy
+133,11028,2023-06-29,App Review,4,too many ads now hate it
+134,10502,2023-02-03,App Review,3,frustrating experience will uninstall
+135,12814,2023-02-10,Email,5,refund pending from last week
+136,10397,2023-02-20,Email,1,payment deducted but order failed
+137,10870,2023-06-24,Support Ticket,3,too many ads now hate it
+138,12842,2023-03-23,Email,3,payment deducted but order failed
+139,10392,2023-02-27,App Review,4,cant track my order properly
+140,10206,2023-03-16,Support Ticket,1,very smooth experience no issues
+141,11038,2023-01-23,Support Ticket,1,delivery was late and support not helpful
+142,11881,2023-06-25,App Review,1,love the app but payment failed twice
+143,12939,2023-05-08,Support Ticket,4,bad experience refund still not received
+144,11484,2023-05-30,App Review,1,order got cancelled automatically
+145,10863,2023-01-17,Support Ticket,4,too many ads now hate it
+146,12790,2023-03-10,App Review,1,login issue cant access account
+147,10563,2023-04-18,App Review,5,awesome app easy to use
+148,11020,2023-05-19,App Review,5,payment deducted but order failed
+149,10095,2023-04-04,Email,3,love the app but payment failed twice
+150,11923,2023-01-15,App Review,2,too many ads now hate it
+151,11757,2023-04-01,App Review,1,delivery was late and support not helpful
+152,12532,2023-06-12,Email,1,refund pending from last week
+153,12278,2023-02-02,Support Ticket,2,support team resolved issue quickly
+154,12796,2023-05-05,App Review,4,checkout page not loading
+155,11678,2023-01-16,App Review,3,everything works fine
+156,10540,2023-06-11,App Review,5,very smooth experience no issues
+157,11059,2023-03-07,App Review,2,cant track my order properly
+158,12572,2023-06-17,Support Ticket,4,very smooth experience no issues
+159,11183,2023-06-05,Support Ticket,3,very smooth experience no issues
+160,11722,2023-02-16,Email,3,checkout page not loading
+161,11819,2023-06-16,App Review,2,support team resolved issue quickly
+162,12625,2023-05-28,Email,3,order got cancelled automatically
+163,12729,2023-05-04,Email,3,customer service is terrible
+164,12604,2023-01-01,Support Ticket,4,order got cancelled automatically
+165,11597,2023-03-28,Email,5,price increased suddenly not fair
+166,12693,2023-05-08,Email,2,payment deducted but order failed
+167,10795,2023-03-08,Email,1,delivery was late and support not helpful
+168,11051,2023-01-04,App Review,3,price increased suddenly not fair
+169,11643,2023-06-02,Support Ticket,3,very smooth experience no issues
+170,11363,2023-02-16,Email,1,App crashes again after update
+171,11981,2023-02-07,Email,5,cant track my order properly
+172,11354,2023-05-23,App Review,5,order got cancelled automatically
+173,11663,2023-01-21,Email,5,refund pending from last week
+174,11529,2023-02-26,Email,1,refund pending from last week
+175,12038,2023-04-27,App Review,5,customer service is terrible
+176,11496,2023-02-15,App Review,4,order got cancelled automatically
+177,12237,2023-05-22,Email,3,too many ads now hate it
+178,11408,2023-05-25,Email,3,login issue cant access account
+179,11400,2023-02-08,Email,5,App crashes again after update
+180,11306,2023-05-17,App Review,3,awesome app easy to use
+181,12680,2023-04-09,Email,2,frustrating experience will uninstall
+182,12675,2023-03-18,App Review,3,checkout page not loading
+183,10972,2023-04-25,App Review,4,cant track my order properly
+184,11768,2023-05-14,App Review,1,delivery was late and support not helpful
+185,11282,2023-05-31,App Review,5,everything works fine
+186,10709,2023-04-01,App Review,4,awesome app easy to use
+187,11479,2023-04-08,App Review,4,very smooth experience no issues
+188,11434,2023-04-30,App Review,1,awesome app easy to use
+189,10648,2023-02-15,App Review,4,checkout page not loading
+190,10317,2023-02-07,Email,1,refund pending from last week
+191,11257,2023-05-22,App Review,1,too many ads now hate it
+192,10683,2023-04-10,App Review,3,very smooth experience no issues
+193,10663,2023-03-13,Support Ticket,3,frustrating experience will uninstall
+194,11998,2023-02-04,App Review,4,too many ads now hate it
+195,11631,2023-05-27,Email,1,support team resolved issue quickly
+196,11495,2023-01-30,App Review,3,bad experience refund still not received
+197,11136,2023-03-19,App Review,1,order got cancelled automatically
+198,11853,2023-03-25,Email,5,delivery was late and support not helpful
+199,11520,2023-04-23,Email,4,customer service is terrible
+200,12489,2023-01-25,Support Ticket,4,refund pending from last week
+201,10563,2023-06-17,Email,2,price increased suddenly not fair
+202,11291,2023-03-29,Support Ticket,1,refund pending from last week
+203,11636,2023-01-14,App Review,5,delivery was late and support not helpful
+204,12999,2023-06-03,App Review,2,customer service is terrible
+205,10698,2023-04-12,App Review,3,bad experience refund still not received
+206,12160,2023-05-30,App Review,4,App crashes again after update
+207,10001,2023-06-25,Email,1,frustrating experience will uninstall
+208,10641,2023-03-24,Email,5,refund pending from last week
+209,12267,2023-04-20,App Review,3,price increased suddenly not fair
+210,11589,2023-06-28,Support Ticket,2,love the app but payment failed twice
+211,10854,2023-05-11,Support Ticket,1,great service very happy
+212,11759,2023-06-19,App Review,1,too many ads now hate it
+213,12432,2023-01-19,App Review,5,price increased suddenly not fair
+214,11661,2023-01-28,App Review,4,too many ads now hate it
+215,11153,2023-06-22,App Review,1,too many ads now hate it
+216,11076,2023-03-12,App Review,1,bad experience refund still not received
+217,11707,2023-03-04,Email,4,login issue cant access account
+218,12777,2023-03-14,App Review,4,everything works fine
+219,11695,2023-05-04,App Review,3,login issue cant access account
+220,11733,2023-04-29,Support Ticket,2,love the app but payment failed twice
+221,11439,2023-05-01,Email,1,price increased suddenly not fair
+222,12294,2023-01-19,Support Ticket,4,App crashes again after update
+223,10835,2023-06-24,App Review,5,App crashes again after update
+224,10202,2023-05-22,App Review,1,refund pending from last week
+225,10122,2023-04-30,Email,4,too many ads now hate it
+226,10400,2023-06-15,App Review,3,app slow and buggy sometimes
+227,10766,2023-03-02,App Review,3,refund pending from last week
+228,10293,2023-06-13,Email,2,bad experience refund still not received
+229,12327,2023-06-17,Email,5,too many ads now hate it
+230,12931,2023-01-30,App Review,3,customer service is terrible
+231,10197,2023-01-09,App Review,3,App crashes again after update
+232,11930,2023-03-05,App Review,2,too many ads now hate it
+233,12799,2023-06-10,App Review,1,support team resolved issue quickly
+234,12191,2023-04-30,App Review,1,awesome app easy to use
+235,10608,2023-02-21,App Review,4,very smooth experience no issues
+236,11147,2023-03-30,App Review,1,love the app but payment failed twice
+237,10186,2023-05-22,Support Ticket,4,payment deducted but order failed
+238,12511,2023-02-22,Email,2,awesome app easy to use
+239,11794,2023-03-19,Email,3,love the app but payment failed twice
+240,10659,2023-02-10,App Review,3,refund pending from last week
+241,12811,2023-03-09,App Review,2,delivery was late and support not helpful
+242,11955,2023-01-08,App Review,1,bad experience refund still not received
+243,12450,2023-01-02,App Review,2,everything works fine
+244,11369,2023-04-15,App Review,4,very smooth experience no issues
+245,11986,2023-05-05,Email,4,delivery was late and support not helpful
+246,11534,2023-04-20,Email,2,order got cancelled automatically
+247,10146,2023-03-27,Email,3,love the app but payment failed twice
+248,12911,2023-06-18,App Review,1,app slow and buggy sometimes
+249,11734,2023-04-30,Support Ticket,1,customer service is terrible
+250,11843,2023-05-07,App Review,1,support team resolved issue quickly
+251,10488,2023-01-16,App Review,5,payment deducted but order failed
+252,12976,2023-03-03,App Review,1,awesome app easy to use
+253,11959,2023-04-23,Email,1,love the app but payment failed twice
+254,11663,2023-06-25,Support Ticket,2,customer service is terrible
+255,12598,2023-06-07,App Review,1,very smooth experience no issues
+256,12385,2023-01-12,Support Ticket,4,great service very happy
+257,12919,2023-02-04,Support Ticket,1,login issue cant access account
+258,10640,2023-01-11,App Review,1,support team resolved issue quickly
+259,11802,2023-03-05,App Review,4,checkout page not loading
+260,12520,2023-02-19,App Review,2,price increased suddenly not fair
+261,11969,2023-05-29,Support Ticket,4,very smooth experience no issues
+262,12198,2023-03-10,App Review,4,frustrating experience will uninstall
+263,11438,2023-02-17,Email,2,delivery was late and support not helpful
+264,11634,2023-01-20,App Review,4,app slow and buggy sometimes
+265,10262,2023-04-11,Email,1,everything works fine
+266,11787,2023-06-21,App Review,3,support team resolved issue quickly
+267,12191,2023-06-10,Email,3,price increased suddenly not fair
+268,12393,2023-05-17,Support Ticket,2,App crashes again after update
+269,10623,2023-03-09,Support Ticket,4,too many ads now hate it
+270,11016,2023-02-04,Support Ticket,5,very smooth experience no issues
+271,10880,2023-03-06,App Review,5,everything works fine
+272,12049,2023-01-08,Email,4,order got cancelled automatically
+273,12944,2023-02-14,App Review,3,delivery was late and support not helpful
+274,11327,2023-03-28,App Review,1,payment deducted but order failed
+275,12301,2023-06-24,Email,2,checkout page not loading
+276,10452,2023-06-17,App Review,3,payment deducted but order failed
+277,11183,2023-03-17,Email,2,checkout page not loading
+278,12056,2023-03-17,Support Ticket,5,price increased suddenly not fair
+279,11682,2023-06-23,App Review,2,awesome app easy to use
+280,12863,2023-02-16,Email,2,support team resolved issue quickly
+281,12255,2023-01-15,App Review,2,awesome app easy to use
+282,11154,2023-04-15,App Review,5,login issue cant access account
+283,10403,2023-05-27,App Review,4,frustrating experience will uninstall
+284,12199,2023-01-26,Support Ticket,4,cant track my order properly
+285,12101,2023-02-21,Support Ticket,2,cant track my order properly
+286,11696,2023-04-03,Support Ticket,5,App crashes again after update
+287,10627,2023-05-30,Support Ticket,1,frustrating experience will uninstall
+288,10586,2023-01-21,App Review,5,bad experience refund still not received
+289,11648,2023-02-20,App Review,3,bad experience refund still not received
+290,11443,2023-02-07,Email,2,bad experience refund still not received
+291,11445,2023-01-20,App Review,3,cant track my order properly
+292,10103,2023-06-06,App Review,4,delivery was late and support not helpful
+293,10253,2023-06-28,App Review,1,awesome app easy to use
+294,12557,2023-05-12,Email,5,bad experience refund still not received
+295,11496,2023-02-24,Email,3,too many ads now hate it
+296,10098,2023-04-02,App Review,2,love the app but payment failed twice
+297,12200,2023-01-28,App Review,1,login issue cant access account
+298,11884,2023-01-04,Email,3,too many ads now hate it
+299,12961,2023-05-30,Email,3,love the app but payment failed twice
+300,11919,2023-03-17,App Review,3,bad experience refund still not received
+301,10877,2023-06-22,Email,4,app slow and buggy sometimes
+302,10337,2023-03-08,App Review,3,support team resolved issue quickly
+303,12869,2023-03-27,App Review,5,too many ads now hate it
+304,10956,2023-06-11,Email,4,frustrating experience will uninstall
+305,11704,2023-04-01,Email,5,payment deducted but order failed
+306,10160,2023-04-15,App Review,1,login issue cant access account
+307,11603,2023-01-01,Email,2,checkout page not loading
+308,12848,2023-03-13,Email,2,bad experience refund still not received
+309,10397,2023-03-28,Email,4,great service very happy
+310,11300,2023-06-15,Email,5,bad experience refund still not received
+311,10815,2023-01-06,Email,1,bad experience refund still not received
+312,11527,2023-06-02,App Review,1,cant track my order properly
+313,11919,2023-05-25,App Review,5,customer service is terrible
+314,11415,2023-03-02,App Review,1,refund pending from last week
+315,11158,2023-01-12,App Review,4,payment deducted but order failed
+316,11218,2023-01-06,Email,3,delivery was late and support not helpful
+317,10400,2023-01-27,Email,5,refund pending from last week
+318,10639,2023-05-16,App Review,1,login issue cant access account
+319,12735,2023-05-04,App Review,1,payment deducted but order failed
+320,10459,2023-04-16,App Review,4,bad experience refund still not received
+321,10954,2023-04-03,App Review,5,login issue cant access account
+322,10469,2023-04-19,Email,3,customer service is terrible
+323,11045,2023-04-09,App Review,2,too many ads now hate it
+324,12797,2023-06-17,Email,4,too many ads now hate it
+325,11693,2023-05-22,Support Ticket,5,delivery was late and support not helpful
+326,12085,2023-02-04,App Review,5,price increased suddenly not fair
+327,12277,2023-06-25,App Review,5,login issue cant access account
+328,10562,2023-03-25,App Review,1,refund pending from last week
+329,12485,2023-02-25,Email,1,support team resolved issue quickly
+330,11799,2023-06-26,Email,4,awesome app easy to use
+331,12074,2023-05-21,App Review,5,checkout page not loading
+332,10225,2023-02-18,Email,2,very smooth experience no issues
+333,10797,2023-02-15,Support Ticket,1,everything works fine
+334,12331,2023-04-23,App Review,5,cant track my order properly
+335,12926,2023-05-16,App Review,1,login issue cant access account
+336,10959,2023-02-12,Support Ticket,2,app slow and buggy sometimes
+337,11504,2023-05-28,Email,3,app slow and buggy sometimes
+338,10452,2023-05-04,Support Ticket,4,delivery was late and support not helpful
+339,10815,2023-04-07,Email,4,refund pending from last week
+340,10658,2023-03-31,Support Ticket,2,cant track my order properly
+341,10546,2023-02-08,App Review,4,too many ads now hate it
+342,11215,2023-03-26,Email,4,support team resolved issue quickly
+343,10016,2023-06-26,Support Ticket,3,cant track my order properly
+344,11243,2023-03-03,Email,4,support team resolved issue quickly
+345,12205,2023-04-16,App Review,2,cant track my order properly
+346,12524,2023-04-17,App Review,1,great service very happy
+347,11069,2023-02-23,App Review,1,refund pending from last week
+348,12565,2023-05-06,App Review,1,great service very happy
+349,12146,2023-01-09,App Review,3,support team resolved issue quickly
+350,11768,2023-03-29,Email,5,price increased suddenly not fair
+351,11060,2023-02-06,Email,4,login issue cant access account
+352,12327,2023-02-18,App Review,5,price increased suddenly not fair
+353,12544,2023-02-10,Email,2,love the app but payment failed twice
+354,10301,2023-01-17,App Review,3,awesome app easy to use
+355,10180,2023-03-29,App Review,2,price increased suddenly not fair
+356,10606,2023-01-21,App Review,1,App crashes again after update
+357,10699,2023-02-20,Email,1,login issue cant access account
+358,10992,2023-02-28,App Review,4,everything works fine
+359,11139,2023-06-16,App Review,5,delivery was late and support not helpful
+360,10190,2023-02-10,App Review,1,refund pending from last week
+361,12300,2023-02-08,Support Ticket,1,checkout page not loading
+362,10980,2023-05-21,App Review,5,awesome app easy to use
+363,12975,2023-01-11,Email,2,refund pending from last week
+364,12006,2023-05-27,Email,5,everything works fine
+365,11184,2023-05-19,Email,4,everything works fine
+366,10127,2023-03-18,Support Ticket,5,order got cancelled automatically
+367,12065,2023-05-07,App Review,3,everything works fine
+368,11816,2023-02-15,App Review,4,customer service is terrible
+369,11758,2023-02-14,Support Ticket,3,frustrating experience will uninstall
+370,12613,2023-01-01,App Review,4,everything works fine
+371,10569,2023-06-17,Email,3,App crashes again after update
+372,11346,2023-04-18,Email,1,everything works fine
+373,11895,2023-01-19,Email,3,login issue cant access account
+374,12733,2023-03-17,Support Ticket,3,payment deducted but order failed
+375,10625,2023-03-13,Support Ticket,5,great service very happy
+376,12901,2023-04-19,Email,4,order got cancelled automatically
+377,11686,2023-01-12,App Review,4,payment deducted but order failed
+378,10154,2023-06-10,Support Ticket,1,price increased suddenly not fair
+379,12537,2023-02-14,App Review,4,app slow and buggy sometimes
+380,11409,2023-03-31,App Review,3,very smooth experience no issues
+381,10784,2023-04-13,Support Ticket,5,app slow and buggy sometimes
+382,10245,2023-01-08,App Review,5,cant track my order properly
+383,11500,2023-06-02,App Review,1,checkout page not loading
+384,11705,2023-04-01,App Review,5,app slow and buggy sometimes
+385,12806,2023-06-23,Support Ticket,1,everything works fine
+386,10537,2023-03-28,Email,2,frustrating experience will uninstall
+387,11890,2023-06-07,Email,3,order got cancelled automatically
+388,11841,2023-06-24,App Review,1,frustrating experience will uninstall
+389,10920,2023-06-26,Email,4,customer service is terrible
+390,12455,2023-06-24,Email,1,great service very happy
+391,10524,2023-03-25,App Review,1,love the app but payment failed twice
+392,12875,2023-03-23,App Review,4,awesome app easy to use
+393,11529,2023-05-26,App Review,4,delivery was late and support not helpful
+394,12950,2023-03-09,Support Ticket,5,cant track my order properly
+395,10035,2023-06-10,Email,4,price increased suddenly not fair
+396,10684,2023-05-07,Support Ticket,4,order got cancelled automatically
+397,10019,2023-06-13,App Review,2,bad experience refund still not received
+398,12368,2023-03-23,Email,1,everything works fine
+399,12559,2023-05-27,Email,1,support team resolved issue quickly
+400,10399,2023-06-05,Email,3,awesome app easy to use
+401,12701,2023-06-17,Support Ticket,4,support team resolved issue quickly
+402,10971,2023-03-25,App Review,3,support team resolved issue quickly
+403,11906,2023-04-23,App Review,4,refund pending from last week
+404,12518,2023-03-17,Email,3,customer service is terrible
+405,11166,2023-05-02,Email,1,order got cancelled automatically
+406,11115,2023-05-23,Email,1,cant track my order properly
+407,10833,2023-02-10,App Review,5,support team resolved issue quickly
+408,11823,2023-06-16,Email,4,awesome app easy to use
+409,12774,2023-01-02,App Review,5,login issue cant access account
+410,11982,2023-01-29,App Review,1,App crashes again after update
+411,10853,2023-04-15,Email,5,App crashes again after update
+412,10050,2023-02-20,Email,1,great service very happy
+413,10574,2023-03-16,App Review,1,support team resolved issue quickly
+414,11148,2023-01-10,App Review,5,very smooth experience no issues
+415,12197,2023-05-22,App Review,2,too many ads now hate it
+416,12361,2023-02-20,App Review,4,cant track my order properly
+417,12617,2023-04-28,Email,1,price increased suddenly not fair
+418,12352,2023-05-01,Support Ticket,4,awesome app easy to use
+419,11715,2023-02-08,App Review,5,too many ads now hate it
+420,10681,2023-01-28,Email,2,too many ads now hate it
+421,10837,2023-01-03,Support Ticket,4,bad experience refund still not received
+422,11077,2023-03-25,Support Ticket,1,payment deducted but order failed
+423,12491,2023-06-04,App Review,4,checkout page not loading
+424,12660,2023-04-27,Support Ticket,2,love the app but payment failed twice
+425,12311,2023-01-02,App Review,1,love the app but payment failed twice
+426,11595,2023-04-03,App Review,2,very smooth experience no issues
+427,10004,2023-06-15,App Review,1,too many ads now hate it
+428,11126,2023-05-11,App Review,5,too many ads now hate it
+429,11219,2023-05-24,App Review,2,price increased suddenly not fair
+430,10773,2023-04-04,App Review,1,awesome app easy to use
+431,10876,2023-02-09,App Review,3,checkout page not loading
+432,10991,2023-01-02,Support Ticket,2,frustrating experience will uninstall
+433,12931,2023-03-22,Support Ticket,4,customer service is terrible
+434,10046,2023-06-18,App Review,5,too many ads now hate it
+435,12914,2023-01-12,Support Ticket,3,order got cancelled automatically
+436,12870,2023-06-12,Support Ticket,5,support team resolved issue quickly
+437,12983,2023-03-06,Email,4,everything works fine
+438,12703,2023-02-24,App Review,1,checkout page not loading
+439,10268,2023-02-14,Email,4,great service very happy
+440,10369,2023-04-11,Support Ticket,3,too many ads now hate it
+441,10635,2023-03-03,Email,4,very smooth experience no issues
+442,11129,2023-02-18,App Review,5,payment deducted but order failed
+443,11693,2023-05-07,Email,3,customer service is terrible
+444,11682,2023-06-02,Email,5,frustrating experience will uninstall
+445,10656,2023-01-23,Email,5,order got cancelled automatically
+446,10119,2023-06-01,App Review,3,frustrating experience will uninstall
+447,10830,2023-02-07,App Review,4,support team resolved issue quickly
+448,11810,2023-01-28,Support Ticket,2,App crashes again after update
+449,11081,2023-01-21,Support Ticket,5,love the app but payment failed twice
+450,11974,2023-04-17,App Review,4,support team resolved issue quickly
+451,11369,2023-05-26,Support Ticket,1,everything works fine
+452,10740,2023-06-13,App Review,2,cant track my order properly
+453,10116,2023-04-09,Email,4,refund pending from last week
+454,11853,2023-06-22,Email,1,frustrating experience will uninstall
+455,12838,2023-04-29,Support Ticket,1,everything works fine
+456,11150,2023-03-14,Support Ticket,3,login issue cant access account
+457,11931,2023-05-02,App Review,2,bad experience refund still not received
+458,11012,2023-01-30,Support Ticket,3,very smooth experience no issues
+459,11664,2023-04-18,App Review,2,refund pending from last week
+460,11081,2023-04-08,Email,1,delivery was late and support not helpful
+461,10633,2023-02-01,Email,4,App crashes again after update
+462,10512,2023-06-05,Email,3,checkout page not loading
+463,12849,2023-06-21,App Review,1,frustrating experience will uninstall
+464,11119,2023-03-20,Support Ticket,2,price increased suddenly not fair
+465,11141,2023-02-10,App Review,4,love the app but payment failed twice
+466,10559,2023-03-04,App Review,1,too many ads now hate it
+467,10487,2023-01-23,Email,1,cant track my order properly
+468,10896,2023-04-14,App Review,1,support team resolved issue quickly
+469,11212,2023-03-16,Support Ticket,5,support team resolved issue quickly
+470,10703,2023-02-17,App Review,5,frustrating experience will uninstall
+471,11470,2023-06-09,App Review,5,support team resolved issue quickly
+472,10580,2023-02-26,Support Ticket,4,awesome app easy to use
+473,12837,2023-04-28,Email,4,cant track my order properly
+474,12908,2023-04-10,App Review,3,customer service is terrible
+475,12294,2023-05-04,Email,4,delivery was late and support not helpful
+476,10153,2023-06-10,Email,1,refund pending from last week
+477,11679,2023-06-01,Email,4,too many ads now hate it
+478,10996,2023-06-16,App Review,5,delivery was late and support not helpful
+479,12744,2023-02-03,Support Ticket,3,price increased suddenly not fair
+480,11243,2023-06-05,Support Ticket,2,bad experience refund still not received
+481,11092,2023-06-14,Email,2,refund pending from last week
+482,11008,2023-01-07,App Review,4,payment deducted but order failed
+483,12141,2023-06-14,Support Ticket,4,refund pending from last week
+484,11773,2023-02-25,Email,5,very smooth experience no issues
+485,10957,2023-03-06,Email,2,customer service is terrible
+486,10452,2023-02-16,App Review,5,too many ads now hate it
+487,11227,2023-05-28,Support Ticket,4,frustrating experience will uninstall
+488,12959,2023-01-19,Email,5,App crashes again after update
+489,12265,2023-06-06,App Review,3,very smooth experience no issues
+490,12521,2023-05-26,App Review,3,login issue cant access account
+491,12479,2023-06-12,Support Ticket,4,price increased suddenly not fair
+492,12388,2023-06-20,App Review,4,support team resolved issue quickly
+493,10550,2023-05-06,Support Ticket,5,delivery was late and support not helpful
+494,11635,2023-05-19,Email,1,order got cancelled automatically
+495,11312,2023-02-18,Email,1,frustrating experience will uninstall
+496,11757,2023-04-23,App Review,5,cant track my order properly
+497,10356,2023-02-07,App Review,3,great service very happy
+498,12070,2023-03-05,Support Ticket,4,app slow and buggy sometimes
+499,11785,2023-03-10,App Review,3,very smooth experience no issues
+500,12569,2023-05-16,Email,1,order got cancelled automatically
+501,11781,2023-06-11,App Review,5,too many ads now hate it
+502,12849,2023-06-25,App Review,4,love the app but payment failed twice
+503,12809,2023-04-26,App Review,2,awesome app easy to use
+504,12489,2023-03-06,Email,2,login issue cant access account
+505,11631,2023-01-31,Support Ticket,5,too many ads now hate it
+506,12816,2023-05-12,App Review,1,bad experience refund still not received
+507,11015,2023-04-23,App Review,5,everything works fine
+508,11348,2023-04-19,App Review,2,great service very happy
+509,10515,2023-06-27,Email,4,love the app but payment failed twice
+510,12839,2023-03-10,App Review,5,support team resolved issue quickly
+511,10335,2023-06-07,Support Ticket,4,too many ads now hate it
+512,11782,2023-04-30,Email,3,cant track my order properly
+513,12305,2023-03-29,Email,4,frustrating experience will uninstall
+514,10496,2023-03-08,App Review,2,bad experience refund still not received
+515,10895,2023-03-16,Support Ticket,2,delivery was late and support not helpful
+516,12207,2023-02-14,App Review,5,bad experience refund still not received
+517,10851,2023-01-04,App Review,5,price increased suddenly not fair
+518,11687,2023-06-03,Email,4,cant track my order properly
+519,11931,2023-06-04,Email,2,app slow and buggy sometimes
+520,12737,2023-06-23,App Review,1,checkout page not loading
+521,12427,2023-04-17,App Review,1,support team resolved issue quickly
+522,11568,2023-02-20,Email,4,App crashes again after update
+523,10956,2023-02-19,App Review,5,cant track my order properly
+524,12738,2023-01-06,Support Ticket,3,checkout page not loading
+525,11636,2023-02-28,Email,5,awesome app easy to use
+526,11291,2023-05-05,App Review,1,delivery was late and support not helpful
+527,11440,2023-05-23,App Review,2,payment deducted but order failed
+528,11191,2023-01-30,App Review,1,refund pending from last week
+529,11066,2023-06-19,Email,3,awesome app easy to use
+530,10284,2023-05-02,Email,1,refund pending from last week
+531,12444,2023-05-05,App Review,5,customer service is terrible
+532,10011,2023-02-06,Email,1,awesome app easy to use
+533,11630,2023-06-19,Support Ticket,5,everything works fine
+534,12546,2023-05-04,App Review,3,support team resolved issue quickly
+535,10753,2023-04-11,Support Ticket,5,great service very happy
+536,12082,2023-02-04,App Review,4,great service very happy
+537,12774,2023-03-28,App Review,5,payment deducted but order failed
+538,12896,2023-05-14,App Review,1,frustrating experience will uninstall
+539,10089,2023-01-18,App Review,4,bad experience refund still not received
+540,10775,2023-04-23,App Review,5,frustrating experience will uninstall
+541,12652,2023-01-29,App Review,1,checkout page not loading
+542,11625,2023-03-18,Support Ticket,1,love the app but payment failed twice
+543,10417,2023-02-28,Support Ticket,3,bad experience refund still not received
+544,10114,2023-06-24,Email,5,refund pending from last week
+545,10616,2023-05-06,App Review,3,login issue cant access account
+546,10825,2023-05-25,App Review,3,price increased suddenly not fair
+547,11649,2023-04-19,App Review,1,customer service is terrible
+548,11516,2023-01-22,Email,1,frustrating experience will uninstall
+549,10412,2023-03-09,Support Ticket,5,awesome app easy to use
+550,10728,2023-03-10,App Review,1,login issue cant access account
+551,12808,2023-06-14,App Review,4,order got cancelled automatically
+552,10675,2023-02-18,Email,5,very smooth experience no issues
+553,11892,2023-05-21,App Review,1,checkout page not loading
+554,12504,2023-06-11,App Review,4,refund pending from last week
+555,12967,2023-04-19,Email,1,awesome app easy to use
+556,12239,2023-03-27,Email,4,awesome app easy to use
+557,12786,2023-02-22,App Review,1,great service very happy
+558,11122,2023-05-03,App Review,4,customer service is terrible
+559,11571,2023-03-28,Support Ticket,2,great service very happy
+560,10977,2023-06-28,App Review,3,delivery was late and support not helpful
+561,11008,2023-05-11,App Review,4,frustrating experience will uninstall
+562,12143,2023-02-11,App Review,1,support team resolved issue quickly
+563,11687,2023-04-08,App Review,4,support team resolved issue quickly
+564,12710,2023-06-09,App Review,2,bad experience refund still not received
+565,10036,2023-04-19,Support Ticket,4,awesome app easy to use
+566,11548,2023-02-20,App Review,1,payment deducted but order failed
+567,12326,2023-03-26,App Review,4,App crashes again after update
+568,12264,2023-06-23,Email,1,checkout page not loading
+569,12914,2023-05-07,Email,3,App crashes again after update
+570,10872,2023-01-21,Support Ticket,1,price increased suddenly not fair
+571,11821,2023-02-13,Support Ticket,4,customer service is terrible
+572,11296,2023-05-19,App Review,2,checkout page not loading
+573,12109,2023-04-13,Email,5,support team resolved issue quickly
+574,10595,2023-03-09,App Review,5,very smooth experience no issues
+575,11903,2023-05-09,Support Ticket,1,everything works fine
+576,10728,2023-04-02,App Review,4,checkout page not loading
+577,11365,2023-01-24,Support Ticket,1,great service very happy
+578,10396,2023-05-05,Email,2,delivery was late and support not helpful
+579,10698,2023-05-21,App Review,4,login issue cant access account
+580,12224,2023-04-21,Email,4,app slow and buggy sometimes
+581,11635,2023-04-08,Support Ticket,4,awesome app easy to use
+582,10395,2023-05-19,Support Ticket,2,login issue cant access account
+583,12492,2023-06-28,App Review,2,great service very happy
+584,10075,2023-01-17,Email,1,awesome app easy to use
+585,10264,2023-04-09,App Review,4,frustrating experience will uninstall
+586,12502,2023-03-23,App Review,3,frustrating experience will uninstall
+587,11819,2023-04-14,App Review,4,awesome app easy to use
+588,10717,2023-06-01,App Review,1,app slow and buggy sometimes
+589,12782,2023-01-19,Support Ticket,2,refund pending from last week
+590,10850,2023-06-14,App Review,2,app slow and buggy sometimes
+591,11390,2023-03-26,Support Ticket,1,order got cancelled automatically
+592,10143,2023-01-08,App Review,2,refund pending from last week
+593,10884,2023-01-28,App Review,5,delivery was late and support not helpful
+594,10395,2023-01-05,App Review,5,customer service is terrible
+595,12995,2023-05-25,App Review,3,cant track my order properly
+596,12938,2023-04-11,App Review,3,support team resolved issue quickly
+597,11492,2023-06-13,App Review,1,login issue cant access account
+598,11167,2023-04-28,Email,5,customer service is terrible
+599,12616,2023-05-27,App Review,1,app slow and buggy sometimes
+600,11062,2023-03-05,App Review,5,support team resolved issue quickly
+601,12156,2023-04-01,App Review,3,login issue cant access account
+602,11065,2023-04-27,Support Ticket,2,customer service is terrible
+603,11209,2023-04-08,Support Ticket,5,support team resolved issue quickly
+604,12982,2023-01-11,App Review,1,order got cancelled automatically
+605,12445,2023-02-23,App Review,4,frustrating experience will uninstall
+606,10633,2023-06-22,App Review,3,login issue cant access account
+607,11156,2023-02-16,Support Ticket,1,payment deducted but order failed
+608,11238,2023-05-20,App Review,3,price increased suddenly not fair
+609,10732,2023-05-29,App Review,4,login issue cant access account
+610,10234,2023-05-19,App Review,4,everything works fine
+611,12705,2023-01-05,App Review,1,frustrating experience will uninstall
+612,10750,2023-01-20,App Review,5,very smooth experience no issues
+613,12635,2023-06-18,Email,1,login issue cant access account
+614,10953,2023-02-15,App Review,1,price increased suddenly not fair
+615,12539,2023-01-12,Email,2,login issue cant access account
+616,12960,2023-03-11,App Review,1,too many ads now hate it
+617,11542,2023-01-17,App Review,1,support team resolved issue quickly
+618,11197,2023-04-25,Support Ticket,5,cant track my order properly
+619,11676,2023-05-27,App Review,2,login issue cant access account
+620,11191,2023-06-03,Support Ticket,1,price increased suddenly not fair
+621,12217,2023-02-17,Email,1,order got cancelled automatically
+622,11416,2023-04-18,App Review,4,order got cancelled automatically
+623,12993,2023-02-21,Support Ticket,5,customer service is terrible
+624,12842,2023-04-06,App Review,2,delivery was late and support not helpful
+625,12681,2023-03-11,Support Ticket,1,price increased suddenly not fair
+626,11217,2023-04-12,App Review,1,order got cancelled automatically
+627,11540,2023-03-16,Support Ticket,1,cant track my order properly
+628,12076,2023-06-10,App Review,1,checkout page not loading
+629,11445,2023-05-31,Email,3,app slow and buggy sometimes
+630,12386,2023-05-23,Email,1,delivery was late and support not helpful
+631,11519,2023-06-04,Support Ticket,3,delivery was late and support not helpful
+632,11388,2023-06-28,Support Ticket,2,refund pending from last week
+633,11856,2023-03-23,Support Ticket,5,customer service is terrible
+634,11365,2023-04-02,Support Ticket,5,login issue cant access account
+635,10499,2023-06-28,App Review,4,very smooth experience no issues
+636,11680,2023-06-24,App Review,2,refund pending from last week
+637,10510,2023-01-04,App Review,2,bad experience refund still not received
+638,10216,2023-05-15,App Review,3,bad experience refund still not received
+639,11324,2023-04-19,App Review,4,checkout page not loading
+640,11155,2023-06-12,Email,3,love the app but payment failed twice
+641,11827,2023-02-17,App Review,5,App crashes again after update
+642,11810,2023-03-14,Email,5,order got cancelled automatically
+643,12492,2023-03-13,App Review,2,login issue cant access account
+644,12923,2023-04-26,App Review,4,customer service is terrible
+645,11205,2023-06-22,Email,1,great service very happy
+646,12214,2023-03-22,Email,1,everything works fine
+647,10090,2023-03-22,Email,3,login issue cant access account
+648,10713,2023-04-23,Email,1,refund pending from last week
+649,11881,2023-04-06,App Review,5,delivery was late and support not helpful
+650,10038,2023-03-13,Email,1,love the app but payment failed twice
+651,10172,2023-05-27,App Review,3,order got cancelled automatically
+652,10652,2023-03-04,App Review,4,customer service is terrible
+653,10753,2023-02-07,App Review,4,price increased suddenly not fair
+654,11243,2023-03-08,App Review,2,checkout page not loading
+655,11081,2023-03-10,App Review,5,awesome app easy to use
+656,11683,2023-01-13,Support Ticket,4,login issue cant access account
+657,12523,2023-06-24,Support Ticket,3,support team resolved issue quickly
+658,10455,2023-01-31,App Review,1,too many ads now hate it
+659,10828,2023-04-24,App Review,3,checkout page not loading
+660,10894,2023-01-22,App Review,5,checkout page not loading
+661,11384,2023-04-03,App Review,4,refund pending from last week
+662,11958,2023-06-20,Support Ticket,5,refund pending from last week
+663,12434,2023-03-08,App Review,3,refund pending from last week
+664,11996,2023-02-23,Email,1,bad experience refund still not received
+665,12395,2023-05-18,App Review,1,bad experience refund still not received
+666,10189,2023-02-11,Support Ticket,2,awesome app easy to use
+667,10504,2023-03-05,App Review,4,awesome app easy to use
+668,11214,2023-05-06,Email,5,checkout page not loading
+669,11531,2023-01-21,App Review,2,refund pending from last week
+670,10823,2023-06-18,Email,3,App crashes again after update
+671,10928,2023-06-01,App Review,3,app slow and buggy sometimes
+672,10933,2023-02-04,App Review,3,frustrating experience will uninstall
+673,11140,2023-01-30,Support Ticket,1,app slow and buggy sometimes
+674,10133,2023-02-26,Support Ticket,1,app slow and buggy sometimes
+675,12105,2023-02-16,Support Ticket,1,delivery was late and support not helpful
+676,10684,2023-06-12,Email,1,price increased suddenly not fair
+677,12719,2023-01-19,Support Ticket,1,App crashes again after update
+678,12220,2023-04-24,App Review,1,App crashes again after update
+679,11852,2023-01-08,App Review,4,bad experience refund still not received
+680,10814,2023-01-26,App Review,2,login issue cant access account
+681,11172,2023-04-23,Email,5,support team resolved issue quickly
+682,10079,2023-03-12,App Review,1,customer service is terrible
+683,12933,2023-01-30,App Review,2,great service very happy
+684,10202,2023-05-15,Email,2,delivery was late and support not helpful
+685,12811,2023-03-08,Support Ticket,1,payment deducted but order failed
+686,11252,2023-03-06,App Review,5,checkout page not loading
+687,11699,2023-02-05,App Review,1,everything works fine
+688,11250,2023-01-25,App Review,5,cant track my order properly
+689,11682,2023-02-06,App Review,5,payment deducted but order failed
+690,11555,2023-01-01,App Review,3,frustrating experience will uninstall
+691,12094,2023-05-23,Email,3,everything works fine
+692,11256,2023-02-06,Email,4,order got cancelled automatically
+693,11549,2023-05-21,Email,2,great service very happy
+694,11166,2023-05-16,App Review,4,cant track my order properly
+695,11396,2023-05-13,Support Ticket,1,frustrating experience will uninstall
+696,12703,2023-05-08,App Review,1,App crashes again after update
+697,10470,2023-05-07,App Review,3,app slow and buggy sometimes
+698,11035,2023-01-01,Support Ticket,3,price increased suddenly not fair
+699,11353,2023-06-13,App Review,5,price increased suddenly not fair
+700,12783,2023-02-04,App Review,1,everything works fine
+701,12831,2023-04-14,Support Ticket,5,too many ads now hate it
+702,10967,2023-01-23,App Review,1,very smooth experience no issues
+703,10357,2023-01-09,Email,2,login issue cant access account
+704,10667,2023-02-03,App Review,2,customer service is terrible
+705,10372,2023-06-23,Email,3,support team resolved issue quickly
+706,11031,2023-05-08,App Review,1,app slow and buggy sometimes
+707,11145,2023-01-04,App Review,3,app slow and buggy sometimes
+708,11371,2023-06-07,Email,5,app slow and buggy sometimes
+709,12723,2023-04-12,App Review,3,frustrating experience will uninstall
+710,10089,2023-03-16,App Review,3,customer service is terrible
+711,12745,2023-04-09,App Review,5,App crashes again after update
+712,10539,2023-03-13,App Review,4,order got cancelled automatically
+713,12779,2023-01-03,App Review,3,refund pending from last week
+714,10868,2023-05-22,App Review,2,everything works fine
+715,10040,2023-06-22,Support Ticket,5,order got cancelled automatically
+716,10739,2023-02-03,App Review,4,refund pending from last week
+717,11946,2023-02-14,App Review,1,price increased suddenly not fair
+718,12549,2023-03-02,App Review,2,support team resolved issue quickly
+719,11224,2023-03-24,App Review,5,price increased suddenly not fair
+720,10928,2023-05-03,Support Ticket,1,cant track my order properly
+721,12036,2023-04-12,App Review,5,order got cancelled automatically
+722,12508,2023-01-16,Support Ticket,1,everything works fine
+723,12779,2023-03-07,App Review,5,login issue cant access account
+724,12799,2023-06-17,Email,2,order got cancelled automatically
+725,10924,2023-05-25,Email,3,App crashes again after update
+726,12956,2023-04-29,Support Ticket,5,great service very happy
+727,11581,2023-06-11,Email,3,too many ads now hate it
+728,10389,2023-05-04,Email,3,delivery was late and support not helpful
+729,11617,2023-05-24,App Review,1,customer service is terrible
+730,12930,2023-04-12,App Review,1,great service very happy
+731,10255,2023-03-07,Support Ticket,1,great service very happy
+732,10708,2023-01-13,App Review,4,very smooth experience no issues
+733,11838,2023-04-21,App Review,1,love the app but payment failed twice
+734,11944,2023-06-08,Email,1,customer service is terrible
+735,12497,2023-02-03,App Review,3,too many ads now hate it
+736,10009,2023-02-08,Support Ticket,4,awesome app easy to use
+737,12871,2023-05-16,Email,4,awesome app easy to use
+738,10797,2023-04-30,Email,1,customer service is terrible
+739,10876,2023-05-06,Support Ticket,1,frustrating experience will uninstall
+740,11028,2023-02-24,App Review,5,cant track my order properly
+741,11015,2023-01-27,App Review,2,very smooth experience no issues
+742,11824,2023-04-28,App Review,5,app slow and buggy sometimes
+743,10373,2023-02-22,App Review,5,refund pending from last week
+744,12193,2023-02-08,Email,5,delivery was late and support not helpful
+745,10223,2023-03-06,Support Ticket,1,love the app but payment failed twice
+746,11262,2023-05-25,App Review,5,support team resolved issue quickly
+747,12224,2023-06-07,App Review,5,payment deducted but order failed
+748,11802,2023-01-13,Support Ticket,4,payment deducted but order failed
+749,10852,2023-01-21,App Review,2,app slow and buggy sometimes
+750,10062,2023-05-27,App Review,2,refund pending from last week
+751,11240,2023-02-22,App Review,1,support team resolved issue quickly
+752,12874,2023-01-19,Support Ticket,3,frustrating experience will uninstall
+753,12842,2023-02-26,Email,4,app slow and buggy sometimes
+754,10688,2023-01-25,Email,2,support team resolved issue quickly
+755,11484,2023-01-31,Support Ticket,3,great service very happy
+756,11633,2023-03-22,App Review,2,price increased suddenly not fair
+757,12152,2023-01-23,App Review,4,payment deducted but order failed
+758,10510,2023-02-01,Support Ticket,5,App crashes again after update
+759,10384,2023-03-15,App Review,1,app slow and buggy sometimes
+760,10404,2023-01-10,Email,2,App crashes again after update
+761,12870,2023-02-23,Support Ticket,1,login issue cant access account
+762,10517,2023-02-21,Email,4,refund pending from last week
+763,10475,2023-05-28,Email,4,great service very happy
+764,12000,2023-06-09,Support Ticket,5,order got cancelled automatically
+765,12756,2023-04-24,Support Ticket,2,too many ads now hate it
+766,11668,2023-01-14,App Review,5,customer service is terrible
+767,11893,2023-06-27,App Review,1,payment deducted but order failed
+768,12818,2023-06-05,App Review,4,app slow and buggy sometimes
+769,11460,2023-04-20,Email,1,awesome app easy to use
+770,12724,2023-02-22,App Review,5,login issue cant access account
+771,10713,2023-06-01,Email,3,delivery was late and support not helpful
+772,10082,2023-03-20,App Review,4,very smooth experience no issues
+773,11168,2023-01-22,Email,5,everything works fine
+774,12504,2023-01-30,App Review,1,very smooth experience no issues
+775,11901,2023-01-04,Email,1,customer service is terrible
+776,12048,2023-02-28,Email,5,too many ads now hate it
+777,10050,2023-01-08,App Review,2,love the app but payment failed twice
+778,10684,2023-01-12,App Review,1,delivery was late and support not helpful
+779,10716,2023-04-29,Email,3,frustrating experience will uninstall
+780,11469,2023-06-08,App Review,4,great service very happy
+781,10448,2023-02-03,App Review,1,payment deducted but order failed
+782,10880,2023-03-23,Support Ticket,2,love the app but payment failed twice
+783,10487,2023-04-08,Email,1,love the app but payment failed twice
+784,11823,2023-05-07,Support Ticket,3,great service very happy
+785,12081,2023-03-16,App Review,5,payment deducted but order failed
+786,12142,2023-04-15,App Review,5,love the app but payment failed twice
+787,11574,2023-02-18,Support Ticket,4,cant track my order properly
+788,12201,2023-03-20,Email,1,price increased suddenly not fair
+789,10249,2023-04-03,Email,5,frustrating experience will uninstall
+790,10673,2023-06-03,App Review,3,app slow and buggy sometimes
+791,10437,2023-01-18,App Review,1,delivery was late and support not helpful
+792,12165,2023-04-06,App Review,5,bad experience refund still not received
+793,10770,2023-02-07,App Review,5,checkout page not loading
+794,10267,2023-03-28,App Review,4,everything works fine
+795,11984,2023-03-29,App Review,4,bad experience refund still not received
+796,11077,2023-02-19,Support Ticket,1,frustrating experience will uninstall
+797,10235,2023-01-08,App Review,1,support team resolved issue quickly
+798,10388,2023-06-18,Email,4,customer service is terrible
+799,10762,2023-05-14,Support Ticket,1,too many ads now hate it
+800,11848,2023-03-10,Email,3,bad experience refund still not received
+801,12448,2023-06-21,App Review,5,support team resolved issue quickly
+802,10623,2023-05-01,Email,5,cant track my order properly
+803,12814,2023-03-05,Email,3,support team resolved issue quickly
+804,12966,2023-06-06,Email,5,too many ads now hate it
+805,11252,2023-06-05,Email,5,everything works fine
+806,12900,2023-05-19,Support Ticket,4,refund pending from last week
+807,10577,2023-05-01,Email,1,awesome app easy to use
+808,12122,2023-03-06,App Review,2,love the app but payment failed twice
+809,10434,2023-04-17,Email,2,great service very happy
+810,12150,2023-05-27,App Review,1,checkout page not loading
+811,10763,2023-05-17,Support Ticket,2,refund pending from last week
+812,12785,2023-06-04,App Review,1,customer service is terrible
+813,12853,2023-06-11,App Review,3,refund pending from last week
+814,11329,2023-06-21,Support Ticket,5,support team resolved issue quickly
+815,12145,2023-04-10,Email,1,awesome app easy to use
+816,12845,2023-03-23,App Review,4,login issue cant access account
+817,11358,2023-05-23,App Review,4,refund pending from last week
+818,12906,2023-02-20,Support Ticket,1,too many ads now hate it
+819,12482,2023-05-21,App Review,5,awesome app easy to use
+820,10446,2023-03-24,Support Ticket,4,frustrating experience will uninstall
+821,12017,2023-06-26,App Review,2,price increased suddenly not fair
+822,11331,2023-04-22,Email,5,delivery was late and support not helpful
+823,10248,2023-02-25,Support Ticket,2,price increased suddenly not fair
+824,10165,2023-06-28,App Review,4,App crashes again after update
+825,11358,2023-06-14,App Review,1,order got cancelled automatically
+826,11019,2023-05-25,App Review,5,everything works fine
+827,10541,2023-06-06,Email,3,great service very happy
+828,10758,2023-06-10,Email,4,frustrating experience will uninstall
+829,12128,2023-03-01,Email,1,customer service is terrible
+830,12180,2023-04-30,App Review,4,login issue cant access account
+831,10796,2023-05-18,App Review,5,login issue cant access account
+832,12947,2023-06-24,App Review,3,checkout page not loading
+833,10137,2023-01-23,App Review,4,checkout page not loading
+834,12231,2023-05-29,Email,3,delivery was late and support not helpful
+835,11353,2023-01-13,Support Ticket,5,awesome app easy to use
+836,12832,2023-04-11,Email,3,refund pending from last week
+837,11875,2023-06-10,App Review,5,checkout page not loading
+838,10068,2023-01-24,Support Ticket,5,support team resolved issue quickly
+839,12593,2023-04-18,Email,3,refund pending from last week
+840,12100,2023-01-11,Support Ticket,1,great service very happy
+841,11473,2023-01-17,Email,3,payment deducted but order failed
+842,10204,2023-06-24,App Review,5,price increased suddenly not fair
+843,12173,2023-01-25,App Review,1,great service very happy
+844,10042,2023-04-04,Email,3,payment deducted but order failed
+845,11906,2023-01-21,App Review,5,great service very happy
+846,12158,2023-03-25,App Review,2,order got cancelled automatically
+847,10760,2023-05-20,Email,4,bad experience refund still not received
+848,12895,2023-02-06,Email,1,awesome app easy to use
+849,12142,2023-02-11,Email,1,everything works fine
+850,11994,2023-05-25,App Review,5,delivery was late and support not helpful
+851,11935,2023-04-11,App Review,1,order got cancelled automatically
+852,10899,2023-02-17,Email,2,very smooth experience no issues
+853,10359,2023-04-13,Support Ticket,5,order got cancelled automatically
+854,12947,2023-01-28,Email,2,app slow and buggy sometimes
+855,11719,2023-02-10,Support Ticket,5,checkout page not loading
+856,10280,2023-04-09,Email,5,everything works fine
+857,11887,2023-02-16,Email,2,checkout page not loading
+858,10666,2023-05-26,App Review,1,cant track my order properly
+859,10092,2023-04-15,Email,4,refund pending from last week
+860,10671,2023-05-04,Email,3,customer service is terrible
+861,11969,2023-01-13,Email,1,checkout page not loading
+862,10060,2023-05-21,App Review,4,checkout page not loading
+863,12681,2023-04-10,Email,1,customer service is terrible
+864,11028,2023-01-31,App Review,5,order got cancelled automatically
+865,11489,2023-05-10,Email,1,login issue cant access account
+866,10603,2023-01-16,App Review,1,very smooth experience no issues
+867,10681,2023-05-17,Support Ticket,1,delivery was late and support not helpful
+868,12581,2023-03-14,App Review,5,app slow and buggy sometimes
+869,11428,2023-06-15,App Review,4,great service very happy
+870,12885,2023-02-23,App Review,5,love the app but payment failed twice
+871,12692,2023-04-10,Email,2,everything works fine
+872,12280,2023-04-19,App Review,2,cant track my order properly
+873,10523,2023-03-28,App Review,1,very smooth experience no issues
+874,12393,2023-06-22,Email,3,love the app but payment failed twice
+875,12593,2023-06-11,App Review,4,too many ads now hate it
+876,11968,2023-05-17,Support Ticket,4,refund pending from last week
+877,11101,2023-01-08,Support Ticket,2,bad experience refund still not received
+878,11753,2023-01-07,Email,5,cant track my order properly
+879,11836,2023-02-05,App Review,1,everything works fine
+880,12841,2023-01-18,Email,5,checkout page not loading
+881,12296,2023-01-03,App Review,1,love the app but payment failed twice
+882,12094,2023-01-28,App Review,3,frustrating experience will uninstall
+883,11144,2023-03-11,App Review,2,too many ads now hate it
+884,12261,2023-06-21,Support Ticket,3,customer service is terrible
+885,12286,2023-05-29,App Review,4,frustrating experience will uninstall
+886,11079,2023-01-28,Email,3,love the app but payment failed twice
+887,12397,2023-02-23,Email,3,very smooth experience no issues
+888,10106,2023-03-06,App Review,4,everything works fine
+889,12878,2023-04-10,App Review,4,everything works fine
+890,10047,2023-01-21,Support Ticket,5,bad experience refund still not received
+891,10336,2023-01-13,Email,1,App crashes again after update
+892,11049,2023-02-26,Email,4,delivery was late and support not helpful
+893,12851,2023-02-18,App Review,4,cant track my order properly
+894,11280,2023-04-28,App Review,2,cant track my order properly
+895,12055,2023-02-23,App Review,3,delivery was late and support not helpful
+896,10624,2023-05-18,App Review,2,everything works fine
+897,11890,2023-02-22,App Review,1,customer service is terrible
+898,11276,2023-02-13,Support Ticket,1,very smooth experience no issues
+899,11715,2023-02-16,App Review,1,App crashes again after update
+900,12766,2023-02-22,App Review,4,support team resolved issue quickly
+901,10302,2023-03-15,Email,4,order got cancelled automatically
+902,10638,2023-02-15,Email,5,app slow and buggy sometimes
+903,10055,2023-01-13,App Review,4,checkout page not loading
+904,10725,2023-06-14,Email,1,everything works fine
+905,10525,2023-04-12,App Review,5,login issue cant access account
+906,10473,2023-01-24,App Review,5,everything works fine
+907,10027,2023-01-02,App Review,3,awesome app easy to use
+908,12125,2023-03-22,Support Ticket,4,support team resolved issue quickly
+909,10364,2023-04-10,App Review,5,app slow and buggy sometimes
+910,12713,2023-05-22,App Review,3,frustrating experience will uninstall
+911,10525,2023-05-18,App Review,5,frustrating experience will uninstall
+912,12746,2023-06-12,Support Ticket,1,bad experience refund still not received
+913,11335,2023-06-02,App Review,1,too many ads now hate it
+914,10882,2023-05-11,App Review,3,bad experience refund still not received
+915,11030,2023-04-21,App Review,4,great service very happy
+916,11026,2023-04-12,App Review,5,support team resolved issue quickly
+917,11646,2023-01-17,Email,5,very smooth experience no issues
+918,10918,2023-01-12,Email,2,price increased suddenly not fair
+919,12797,2023-04-26,App Review,1,great service very happy
+920,12410,2023-01-24,App Review,5,payment deducted but order failed
+921,11774,2023-01-29,App Review,4,payment deducted but order failed
+922,11531,2023-06-20,App Review,1,cant track my order properly
+923,12853,2023-06-02,App Review,3,refund pending from last week
+924,12786,2023-05-02,Email,4,price increased suddenly not fair
+925,11906,2023-03-31,Support Ticket,5,checkout page not loading
+926,11215,2023-03-06,Support Ticket,3,everything works fine
+927,11654,2023-03-25,Support Ticket,2,very smooth experience no issues
+928,10484,2023-04-29,Email,5,very smooth experience no issues
+929,12075,2023-06-05,Email,4,checkout page not loading
+930,10713,2023-01-16,App Review,3,app slow and buggy sometimes
+931,11062,2023-06-24,Email,2,login issue cant access account
+932,11976,2023-04-14,App Review,4,checkout page not loading
+933,11296,2023-04-02,App Review,1,very smooth experience no issues
+934,11254,2023-01-27,Email,1,refund pending from last week
+935,12133,2023-06-19,App Review,3,awesome app easy to use
+936,10125,2023-06-24,App Review,2,customer service is terrible
+937,12859,2023-06-11,Support Ticket,4,delivery was late and support not helpful
+938,10536,2023-06-14,App Review,1,checkout page not loading
+939,12192,2023-05-14,App Review,4,very smooth experience no issues
+940,12072,2023-05-15,Support Ticket,2,customer service is terrible
+941,11603,2023-06-02,Email,1,cant track my order properly
+942,10066,2023-02-02,Email,1,frustrating experience will uninstall
+943,10232,2023-02-24,App Review,5,order got cancelled automatically
+944,12156,2023-01-07,App Review,5,checkout page not loading
+945,11169,2023-02-26,Support Ticket,1,love the app but payment failed twice
+946,12158,2023-05-06,Email,5,app slow and buggy sometimes
+947,12275,2023-01-12,Email,4,App crashes again after update
+948,10110,2023-01-16,App Review,5,too many ads now hate it
+949,11493,2023-02-12,App Review,2,love the app but payment failed twice
+950,12081,2023-04-27,Support Ticket,4,everything works fine
+951,10622,2023-05-15,App Review,1,bad experience refund still not received
+952,12795,2023-04-21,Email,2,frustrating experience will uninstall
+953,12642,2023-02-20,App Review,5,love the app but payment failed twice
+954,12472,2023-06-09,Email,3,price increased suddenly not fair
+955,12660,2023-03-16,Support Ticket,2,price increased suddenly not fair
+956,11541,2023-01-08,Email,1,login issue cant access account
+957,12739,2023-02-14,App Review,4,delivery was late and support not helpful
+958,11305,2023-02-28,Email,4,too many ads now hate it
+959,11761,2023-05-12,Email,2,customer service is terrible
+960,11975,2023-04-14,App Review,5,app slow and buggy sometimes
+961,12362,2023-06-06,Support Ticket,1,bad experience refund still not received
+962,10876,2023-06-06,Email,2,cant track my order properly
+963,11989,2023-04-08,Support Ticket,5,app slow and buggy sometimes
+964,11312,2023-06-05,Email,2,refund pending from last week
+965,11460,2023-03-20,App Review,2,support team resolved issue quickly
+966,12709,2023-05-04,App Review,3,payment deducted but order failed
+967,12324,2023-06-21,App Review,5,checkout page not loading
+968,11733,2023-01-04,Support Ticket,1,payment deducted but order failed
+969,11605,2023-03-31,Email,5,order got cancelled automatically
+970,11526,2023-04-14,Email,5,delivery was late and support not helpful
+971,12671,2023-05-17,App Review,1,love the app but payment failed twice
+972,12563,2023-04-29,App Review,4,payment deducted but order failed
+973,12890,2023-05-13,Email,2,checkout page not loading
+974,12397,2023-02-25,App Review,3,love the app but payment failed twice
+975,11630,2023-04-06,App Review,5,awesome app easy to use
+976,12870,2023-06-27,Email,5,payment deducted but order failed
+977,11160,2023-03-16,App Review,1,payment deducted but order failed
+978,10758,2023-05-23,App Review,3,frustrating experience will uninstall
+979,12946,2023-02-01,App Review,3,payment deducted but order failed
+980,10242,2023-01-28,App Review,2,everything works fine
+981,12590,2023-01-22,Support Ticket,2,App crashes again after update
+982,11063,2023-01-17,App Review,1,great service very happy
+983,10228,2023-02-28,App Review,4,app slow and buggy sometimes
+984,12595,2023-03-31,App Review,3,app slow and buggy sometimes
+985,10919,2023-04-16,Email,1,refund pending from last week
+986,11246,2023-01-26,App Review,5,delivery was late and support not helpful
+987,10005,2023-01-25,Email,5,bad experience refund still not received
+988,10467,2023-05-18,App Review,3,delivery was late and support not helpful
+989,11755,2023-02-14,App Review,2,checkout page not loading
+990,10074,2023-03-24,App Review,4,cant track my order properly
+991,10003,2023-01-11,Support Ticket,2,everything works fine
+992,11870,2023-04-14,Support Ticket,1,great service very happy
+993,10645,2023-03-09,App Review,4,frustrating experience will uninstall
+994,10117,2023-04-05,Email,1,delivery was late and support not helpful
+995,12928,2023-06-05,Support Ticket,1,payment deducted but order failed
+996,11629,2023-03-06,App Review,1,checkout page not loading
+997,12551,2023-02-18,Support Ticket,1,too many ads now hate it
+998,12021,2023-06-24,App Review,1,app slow and buggy sometimes
+999,10946,2023-02-21,Support Ticket,5,order got cancelled automatically
+1000,12621,2023-04-12,Email,2,payment deducted but order failed
+1001,11464,2023-02-26,Support Ticket,1,everything works fine
+1002,10193,2023-02-16,Email,1,order got cancelled automatically
+1003,10846,2023-06-08,App Review,5,bad experience refund still not received
+1004,12762,2023-06-23,Support Ticket,3,refund pending from last week
+1005,11415,2023-01-26,App Review,2,frustrating experience will uninstall
+1006,11458,2023-04-24,App Review,5,bad experience refund still not received
+1007,12220,2023-01-05,Email,2,refund pending from last week
+1008,11668,2023-03-25,Email,2,bad experience refund still not received
+1009,12373,2023-02-21,Support Ticket,1,too many ads now hate it
+1010,11433,2023-04-15,App Review,2,support team resolved issue quickly
+1011,11141,2023-02-23,Email,2,very smooth experience no issues
+1012,12883,2023-06-10,Email,4,price increased suddenly not fair
+1013,11810,2023-06-27,App Review,2,bad experience refund still not received
+1014,10723,2023-06-15,App Review,4,great service very happy
+1015,10224,2023-06-04,App Review,1,too many ads now hate it
+1016,10531,2023-01-15,App Review,1,great service very happy
+1017,10112,2023-03-02,Support Ticket,3,everything works fine
+1018,12187,2023-05-02,Email,5,price increased suddenly not fair
+1019,10558,2023-01-21,Email,2,support team resolved issue quickly
+1020,12048,2023-02-15,Support Ticket,4,awesome app easy to use
+1021,12137,2023-05-14,App Review,2,bad experience refund still not received
+1022,10653,2023-02-07,Support Ticket,1,support team resolved issue quickly
+1023,10319,2023-03-03,App Review,1,login issue cant access account
+1024,11573,2023-03-27,Support Ticket,2,price increased suddenly not fair
+1025,11828,2023-03-19,App Review,1,awesome app easy to use
+1026,11917,2023-02-15,Support Ticket,1,everything works fine
+1027,10138,2023-05-21,App Review,5,awesome app easy to use
+1028,12892,2023-01-03,App Review,1,great service very happy
+1029,12026,2023-01-06,Email,4,everything works fine
+1030,12306,2023-04-03,App Review,2,login issue cant access account
+1031,10901,2023-01-08,Email,3,too many ads now hate it
+1032,10689,2023-06-21,App Review,4,everything works fine
+1033,12039,2023-04-18,Email,2,order got cancelled automatically
+1034,10009,2023-06-10,App Review,2,app slow and buggy sometimes
+1035,10260,2023-03-16,App Review,4,everything works fine
+1036,11942,2023-03-18,App Review,5,payment deducted but order failed
+1037,11673,2023-02-19,App Review,1,awesome app easy to use
+1038,12219,2023-01-11,App Review,1,app slow and buggy sometimes
+1039,12945,2023-04-05,App Review,5,payment deducted but order failed
+1040,12060,2023-06-05,App Review,2,love the app but payment failed twice
+1041,11191,2023-03-11,App Review,4,love the app but payment failed twice
+1042,11619,2023-06-18,Email,2,checkout page not loading
+1043,10320,2023-01-16,Support Ticket,1,payment deducted but order failed
+1044,11342,2023-03-09,App Review,4,frustrating experience will uninstall
+1045,11636,2023-04-09,Email,3,checkout page not loading
+1046,12376,2023-02-17,Email,1,awesome app easy to use
+1047,12832,2023-03-05,App Review,3,login issue cant access account
+1048,12824,2023-03-31,Email,5,app slow and buggy sometimes
+1049,11994,2023-03-17,App Review,4,frustrating experience will uninstall
+1050,12958,2023-05-19,Email,1,app slow and buggy sometimes
+1051,11943,2023-04-11,App Review,3,cant track my order properly
+1052,12038,2023-03-30,Email,4,awesome app easy to use
+1053,11118,2023-01-18,Email,5,checkout page not loading
+1054,11604,2023-01-19,App Review,4,bad experience refund still not received
+1055,12365,2023-02-24,App Review,1,frustrating experience will uninstall
+1056,10235,2023-04-12,Support Ticket,4,order got cancelled automatically
+1057,11969,2023-04-28,App Review,4,love the app but payment failed twice
+1058,10333,2023-06-03,Email,1,delivery was late and support not helpful
+1059,11908,2023-05-14,Support Ticket,3,bad experience refund still not received
+1060,10375,2023-01-04,Email,2,App crashes again after update
+1061,11160,2023-04-18,Email,4,awesome app easy to use
+1062,12635,2023-04-25,Email,1,App crashes again after update
+1063,11570,2023-01-29,Support Ticket,4,too many ads now hate it
+1064,12560,2023-02-28,App Review,5,login issue cant access account
+1065,11319,2023-05-05,App Review,5,everything works fine
+1066,12965,2023-04-08,App Review,5,very smooth experience no issues
+1067,11855,2023-01-17,Support Ticket,5,App crashes again after update
+1068,11372,2023-04-17,Email,1,login issue cant access account
+1069,10872,2023-02-12,App Review,4,everything works fine
+1070,11252,2023-03-21,Support Ticket,3,cant track my order properly
+1071,12317,2023-06-11,App Review,5,very smooth experience no issues
+1072,11851,2023-01-08,App Review,2,very smooth experience no issues
+1073,12845,2023-05-21,Email,5,cant track my order properly
+1074,11314,2023-04-16,App Review,4,refund pending from last week
+1075,10724,2023-01-08,Support Ticket,5,very smooth experience no issues
+1076,12052,2023-04-06,App Review,1,frustrating experience will uninstall
+1077,12898,2023-04-04,Support Ticket,1,very smooth experience no issues
+1078,10077,2023-03-06,Email,5,too many ads now hate it
+1079,12621,2023-06-20,App Review,1,app slow and buggy sometimes
+1080,10131,2023-02-08,Support Ticket,5,frustrating experience will uninstall
+1081,10600,2023-03-22,Email,1,support team resolved issue quickly
+1082,11772,2023-03-25,App Review,4,delivery was late and support not helpful
+1083,11065,2023-03-29,App Review,2,login issue cant access account
+1084,12136,2023-03-27,Support Ticket,4,support team resolved issue quickly
+1085,12449,2023-04-03,App Review,4,very smooth experience no issues
+1086,12343,2023-03-27,App Review,2,great service very happy
+1087,11863,2023-02-13,App Review,1,App crashes again after update
+1088,11318,2023-05-17,App Review,1,awesome app easy to use
+1089,10615,2023-06-14,Email,4,price increased suddenly not fair
+1090,12847,2023-03-15,App Review,3,App crashes again after update
+1091,12469,2023-02-05,App Review,4,checkout page not loading
+1092,11888,2023-04-11,App Review,3,cant track my order properly
+1093,11046,2023-06-05,App Review,3,App crashes again after update
+1094,10574,2023-06-19,Support Ticket,2,great service very happy
+1095,12190,2023-06-20,App Review,1,checkout page not loading
+1096,10992,2023-06-19,Support Ticket,2,customer service is terrible
+1097,12712,2023-04-14,App Review,5,app slow and buggy sometimes
+1098,12192,2023-03-07,App Review,5,bad experience refund still not received
+1099,11248,2023-02-24,Support Ticket,2,App crashes again after update
+1100,10502,2023-06-25,App Review,4,price increased suddenly not fair
+1101,11997,2023-04-01,Email,5,great service very happy
+1102,10820,2023-01-22,Support Ticket,3,delivery was late and support not helpful
+1103,12151,2023-04-11,App Review,1,order got cancelled automatically
+1104,11970,2023-06-04,App Review,1,login issue cant access account
+1105,10197,2023-05-01,Email,3,order got cancelled automatically
+1106,11669,2023-04-03,App Review,5,too many ads now hate it
+1107,12626,2023-04-18,App Review,4,awesome app easy to use
+1108,12438,2023-05-21,App Review,1,great service very happy
+1109,11202,2023-06-22,App Review,1,awesome app easy to use
+1110,12601,2023-01-10,Email,5,checkout page not loading
+1111,11471,2023-01-09,App Review,5,checkout page not loading
+1112,11646,2023-06-04,App Review,4,too many ads now hate it
+1113,11692,2023-02-03,Email,4,delivery was late and support not helpful
+1114,11312,2023-05-09,App Review,1,order got cancelled automatically
+1115,12035,2023-06-09,App Review,5,bad experience refund still not received
+1116,10477,2023-03-30,Email,5,very smooth experience no issues
+1117,11254,2023-04-03,App Review,2,everything works fine
+1118,10922,2023-03-12,Email,4,delivery was late and support not helpful
+1119,10419,2023-03-08,Support Ticket,1,delivery was late and support not helpful
+1120,12204,2023-05-28,App Review,1,refund pending from last week
+1121,12597,2023-04-27,Email,1,awesome app easy to use
+1122,11120,2023-04-04,App Review,1,frustrating experience will uninstall
+1123,10950,2023-06-12,App Review,2,delivery was late and support not helpful
+1124,12336,2023-04-09,Support Ticket,3,bad experience refund still not received
+1125,11277,2023-04-23,Support Ticket,3,everything works fine
+1126,12243,2023-04-13,App Review,3,support team resolved issue quickly
+1127,12645,2023-04-01,Email,2,login issue cant access account
+1128,11857,2023-03-31,Support Ticket,1,cant track my order properly
+1129,10516,2023-01-17,Support Ticket,4,very smooth experience no issues
+1130,11658,2023-01-18,Email,2,love the app but payment failed twice
+1131,11865,2023-06-22,App Review,2,cant track my order properly
+1132,12912,2023-04-26,App Review,5,awesome app easy to use
+1133,11141,2023-04-03,Support Ticket,4,refund pending from last week
+1134,12853,2023-04-01,App Review,5,support team resolved issue quickly
+1135,11932,2023-03-23,Email,3,cant track my order properly
+1136,10814,2023-03-09,App Review,1,bad experience refund still not received
+1137,12275,2023-04-24,App Review,4,price increased suddenly not fair
+1138,11900,2023-01-01,App Review,1,love the app but payment failed twice
+1139,12263,2023-02-27,Support Ticket,3,delivery was late and support not helpful
+1140,12995,2023-06-03,App Review,1,everything works fine
+1141,12062,2023-04-19,Email,5,price increased suddenly not fair
+1142,12094,2023-05-28,App Review,1,order got cancelled automatically
+1143,12371,2023-04-26,App Review,5,cant track my order properly
+1144,12891,2023-03-28,App Review,5,login issue cant access account
+1145,10129,2023-01-10,Email,3,support team resolved issue quickly
+1146,10094,2023-02-28,App Review,4,very smooth experience no issues
+1147,12674,2023-02-10,App Review,4,refund pending from last week
+1148,12802,2023-04-15,App Review,5,refund pending from last week
+1149,11955,2023-05-13,App Review,3,awesome app easy to use
+1150,10793,2023-05-02,Support Ticket,5,love the app but payment failed twice
+1151,11834,2023-05-25,Support Ticket,3,awesome app easy to use
+1152,12116,2023-01-22,App Review,5,everything works fine
+1153,11683,2023-04-08,Email,3,frustrating experience will uninstall
+1154,10010,2023-06-18,Support Ticket,3,refund pending from last week
+1155,11865,2023-03-09,App Review,5,price increased suddenly not fair
+1156,12919,2023-05-19,Support Ticket,5,great service very happy
+1157,12597,2023-02-25,Support Ticket,4,everything works fine
+1158,10711,2023-06-28,App Review,1,bad experience refund still not received
+1159,12070,2023-05-29,App Review,3,refund pending from last week
+1160,10814,2023-04-09,Support Ticket,5,customer service is terrible
+1161,10345,2023-03-17,Email,5,frustrating experience will uninstall
+1162,12349,2023-01-26,App Review,5,too many ads now hate it
+1163,10362,2023-04-25,App Review,1,too many ads now hate it
+1164,12443,2023-05-27,App Review,3,love the app but payment failed twice
+1165,12265,2023-04-19,Email,4,awesome app easy to use
+1166,12188,2023-02-16,Email,5,love the app but payment failed twice
+1167,10984,2023-03-12,Support Ticket,1,payment deducted but order failed
+1168,11639,2023-06-03,App Review,5,love the app but payment failed twice
+1169,10827,2023-02-09,Email,3,app slow and buggy sometimes
+1170,12730,2023-05-13,Email,1,checkout page not loading
+1171,10355,2023-05-29,App Review,2,App crashes again after update
+1172,11347,2023-05-12,App Review,2,customer service is terrible
+1173,12935,2023-01-23,Support Ticket,3,customer service is terrible
+1174,11863,2023-04-16,Support Ticket,1,app slow and buggy sometimes
+1175,10126,2023-03-25,App Review,1,App crashes again after update
+1176,10603,2023-05-23,Email,5,bad experience refund still not received
+1177,11928,2023-04-26,App Review,1,love the app but payment failed twice
+1178,11013,2023-04-19,Email,1,great service very happy
+1179,10050,2023-05-16,Email,3,very smooth experience no issues
+1180,12826,2023-02-10,Email,3,very smooth experience no issues
+1181,11430,2023-04-22,Support Ticket,5,cant track my order properly
+1182,11792,2023-05-27,Email,3,very smooth experience no issues
+1183,12861,2023-04-22,App Review,5,customer service is terrible
+1184,11636,2023-04-13,Email,4,cant track my order properly
+1185,11645,2023-02-15,App Review,1,great service very happy
+1186,12467,2023-06-05,App Review,1,bad experience refund still not received
+1187,11205,2023-03-09,App Review,3,awesome app easy to use
+1188,12872,2023-05-02,App Review,2,very smooth experience no issues
+1189,11854,2023-01-15,Email,4,everything works fine
+1190,10566,2023-06-14,App Review,4,everything works fine
+1191,12418,2023-05-09,Email,2,payment deducted but order failed
+1192,10935,2023-04-21,Email,1,too many ads now hate it
+1193,11934,2023-01-24,App Review,1,support team resolved issue quickly
+1194,12708,2023-01-27,Support Ticket,4,App crashes again after update
+1195,11332,2023-02-09,App Review,3,very smooth experience no issues
+1196,10201,2023-06-13,App Review,3,refund pending from last week
+1197,12360,2023-01-24,Email,1,too many ads now hate it
+1198,10116,2023-01-24,App Review,4,App crashes again after update
+1199,10936,2023-01-04,App Review,5,delivery was late and support not helpful
+1200,10574,2023-03-08,Email,2,payment deducted but order failed
+1201,12291,2023-02-03,Email,3,love the app but payment failed twice
+1202,10536,2023-06-26,App Review,5,app slow and buggy sometimes
+1203,11625,2023-04-26,Support Ticket,2,too many ads now hate it
+1204,12122,2023-01-23,Email,4,too many ads now hate it
+1205,10385,2023-04-19,Support Ticket,1,frustrating experience will uninstall
+1206,10474,2023-03-10,App Review,4,delivery was late and support not helpful
+1207,10417,2023-04-05,Email,1,app slow and buggy sometimes
+1208,12394,2023-03-03,Support Ticket,5,too many ads now hate it
+1209,12687,2023-06-18,Email,4,order got cancelled automatically
+1210,10938,2023-02-26,Email,5,refund pending from last week
+1211,10954,2023-02-23,App Review,4,great service very happy
+1212,10875,2023-03-11,App Review,4,order got cancelled automatically
+1213,10762,2023-04-11,App Review,3,delivery was late and support not helpful
+1214,11202,2023-02-26,App Review,5,support team resolved issue quickly
+1215,11205,2023-05-18,Support Ticket,5,very smooth experience no issues
+1216,10663,2023-06-17,App Review,3,everything works fine
+1217,10024,2023-05-15,Support Ticket,5,login issue cant access account
+1218,11990,2023-04-13,Support Ticket,4,support team resolved issue quickly
+1219,11203,2023-06-15,App Review,3,customer service is terrible
+1220,10709,2023-03-26,App Review,3,frustrating experience will uninstall
+1221,11879,2023-03-02,Support Ticket,1,payment deducted but order failed
+1222,11184,2023-01-03,Support Ticket,1,very smooth experience no issues
+1223,12224,2023-05-08,App Review,1,awesome app easy to use
+1224,10284,2023-06-28,App Review,3,checkout page not loading
+1225,10062,2023-03-27,Email,2,everything works fine
+1226,11002,2023-02-16,Email,3,customer service is terrible
+1227,10661,2023-03-17,App Review,5,awesome app easy to use
+1228,12713,2023-02-07,Email,2,great service very happy
+1229,12203,2023-06-13,App Review,3,payment deducted but order failed
+1230,11492,2023-06-18,App Review,1,awesome app easy to use
+1231,10966,2023-05-21,App Review,1,checkout page not loading
+1232,10848,2023-03-28,App Review,5,cant track my order properly
+1233,11107,2023-02-27,App Review,4,bad experience refund still not received
+1234,10688,2023-02-19,App Review,5,order got cancelled automatically
+1235,10147,2023-01-30,App Review,1,bad experience refund still not received
+1236,10341,2023-04-11,App Review,4,customer service is terrible
+1237,12523,2023-01-25,App Review,2,awesome app easy to use
+1238,11086,2023-04-22,Support Ticket,1,refund pending from last week
+1239,11724,2023-06-04,App Review,1,very smooth experience no issues
+1240,11383,2023-06-28,App Review,1,love the app but payment failed twice
+1241,12608,2023-05-06,Email,2,app slow and buggy sometimes
+1242,10326,2023-05-03,Support Ticket,1,price increased suddenly not fair
+1243,11792,2023-02-16,App Review,5,too many ads now hate it
+1244,11759,2023-04-28,Email,2,refund pending from last week
+1245,10989,2023-02-08,Email,1,order got cancelled automatically
+1246,12262,2023-01-16,Email,1,everything works fine
+1247,12482,2023-01-22,App Review,4,customer service is terrible
+1248,10951,2023-02-23,Email,1,awesome app easy to use
+1249,10722,2023-05-29,App Review,5,awesome app easy to use
+1250,12079,2023-01-16,Email,5,App crashes again after update
+1251,12717,2023-02-28,Email,1,very smooth experience no issues
+1252,12332,2023-01-31,App Review,3,app slow and buggy sometimes
+1253,10428,2023-06-19,Support Ticket,1,refund pending from last week
+1254,11500,2023-02-01,App Review,4,app slow and buggy sometimes
+1255,10285,2023-06-11,Support Ticket,3,app slow and buggy sometimes
+1256,12065,2023-01-09,App Review,2,frustrating experience will uninstall
+1257,10768,2023-05-19,App Review,1,payment deducted but order failed
+1258,12637,2023-01-10,App Review,4,customer service is terrible
+1259,11394,2023-01-17,Support Ticket,3,support team resolved issue quickly
+1260,10193,2023-03-09,App Review,1,awesome app easy to use
+1261,12549,2023-02-17,App Review,4,refund pending from last week
+1262,10987,2023-06-29,App Review,4,everything works fine
+1263,11136,2023-04-21,Email,5,support team resolved issue quickly
+1264,12161,2023-06-02,Email,1,bad experience refund still not received
+1265,11701,2023-05-03,App Review,5,login issue cant access account
+1266,10946,2023-05-29,App Review,4,price increased suddenly not fair
+1267,10830,2023-04-11,App Review,1,price increased suddenly not fair
+1268,11920,2023-04-12,App Review,4,everything works fine
+1269,12972,2023-03-06,App Review,3,awesome app easy to use
+1270,10054,2023-02-20,Email,5,customer service is terrible
+1271,10799,2023-02-05,App Review,1,support team resolved issue quickly
+1272,10777,2023-03-22,App Review,4,very smooth experience no issues
+1273,11481,2023-05-07,App Review,2,customer service is terrible
+1274,11901,2023-03-29,Support Ticket,5,bad experience refund still not received
+1275,12209,2023-04-14,Support Ticket,2,great service very happy
+1276,12134,2023-01-15,Support Ticket,5,price increased suddenly not fair
+1277,10054,2023-04-06,App Review,5,App crashes again after update
+1278,11823,2023-06-16,App Review,2,too many ads now hate it
+1279,11201,2023-05-03,App Review,5,awesome app easy to use
+1280,10832,2023-01-01,App Review,5,bad experience refund still not received
+1281,10312,2023-05-31,Email,2,payment deducted but order failed
+1282,12806,2023-05-02,Email,3,great service very happy
+1283,11858,2023-06-16,Support Ticket,3,checkout page not loading
+1284,12007,2023-05-06,Support Ticket,2,awesome app easy to use
+1285,12006,2023-02-26,App Review,1,checkout page not loading
+1286,12490,2023-03-22,Email,1,frustrating experience will uninstall
+1287,11790,2023-06-11,App Review,2,cant track my order properly
+1288,10327,2023-06-18,App Review,3,great service very happy
+1289,12808,2023-03-14,Email,1,App crashes again after update
+1290,12626,2023-05-21,App Review,5,checkout page not loading
+1291,11287,2023-03-11,App Review,4,refund pending from last week
+1292,12143,2023-01-06,App Review,1,great service very happy
+1293,11111,2023-03-25,Email,4,too many ads now hate it
+1294,11311,2023-02-21,Email,4,customer service is terrible
+1295,12861,2023-01-03,App Review,5,very smooth experience no issues
+1296,12538,2023-03-22,Support Ticket,1,frustrating experience will uninstall
+1297,10451,2023-03-04,App Review,1,checkout page not loading
+1298,11523,2023-02-18,App Review,5,delivery was late and support not helpful
+1299,10164,2023-03-17,Email,5,cant track my order properly
+1300,10181,2023-04-22,Email,4,order got cancelled automatically
+1301,12516,2023-06-24,Support Ticket,5,order got cancelled automatically
+1302,10909,2023-04-19,App Review,1,customer service is terrible
+1303,12782,2023-03-06,Email,3,checkout page not loading
+1304,10822,2023-03-22,Email,1,price increased suddenly not fair
+1305,10943,2023-01-15,Support Ticket,1,love the app but payment failed twice
+1306,12001,2023-04-10,App Review,5,order got cancelled automatically
+1307,12054,2023-02-01,Email,1,checkout page not loading
+1308,10329,2023-04-06,Email,3,too many ads now hate it
+1309,10774,2023-05-08,App Review,5,price increased suddenly not fair
+1310,12198,2023-05-26,App Review,1,cant track my order properly
+1311,10146,2023-04-23,App Review,5,price increased suddenly not fair
+1312,10914,2023-03-24,Email,5,everything works fine
+1313,11571,2023-02-12,Support Ticket,4,too many ads now hate it
+1314,11308,2023-04-26,Email,1,awesome app easy to use
+1315,12747,2023-06-12,Email,2,app slow and buggy sometimes
+1316,10081,2023-03-19,Email,3,order got cancelled automatically
+1317,10513,2023-02-27,App Review,2,App crashes again after update
+1318,11920,2023-02-02,App Review,2,login issue cant access account
+1319,12862,2023-01-14,App Review,5,cant track my order properly
+1320,12756,2023-06-11,App Review,1,love the app but payment failed twice
+1321,11939,2023-05-12,App Review,4,everything works fine
+1322,10745,2023-02-28,Email,1,awesome app easy to use
+1323,11409,2023-06-06,App Review,4,great service very happy
+1324,10706,2023-03-24,App Review,5,payment deducted but order failed
+1325,10470,2023-05-14,App Review,2,checkout page not loading
+1326,10395,2023-05-01,App Review,1,love the app but payment failed twice
+1327,11555,2023-06-26,Support Ticket,4,too many ads now hate it
+1328,12308,2023-06-17,Support Ticket,4,love the app but payment failed twice
+1329,10804,2023-03-24,Email,4,great service very happy
+1330,10933,2023-01-27,App Review,2,support team resolved issue quickly
+1331,11279,2023-03-21,Email,2,everything works fine
+1332,11757,2023-05-14,Support Ticket,5,cant track my order properly
+1333,10904,2023-01-13,Email,5,too many ads now hate it
+1334,11076,2023-03-05,App Review,3,payment deducted but order failed
+1335,12987,2023-05-27,Email,5,refund pending from last week
+1336,11890,2023-03-21,Support Ticket,3,too many ads now hate it
+1337,11523,2023-05-03,Email,3,too many ads now hate it
+1338,12901,2023-02-12,Email,1,order got cancelled automatically
+1339,11387,2023-03-30,App Review,3,payment deducted but order failed
+1340,11303,2023-05-28,Email,3,awesome app easy to use
+1341,10592,2023-04-05,App Review,1,support team resolved issue quickly
+1342,12761,2023-06-21,Email,3,order got cancelled automatically
+1343,12679,2023-05-31,App Review,5,login issue cant access account
+1344,12106,2023-01-02,App Review,4,login issue cant access account
+1345,10127,2023-04-30,App Review,4,App crashes again after update
+1346,10735,2023-01-22,Email,5,price increased suddenly not fair
+1347,12768,2023-04-25,App Review,1,great service very happy
+1348,12573,2023-02-26,Email,4,everything works fine
+1349,10520,2023-03-13,Email,5,price increased suddenly not fair
+1350,12599,2023-01-07,App Review,3,order got cancelled automatically
+1351,10236,2023-04-29,App Review,2,everything works fine
+1352,11304,2023-04-24,App Review,1,very smooth experience no issues
+1353,11781,2023-01-16,Support Ticket,5,awesome app easy to use
+1354,11301,2023-03-24,Email,3,bad experience refund still not received
+1355,12541,2023-06-28,App Review,5,very smooth experience no issues
+1356,12051,2023-03-13,App Review,4,cant track my order properly
+1357,12713,2023-05-04,Email,4,refund pending from last week
+1358,10441,2023-04-23,Support Ticket,5,great service very happy
+1359,12076,2023-01-12,Support Ticket,4,customer service is terrible
+1360,12657,2023-05-06,Email,2,login issue cant access account
+1361,10804,2023-02-22,App Review,3,awesome app easy to use
+1362,10074,2023-03-16,App Review,5,cant track my order properly
+1363,12885,2023-05-13,App Review,2,customer service is terrible
+1364,12175,2023-01-27,App Review,2,very smooth experience no issues
+1365,12089,2023-05-20,App Review,1,login issue cant access account
+1366,11379,2023-05-25,App Review,5,customer service is terrible
+1367,10040,2023-05-14,App Review,1,cant track my order properly
+1368,12981,2023-04-07,Support Ticket,4,love the app but payment failed twice
+1369,12081,2023-01-05,Email,3,awesome app easy to use
+1370,11700,2023-02-26,Support Ticket,3,love the app but payment failed twice
+1371,11401,2023-06-05,Email,4,login issue cant access account
+1372,10587,2023-03-19,App Review,1,checkout page not loading
+1373,11622,2023-03-10,Email,4,refund pending from last week
+1374,10341,2023-04-28,App Review,5,checkout page not loading
+1375,12074,2023-04-30,Email,5,everything works fine
+1376,10645,2023-02-28,App Review,1,refund pending from last week
+1377,10730,2023-02-02,Support Ticket,5,frustrating experience will uninstall
+1378,10167,2023-03-03,App Review,4,too many ads now hate it
+1379,10609,2023-02-19,App Review,5,price increased suddenly not fair
+1380,12315,2023-04-22,Support Ticket,3,login issue cant access account
+1381,11772,2023-01-19,App Review,3,frustrating experience will uninstall
+1382,12040,2023-05-03,Email,5,checkout page not loading
+1383,12868,2023-02-16,Email,5,checkout page not loading
+1384,10454,2023-06-16,Support Ticket,3,awesome app easy to use
+1385,12953,2023-02-02,Support Ticket,2,frustrating experience will uninstall
+1386,11708,2023-05-21,Support Ticket,2,everything works fine
+1387,12969,2023-03-25,App Review,2,delivery was late and support not helpful
+1388,10701,2023-05-15,Support Ticket,2,price increased suddenly not fair
+1389,12681,2023-03-20,Email,2,payment deducted but order failed
+1390,11599,2023-01-14,Email,5,checkout page not loading
+1391,10129,2023-05-27,App Review,1,cant track my order properly
+1392,11845,2023-05-08,Email,4,support team resolved issue quickly
+1393,11386,2023-02-23,Support Ticket,1,support team resolved issue quickly
+1394,12866,2023-05-28,Support Ticket,2,order got cancelled automatically
+1395,10692,2023-01-29,App Review,1,login issue cant access account
+1396,11394,2023-01-24,App Review,2,support team resolved issue quickly
+1397,10793,2023-03-23,App Review,5,App crashes again after update
+1398,10028,2023-03-04,Support Ticket,5,delivery was late and support not helpful
+1399,10148,2023-04-15,Email,1,bad experience refund still not received
+1400,11319,2023-02-26,App Review,3,refund pending from last week
+1401,12058,2023-05-16,App Review,3,bad experience refund still not received
+1402,12723,2023-03-03,App Review,5,delivery was late and support not helpful
+1403,11136,2023-06-06,App Review,5,price increased suddenly not fair
+1404,10186,2023-01-17,Support Ticket,3,checkout page not loading
+1405,12854,2023-03-07,Email,4,everything works fine
+1406,12791,2023-01-06,App Review,5,refund pending from last week
+1407,11250,2023-02-27,Email,1,frustrating experience will uninstall
+1408,11333,2023-03-10,App Review,3,app slow and buggy sometimes
+1409,10097,2023-06-05,Support Ticket,5,order got cancelled automatically
+1410,10054,2023-03-03,App Review,4,price increased suddenly not fair
+1411,12670,2023-06-18,App Review,3,refund pending from last week
+1412,12711,2023-03-23,App Review,3,price increased suddenly not fair
+1413,10757,2023-06-18,Email,2,great service very happy
+1414,10405,2023-06-26,Email,3,customer service is terrible
+1415,12116,2023-06-26,Email,4,price increased suddenly not fair
+1416,11312,2023-03-12,App Review,3,app slow and buggy sometimes
+1417,11785,2023-05-11,App Review,4,price increased suddenly not fair
+1418,10750,2023-01-10,App Review,5,support team resolved issue quickly
+1419,11762,2023-04-08,Email,1,checkout page not loading
+1420,10364,2023-03-30,App Review,3,love the app but payment failed twice
+1421,12026,2023-02-04,Email,3,order got cancelled automatically
+1422,10481,2023-01-02,Support Ticket,4,frustrating experience will uninstall
+1423,12248,2023-05-04,Support Ticket,1,awesome app easy to use
+1424,10153,2023-01-24,App Review,4,order got cancelled automatically
+1425,11524,2023-03-15,App Review,5,price increased suddenly not fair
+1426,12120,2023-06-15,App Review,3,delivery was late and support not helpful
+1427,12760,2023-01-22,Email,5,order got cancelled automatically
+1428,12343,2023-06-03,Support Ticket,5,checkout page not loading
+1429,11040,2023-06-20,App Review,1,great service very happy
+1430,11664,2023-02-08,App Review,1,support team resolved issue quickly
+1431,11240,2023-06-06,Support Ticket,5,support team resolved issue quickly
+1432,10060,2023-01-20,Support Ticket,5,delivery was late and support not helpful
+1433,10938,2023-02-10,App Review,1,delivery was late and support not helpful
+1434,11639,2023-05-28,Email,1,everything works fine
+1435,12089,2023-04-18,App Review,1,love the app but payment failed twice
+1436,10024,2023-05-27,App Review,5,order got cancelled automatically
+1437,11062,2023-03-25,Support Ticket,1,refund pending from last week
+1438,10130,2023-04-21,Support Ticket,3,refund pending from last week
+1439,11252,2023-03-07,Email,5,refund pending from last week
+1440,10107,2023-06-07,App Review,1,too many ads now hate it
+1441,10171,2023-02-22,Support Ticket,4,love the app but payment failed twice
+1442,11458,2023-02-03,App Review,2,App crashes again after update
+1443,10101,2023-05-30,App Review,5,customer service is terrible
+1444,12913,2023-03-08,Email,2,bad experience refund still not received
+1445,12571,2023-05-14,App Review,4,App crashes again after update
+1446,12322,2023-01-27,Email,4,order got cancelled automatically
+1447,11636,2023-01-10,Email,1,checkout page not loading
+1448,12864,2023-03-14,App Review,1,price increased suddenly not fair
+1449,11040,2023-04-06,App Review,3,delivery was late and support not helpful
+1450,10329,2023-02-17,App Review,2,checkout page not loading
+1451,11520,2023-03-11,App Review,5,customer service is terrible
+1452,10011,2023-04-10,Email,5,app slow and buggy sometimes
+1453,11341,2023-02-28,Support Ticket,3,price increased suddenly not fair
+1454,10215,2023-01-02,App Review,4,very smooth experience no issues
+1455,10338,2023-06-06,App Review,4,customer service is terrible
+1456,11799,2023-03-06,Email,5,very smooth experience no issues
+1457,12708,2023-03-24,Support Ticket,3,payment deducted but order failed
+1458,11750,2023-06-03,App Review,2,frustrating experience will uninstall
+1459,11508,2023-01-10,App Review,2,everything works fine
+1460,12421,2023-02-22,Email,3,App crashes again after update
+1461,10709,2023-03-20,App Review,3,love the app but payment failed twice
+1462,11223,2023-02-28,App Review,3,very smooth experience no issues
+1463,12513,2023-05-30,Email,1,support team resolved issue quickly
+1464,11112,2023-06-28,Email,4,great service very happy
+1465,11291,2023-02-17,Email,1,App crashes again after update
+1466,10488,2023-05-29,Email,1,app slow and buggy sometimes
+1467,11561,2023-05-03,Email,3,order got cancelled automatically
+1468,10046,2023-01-22,App Review,1,bad experience refund still not received
+1469,10777,2023-04-10,App Review,4,awesome app easy to use
+1470,11039,2023-04-08,App Review,2,everything works fine
+1471,10710,2023-06-07,App Review,3,price increased suddenly not fair
+1472,10400,2023-01-25,Email,3,awesome app easy to use
+1473,11817,2023-01-28,Support Ticket,1,login issue cant access account
+1474,10249,2023-04-23,Support Ticket,1,awesome app easy to use
+1475,10390,2023-02-14,Email,5,price increased suddenly not fair
+1476,10334,2023-03-09,App Review,3,app slow and buggy sometimes
+1477,10628,2023-01-07,App Review,3,checkout page not loading
+1478,10136,2023-02-18,Support Ticket,1,bad experience refund still not received
+1479,12930,2023-05-17,Email,3,awesome app easy to use
+1480,12735,2023-06-13,Email,4,payment deducted but order failed
+1481,11521,2023-03-24,Email,4,love the app but payment failed twice
+1482,10826,2023-05-09,Email,4,awesome app easy to use
+1483,10726,2023-05-18,Support Ticket,1,love the app but payment failed twice
+1484,11500,2023-06-13,App Review,2,awesome app easy to use
+1485,12641,2023-03-14,Email,5,too many ads now hate it
+1486,10989,2023-02-15,Support Ticket,5,App crashes again after update
+1487,12419,2023-04-16,App Review,1,refund pending from last week
+1488,10934,2023-06-09,Email,3,customer service is terrible
+1489,10401,2023-02-01,App Review,1,App crashes again after update
+1490,11466,2023-01-06,Support Ticket,1,order got cancelled automatically
+1491,10614,2023-06-25,App Review,2,price increased suddenly not fair
+1492,11296,2023-06-15,Email,1,checkout page not loading
+1493,11182,2023-05-25,App Review,4,customer service is terrible
+1494,12667,2023-03-15,Email,3,too many ads now hate it
+1495,12235,2023-04-24,App Review,1,app slow and buggy sometimes
+1496,11121,2023-01-27,App Review,1,app slow and buggy sometimes
+1497,10130,2023-02-23,App Review,5,great service very happy
+1498,12852,2023-06-27,Support Ticket,1,very smooth experience no issues
+1499,11194,2023-06-12,App Review,4,frustrating experience will uninstall
+1500,12983,2023-03-26,App Review,2,order got cancelled automatically
+1501,10182,2023-05-07,Email,4,refund pending from last week
+1502,10363,2023-06-02,Email,2,refund pending from last week
+1503,10038,2023-06-05,Support Ticket,1,love the app but payment failed twice
+1504,12544,2023-04-21,App Review,1,very smooth experience no issues
+1505,11372,2023-01-15,Email,1,frustrating experience will uninstall
+1506,10920,2023-05-12,App Review,3,checkout page not loading
+1507,12769,2023-04-03,App Review,4,very smooth experience no issues
+1508,10015,2023-05-03,Email,2,delivery was late and support not helpful
+1509,10492,2023-03-14,Email,1,delivery was late and support not helpful
+1510,11449,2023-06-04,Email,3,order got cancelled automatically
+1511,11131,2023-06-03,App Review,4,app slow and buggy sometimes
+1512,12941,2023-05-27,App Review,5,checkout page not loading
+1513,10310,2023-04-02,App Review,4,everything works fine
+1514,10738,2023-01-17,Support Ticket,3,App crashes again after update
+1515,10545,2023-02-12,App Review,4,bad experience refund still not received
+1516,12461,2023-05-01,App Review,5,bad experience refund still not received
+1517,10250,2023-02-10,App Review,5,delivery was late and support not helpful
+1518,10758,2023-06-19,Email,2,everything works fine
+1519,11804,2023-06-27,App Review,1,very smooth experience no issues
+1520,11297,2023-06-17,Support Ticket,2,app slow and buggy sometimes
+1521,11631,2023-02-08,App Review,3,cant track my order properly
+1522,11914,2023-04-23,Support Ticket,4,frustrating experience will uninstall
+1523,10813,2023-05-31,App Review,3,awesome app easy to use
+1524,10028,2023-04-21,Email,1,love the app but payment failed twice
+1525,10957,2023-06-29,Support Ticket,4,frustrating experience will uninstall
+1526,12032,2023-02-16,App Review,5,cant track my order properly
+1527,10476,2023-03-04,Support Ticket,2,price increased suddenly not fair
+1528,10317,2023-04-20,App Review,4,login issue cant access account
+1529,10244,2023-03-10,Support Ticket,3,price increased suddenly not fair
+1530,10747,2023-02-12,Email,5,checkout page not loading
+1531,10696,2023-06-25,App Review,5,support team resolved issue quickly
+1532,10271,2023-02-03,App Review,3,too many ads now hate it
+1533,11771,2023-02-09,App Review,4,bad experience refund still not received
+1534,11262,2023-03-02,App Review,5,awesome app easy to use
+1535,12424,2023-06-27,App Review,3,great service very happy
+1536,10265,2023-03-03,App Review,2,great service very happy
+1537,12973,2023-02-27,App Review,5,login issue cant access account
+1538,10920,2023-06-10,Email,1,support team resolved issue quickly
+1539,10339,2023-03-16,App Review,2,login issue cant access account
+1540,10388,2023-01-16,App Review,5,support team resolved issue quickly
+1541,12624,2023-03-23,Email,4,frustrating experience will uninstall
+1542,12050,2023-04-04,App Review,3,app slow and buggy sometimes
+1543,11165,2023-02-17,App Review,1,bad experience refund still not received
+1544,10375,2023-05-18,App Review,2,too many ads now hate it
+1545,12033,2023-03-23,Support Ticket,2,refund pending from last week
+1546,12371,2023-02-07,Support Ticket,1,support team resolved issue quickly
+1547,10145,2023-05-07,App Review,4,App crashes again after update
+1548,11981,2023-01-19,Email,2,order got cancelled automatically
+1549,10292,2023-06-13,Email,3,cant track my order properly
+1550,10431,2023-03-04,Email,2,login issue cant access account
+1551,10704,2023-03-18,Email,5,support team resolved issue quickly
+1552,12996,2023-06-23,Email,2,payment deducted but order failed
+1553,11998,2023-05-11,App Review,1,love the app but payment failed twice
+1554,12632,2023-04-12,App Review,1,very smooth experience no issues
+1555,10398,2023-03-06,App Review,4,love the app but payment failed twice
+1556,12864,2023-04-30,Support Ticket,4,awesome app easy to use
+1557,10963,2023-04-01,Email,3,app slow and buggy sometimes
+1558,12234,2023-01-08,Support Ticket,3,App crashes again after update
+1559,12041,2023-06-28,Support Ticket,1,refund pending from last week
+1560,11828,2023-03-14,App Review,3,frustrating experience will uninstall
+1561,12108,2023-05-14,Email,3,too many ads now hate it
+1562,10938,2023-04-17,Email,1,delivery was late and support not helpful
+1563,10709,2023-03-30,Support Ticket,1,price increased suddenly not fair
+1564,10806,2023-02-08,Support Ticket,1,App crashes again after update
+1565,11463,2023-04-23,Email,1,bad experience refund still not received
+1566,11325,2023-01-28,App Review,4,bad experience refund still not received
+1567,10010,2023-04-07,Email,1,great service very happy
+1568,11085,2023-02-06,App Review,2,frustrating experience will uninstall
+1569,11868,2023-05-17,Email,1,support team resolved issue quickly
+1570,12273,2023-03-23,Support Ticket,5,cant track my order properly
+1571,12611,2023-02-25,App Review,5,checkout page not loading
+1572,10771,2023-03-26,Email,1,order got cancelled automatically
+1573,11594,2023-01-02,App Review,2,App crashes again after update
+1574,11607,2023-02-27,App Review,1,awesome app easy to use
+1575,11333,2023-04-17,App Review,3,delivery was late and support not helpful
+1576,10884,2023-05-03,Email,1,customer service is terrible
+1577,11389,2023-06-17,Support Ticket,4,frustrating experience will uninstall
+1578,10225,2023-06-13,Support Ticket,3,great service very happy
+1579,10824,2023-04-24,App Review,5,everything works fine
+1580,12265,2023-04-17,Support Ticket,1,great service very happy
+1581,10936,2023-02-06,Email,5,delivery was late and support not helpful
+1582,12800,2023-03-20,App Review,5,login issue cant access account
+1583,12553,2023-04-02,App Review,1,love the app but payment failed twice
+1584,12306,2023-01-18,App Review,2,order got cancelled automatically
+1585,11911,2023-04-08,Support Ticket,1,love the app but payment failed twice
+1586,11796,2023-03-04,Email,2,cant track my order properly
+1587,10053,2023-05-30,Email,2,login issue cant access account
+1588,10726,2023-05-19,App Review,4,love the app but payment failed twice
+1589,12736,2023-01-04,Email,3,awesome app easy to use
+1590,11544,2023-05-15,App Review,5,checkout page not loading
+1591,11043,2023-03-02,App Review,1,app slow and buggy sometimes
+1592,11913,2023-04-17,Email,5,login issue cant access account
+1593,11776,2023-02-23,App Review,1,support team resolved issue quickly
+1594,11596,2023-03-29,Support Ticket,5,great service very happy
+1595,11914,2023-03-09,App Review,2,frustrating experience will uninstall
+1596,12466,2023-05-09,Email,1,price increased suddenly not fair
+1597,12737,2023-02-24,App Review,5,refund pending from last week
+1598,10849,2023-01-03,Email,2,bad experience refund still not received
+1599,12109,2023-06-15,App Review,4,frustrating experience will uninstall
+1600,12263,2023-05-01,App Review,4,refund pending from last week
+1601,10002,2023-05-09,Support Ticket,3,very smooth experience no issues
+1602,10159,2023-04-12,App Review,3,delivery was late and support not helpful
+1603,10780,2023-02-07,Support Ticket,4,cant track my order properly
+1604,10892,2023-03-26,Support Ticket,1,App crashes again after update
+1605,12030,2023-06-06,App Review,4,frustrating experience will uninstall
+1606,12376,2023-05-13,App Review,5,login issue cant access account
+1607,10579,2023-04-02,Email,1,support team resolved issue quickly
+1608,11933,2023-01-21,Support Ticket,1,order got cancelled automatically
+1609,11380,2023-04-19,Support Ticket,4,cant track my order properly
+1610,11290,2023-02-16,Email,3,app slow and buggy sometimes
+1611,11640,2023-03-25,Email,3,customer service is terrible
+1612,10951,2023-03-24,App Review,1,too many ads now hate it
+1613,12682,2023-02-04,Support Ticket,3,customer service is terrible
+1614,10987,2023-03-10,Support Ticket,1,payment deducted but order failed
+1615,11218,2023-05-09,App Review,3,frustrating experience will uninstall
+1616,10920,2023-05-20,App Review,5,love the app but payment failed twice
+1617,12785,2023-01-27,App Review,2,support team resolved issue quickly
+1618,11355,2023-02-25,App Review,3,awesome app easy to use
+1619,10169,2023-01-23,Support Ticket,5,cant track my order properly
+1620,10520,2023-06-02,App Review,4,app slow and buggy sometimes
+1621,11486,2023-01-21,App Review,5,frustrating experience will uninstall
+1622,10039,2023-03-02,App Review,3,cant track my order properly
+1623,11560,2023-03-04,Support Ticket,5,order got cancelled automatically
+1624,11418,2023-05-02,Email,1,login issue cant access account
+1625,10954,2023-02-21,App Review,1,too many ads now hate it
+1626,10983,2023-03-29,App Review,1,cant track my order properly
+1627,10974,2023-06-02,Support Ticket,3,order got cancelled automatically
+1628,10037,2023-02-24,Support Ticket,5,awesome app easy to use
+1629,12375,2023-02-15,App Review,2,bad experience refund still not received
+1630,11274,2023-02-01,App Review,4,awesome app easy to use
+1631,11199,2023-02-24,App Review,4,refund pending from last week
+1632,11625,2023-04-06,App Review,4,payment deducted but order failed
+1633,10913,2023-05-13,Email,2,bad experience refund still not received
+1634,10453,2023-02-05,Support Ticket,4,love the app but payment failed twice
+1635,10036,2023-04-20,App Review,2,delivery was late and support not helpful
+1636,11711,2023-06-26,Support Ticket,1,frustrating experience will uninstall
+1637,10795,2023-04-16,App Review,5,app slow and buggy sometimes
+1638,10972,2023-02-27,Email,1,cant track my order properly
+1639,10592,2023-02-08,Email,1,frustrating experience will uninstall
+1640,11137,2023-03-21,App Review,5,checkout page not loading
+1641,11324,2023-04-07,App Review,2,customer service is terrible
+1642,12271,2023-04-23,Email,4,payment deducted but order failed
+1643,10317,2023-03-02,App Review,2,app slow and buggy sometimes
+1644,12396,2023-05-17,App Review,2,support team resolved issue quickly
+1645,12162,2023-01-06,Email,2,very smooth experience no issues
+1646,12745,2023-04-19,Support Ticket,2,everything works fine
+1647,11346,2023-02-04,App Review,3,App crashes again after update
+1648,11591,2023-02-08,Support Ticket,4,checkout page not loading
+1649,11889,2023-05-30,App Review,3,refund pending from last week
+1650,12087,2023-06-18,Email,5,App crashes again after update
+1651,11996,2023-04-28,Email,1,order got cancelled automatically
+1652,11772,2023-01-05,Support Ticket,3,payment deducted but order failed
+1653,11312,2023-06-19,App Review,4,frustrating experience will uninstall
+1654,11285,2023-03-28,Email,5,awesome app easy to use
+1655,10215,2023-03-17,Email,1,bad experience refund still not received
+1656,12383,2023-06-07,App Review,4,awesome app easy to use
+1657,12139,2023-02-26,App Review,5,refund pending from last week
+1658,12400,2023-05-07,App Review,1,App crashes again after update
+1659,12618,2023-01-29,App Review,5,support team resolved issue quickly
+1660,12863,2023-06-14,Support Ticket,1,login issue cant access account
+1661,11704,2023-03-28,App Review,4,payment deducted but order failed
+1662,12828,2023-05-21,App Review,5,delivery was late and support not helpful
+1663,10362,2023-06-09,Email,4,delivery was late and support not helpful
+1664,12604,2023-02-15,App Review,3,too many ads now hate it
+1665,11716,2023-04-26,Email,1,everything works fine
+1666,11193,2023-04-22,App Review,5,frustrating experience will uninstall
+1667,10355,2023-05-31,Support Ticket,3,refund pending from last week
+1668,10190,2023-02-14,Support Ticket,1,love the app but payment failed twice
+1669,12469,2023-05-25,Support Ticket,4,login issue cant access account
+1670,10699,2023-04-14,App Review,3,login issue cant access account
+1671,12054,2023-03-26,Email,1,bad experience refund still not received
+1672,12180,2023-05-14,App Review,1,great service very happy
+1673,10556,2023-04-18,App Review,1,order got cancelled automatically
+1674,10825,2023-01-18,App Review,4,bad experience refund still not received
+1675,12808,2023-04-04,Email,4,cant track my order properly
+1676,11054,2023-05-30,App Review,3,customer service is terrible
+1677,12582,2023-02-02,Email,5,customer service is terrible
+1678,10425,2023-06-07,App Review,5,delivery was late and support not helpful
+1679,12719,2023-05-06,App Review,4,checkout page not loading
+1680,12410,2023-06-09,Email,1,App crashes again after update
+1681,11574,2023-06-19,App Review,4,checkout page not loading
+1682,12129,2023-05-02,Email,3,price increased suddenly not fair
+1683,12403,2023-05-18,App Review,4,payment deducted but order failed
+1684,10588,2023-04-25,Support Ticket,4,awesome app easy to use
+1685,12012,2023-06-13,Email,2,customer service is terrible
+1686,11547,2023-06-11,App Review,5,order got cancelled automatically
+1687,10294,2023-01-28,App Review,1,order got cancelled automatically
+1688,11985,2023-01-11,Email,4,very smooth experience no issues
+1689,11247,2023-06-16,Support Ticket,1,app slow and buggy sometimes
+1690,11548,2023-02-16,App Review,5,frustrating experience will uninstall
+1691,11690,2023-05-07,App Review,1,too many ads now hate it
+1692,11136,2023-05-27,Support Ticket,1,price increased suddenly not fair
+1693,11256,2023-04-28,Email,2,cant track my order properly
+1694,12064,2023-05-23,App Review,2,delivery was late and support not helpful
+1695,10359,2023-05-06,App Review,1,everything works fine
+1696,12913,2023-06-05,App Review,4,app slow and buggy sometimes
+1697,10699,2023-06-01,Email,3,bad experience refund still not received
+1698,10447,2023-03-13,App Review,1,very smooth experience no issues
+1699,12903,2023-04-17,Support Ticket,2,checkout page not loading
+1700,12412,2023-05-17,App Review,5,login issue cant access account
+1701,10674,2023-06-24,App Review,4,frustrating experience will uninstall
+1702,11007,2023-02-02,Email,4,bad experience refund still not received
+1703,11349,2023-01-19,Support Ticket,4,login issue cant access account
+1704,12514,2023-03-15,Support Ticket,2,app slow and buggy sometimes
+1705,12461,2023-06-17,App Review,1,awesome app easy to use
+1706,10585,2023-06-24,Email,2,very smooth experience no issues
+1707,11256,2023-06-06,Email,5,App crashes again after update
+1708,11247,2023-06-27,App Review,5,frustrating experience will uninstall
+1709,10993,2023-04-08,App Review,3,checkout page not loading
+1710,11435,2023-05-21,App Review,1,customer service is terrible
+1711,10571,2023-05-09,App Review,1,great service very happy
+1712,12382,2023-06-11,Support Ticket,2,everything works fine
+1713,11245,2023-04-03,App Review,4,bad experience refund still not received
+1714,12084,2023-06-25,Support Ticket,1,too many ads now hate it
+1715,10988,2023-02-17,Email,5,order got cancelled automatically
+1716,10277,2023-06-26,Email,2,login issue cant access account
+1717,11219,2023-03-05,Email,5,login issue cant access account
+1718,12963,2023-03-02,App Review,5,support team resolved issue quickly
+1719,11887,2023-06-06,App Review,5,cant track my order properly
+1720,10483,2023-02-08,App Review,4,frustrating experience will uninstall
+1721,11265,2023-05-08,Email,4,refund pending from last week
+1722,10730,2023-03-29,App Review,4,customer service is terrible
+1723,12239,2023-01-26,Email,4,support team resolved issue quickly
+1724,11040,2023-01-17,App Review,4,awesome app easy to use
+1725,12571,2023-03-12,App Review,5,great service very happy
+1726,10917,2023-01-13,App Review,4,checkout page not loading
+1727,12448,2023-03-10,Support Ticket,5,frustrating experience will uninstall
+1728,10885,2023-01-26,Email,5,price increased suddenly not fair
+1729,12752,2023-02-18,App Review,1,awesome app easy to use
+1730,10021,2023-01-07,Email,1,support team resolved issue quickly
+1731,10473,2023-02-27,App Review,3,everything works fine
+1732,12257,2023-02-18,Support Ticket,3,too many ads now hate it
+1733,12353,2023-04-13,Email,5,bad experience refund still not received
+1734,10703,2023-02-22,App Review,3,payment deducted but order failed
+1735,10686,2023-03-03,Email,4,app slow and buggy sometimes
+1736,10284,2023-01-17,App Review,3,love the app but payment failed twice
+1737,10715,2023-06-20,Support Ticket,1,App crashes again after update
+1738,10762,2023-01-25,App Review,4,very smooth experience no issues
+1739,11250,2023-05-11,Email,5,awesome app easy to use
+1740,10947,2023-01-29,App Review,1,awesome app easy to use
+1741,12428,2023-04-27,Email,4,refund pending from last week
+1742,12507,2023-06-09,Email,4,login issue cant access account
+1743,11030,2023-01-26,Email,1,order got cancelled automatically
+1744,10028,2023-05-04,Email,1,everything works fine
+1745,10906,2023-05-24,Support Ticket,5,login issue cant access account
+1746,12926,2023-01-25,App Review,2,love the app but payment failed twice
+1747,12126,2023-02-23,App Review,1,love the app but payment failed twice
+1748,12994,2023-06-05,App Review,1,checkout page not loading
+1749,12506,2023-03-14,Support Ticket,4,frustrating experience will uninstall
+1750,10569,2023-04-30,App Review,4,refund pending from last week
+1751,12006,2023-02-25,Email,4,love the app but payment failed twice
+1752,11453,2023-03-06,Email,1,login issue cant access account
+1753,10737,2023-04-03,App Review,5,login issue cant access account
+1754,10515,2023-03-27,App Review,2,great service very happy
+1755,12000,2023-03-21,App Review,2,love the app but payment failed twice
+1756,12444,2023-06-18,App Review,3,checkout page not loading
+1757,10038,2023-04-18,App Review,2,awesome app easy to use
+1758,10886,2023-06-28,App Review,5,frustrating experience will uninstall
+1759,12844,2023-04-28,Support Ticket,5,refund pending from last week
+1760,12204,2023-06-06,Support Ticket,2,bad experience refund still not received
+1761,11098,2023-03-24,App Review,5,price increased suddenly not fair
+1762,12931,2023-05-27,App Review,5,cant track my order properly
+1763,11823,2023-06-18,App Review,5,price increased suddenly not fair
+1764,11710,2023-06-22,Email,1,awesome app easy to use
+1765,10973,2023-01-15,Support Ticket,4,order got cancelled automatically
+1766,11562,2023-05-11,App Review,2,great service very happy
+1767,12896,2023-05-19,App Review,5,frustrating experience will uninstall
+1768,12795,2023-06-23,Email,1,bad experience refund still not received
+1769,10988,2023-01-30,Email,4,payment deducted but order failed
+1770,10020,2023-02-26,App Review,2,checkout page not loading
+1771,12350,2023-05-26,Email,2,app slow and buggy sometimes
+1772,10868,2023-06-28,App Review,4,order got cancelled automatically
+1773,10083,2023-05-08,App Review,5,awesome app easy to use
+1774,11682,2023-02-17,Email,4,too many ads now hate it
+1775,11976,2023-05-16,Support Ticket,5,customer service is terrible
+1776,11410,2023-01-22,App Review,2,awesome app easy to use
+1777,11530,2023-01-06,Support Ticket,3,price increased suddenly not fair
+1778,10569,2023-04-14,App Review,3,support team resolved issue quickly
+1779,10933,2023-02-05,Email,1,payment deducted but order failed
+1780,11980,2023-03-20,App Review,4,delivery was late and support not helpful
+1781,11855,2023-04-26,Support Ticket,4,cant track my order properly
+1782,10792,2023-02-26,Support Ticket,4,bad experience refund still not received
+1783,10791,2023-02-18,App Review,4,support team resolved issue quickly
+1784,11809,2023-06-22,Support Ticket,4,great service very happy
+1785,11294,2023-03-23,Support Ticket,1,everything works fine
+1786,12539,2023-03-07,Email,1,love the app but payment failed twice
+1787,12255,2023-03-18,App Review,4,love the app but payment failed twice
+1788,11607,2023-02-14,Support Ticket,2,too many ads now hate it
+1789,11083,2023-03-20,Support Ticket,1,app slow and buggy sometimes
+1790,12477,2023-01-20,App Review,3,great service very happy
+1791,10984,2023-05-03,Support Ticket,4,love the app but payment failed twice
+1792,11680,2023-03-08,App Review,2,login issue cant access account
+1793,10519,2023-03-24,App Review,4,checkout page not loading
+1794,10590,2023-01-03,Email,4,price increased suddenly not fair
+1795,11050,2023-03-05,Email,2,App crashes again after update
+1796,11709,2023-02-09,Email,5,bad experience refund still not received
+1797,12035,2023-02-28,App Review,4,login issue cant access account
+1798,12246,2023-03-03,Support Ticket,4,refund pending from last week
+1799,12434,2023-05-12,App Review,4,cant track my order properly
+1800,10348,2023-03-01,App Review,1,app slow and buggy sometimes
+1801,10959,2023-04-26,App Review,4,checkout page not loading
+1802,11963,2023-03-16,Email,2,App crashes again after update
+1803,10692,2023-05-02,Support Ticket,5,bad experience refund still not received
+1804,11559,2023-04-17,Email,5,customer service is terrible
+1805,10377,2023-04-06,Support Ticket,4,customer service is terrible
+1806,12946,2023-04-01,App Review,2,checkout page not loading
+1807,12963,2023-06-07,Email,1,price increased suddenly not fair
+1808,10526,2023-05-10,App Review,2,app slow and buggy sometimes
+1809,12781,2023-03-03,App Review,3,customer service is terrible
+1810,12253,2023-02-18,App Review,2,payment deducted but order failed
+1811,12502,2023-05-17,Email,3,too many ads now hate it
+1812,11259,2023-04-02,Email,1,App crashes again after update
+1813,11875,2023-06-08,Email,5,very smooth experience no issues
+1814,11763,2023-05-04,App Review,1,too many ads now hate it
+1815,10520,2023-03-02,App Review,5,cant track my order properly
+1816,11701,2023-02-17,Email,5,order got cancelled automatically
+1817,11016,2023-06-02,App Review,3,App crashes again after update
+1818,12773,2023-06-13,Support Ticket,4,price increased suddenly not fair
+1819,11013,2023-05-16,Email,3,price increased suddenly not fair
+1820,12548,2023-02-27,App Review,4,payment deducted but order failed
+1821,10116,2023-04-11,Support Ticket,2,refund pending from last week
+1822,12433,2023-04-22,Email,2,app slow and buggy sometimes
+1823,11367,2023-06-22,App Review,4,awesome app easy to use
+1824,10583,2023-03-03,Email,3,login issue cant access account
+1825,10394,2023-02-08,App Review,4,login issue cant access account
+1826,11087,2023-02-27,Support Ticket,2,app slow and buggy sometimes
+1827,12768,2023-04-09,Support Ticket,2,bad experience refund still not received
+1828,10071,2023-02-13,Support Ticket,1,checkout page not loading
+1829,10273,2023-01-29,Email,1,app slow and buggy sometimes
+1830,12013,2023-02-28,App Review,2,everything works fine
+1831,11343,2023-03-12,Email,1,refund pending from last week
+1832,10337,2023-04-02,App Review,1,cant track my order properly
+1833,11389,2023-01-09,Email,5,awesome app easy to use
+1834,10606,2023-05-07,Email,1,customer service is terrible
+1835,10165,2023-05-14,App Review,4,delivery was late and support not helpful
+1836,11567,2023-06-06,App Review,2,bad experience refund still not received
+1837,12058,2023-05-25,Support Ticket,5,checkout page not loading
+1838,11324,2023-05-24,Support Ticket,3,order got cancelled automatically
+1839,10728,2023-05-11,App Review,2,app slow and buggy sometimes
+1840,12848,2023-01-21,App Review,3,support team resolved issue quickly
+1841,12043,2023-03-05,App Review,2,awesome app easy to use
+1842,10101,2023-03-31,Support Ticket,4,very smooth experience no issues
+1843,11415,2023-02-05,App Review,1,support team resolved issue quickly
+1844,10778,2023-03-03,Email,5,refund pending from last week
+1845,10213,2023-06-19,App Review,3,cant track my order properly
+1846,11111,2023-03-17,Email,2,too many ads now hate it
+1847,11576,2023-06-19,App Review,4,everything works fine
+1848,12448,2023-01-13,Email,2,bad experience refund still not received
+1849,12635,2023-01-11,App Review,5,frustrating experience will uninstall
+1850,12936,2023-02-23,Email,3,order got cancelled automatically
+1851,11695,2023-01-16,App Review,4,everything works fine
+1852,10591,2023-01-08,Email,1,love the app but payment failed twice
+1853,11333,2023-04-14,Support Ticket,5,refund pending from last week
+1854,11109,2023-02-28,App Review,4,order got cancelled automatically
+1855,12139,2023-02-26,Support Ticket,1,cant track my order properly
+1856,12720,2023-02-09,Email,1,support team resolved issue quickly
+1857,10713,2023-05-10,App Review,2,App crashes again after update
+1858,10935,2023-04-04,App Review,5,order got cancelled automatically
+1859,11951,2023-05-18,App Review,2,customer service is terrible
+1860,10241,2023-02-13,Email,3,checkout page not loading
+1861,12043,2023-05-19,Email,1,delivery was late and support not helpful
+1862,10001,2023-03-21,App Review,2,refund pending from last week
+1863,12272,2023-03-22,Email,4,order got cancelled automatically
+1864,12848,2023-01-02,Support Ticket,5,love the app but payment failed twice
+1865,11768,2023-06-27,Support Ticket,3,delivery was late and support not helpful
+1866,11949,2023-05-20,Email,5,price increased suddenly not fair
+1867,12636,2023-04-25,Support Ticket,3,delivery was late and support not helpful
+1868,12163,2023-03-31,Email,1,delivery was late and support not helpful
+1869,10917,2023-01-23,App Review,2,support team resolved issue quickly
+1870,12241,2023-05-26,Support Ticket,4,frustrating experience will uninstall
+1871,12918,2023-03-03,App Review,5,too many ads now hate it
+1872,10089,2023-04-23,App Review,5,very smooth experience no issues
+1873,11709,2023-05-08,App Review,1,support team resolved issue quickly
+1874,12169,2023-03-03,Support Ticket,1,login issue cant access account
+1875,10142,2023-02-07,Support Ticket,1,very smooth experience no issues
+1876,10105,2023-06-15,App Review,5,great service very happy
+1877,10886,2023-03-02,App Review,5,customer service is terrible
+1878,10427,2023-05-09,App Review,5,great service very happy
+1879,11328,2023-06-22,Email,2,very smooth experience no issues
+1880,11895,2023-06-05,App Review,3,frustrating experience will uninstall
+1881,11994,2023-05-29,Email,3,support team resolved issue quickly
+1882,10316,2023-05-02,App Review,2,login issue cant access account
+1883,11986,2023-04-20,App Review,3,everything works fine
+1884,10634,2023-01-13,App Review,1,frustrating experience will uninstall
+1885,11925,2023-06-04,App Review,1,payment deducted but order failed
+1886,12056,2023-04-10,Support Ticket,5,very smooth experience no issues
+1887,12821,2023-05-15,App Review,5,love the app but payment failed twice
+1888,12270,2023-01-22,App Review,3,order got cancelled automatically
+1889,11439,2023-03-15,App Review,3,login issue cant access account
+1890,10552,2023-05-12,App Review,2,app slow and buggy sometimes
+1891,10715,2023-01-23,App Review,4,awesome app easy to use
+1892,11287,2023-04-29,App Review,5,delivery was late and support not helpful
+1893,11713,2023-03-11,Email,5,cant track my order properly
+1894,11883,2023-03-25,Email,4,bad experience refund still not received
+1895,11107,2023-04-11,App Review,1,checkout page not loading
+1896,11341,2023-03-25,App Review,2,App crashes again after update
+1897,10110,2023-06-10,Support Ticket,3,delivery was late and support not helpful
+1898,10250,2023-01-28,App Review,2,delivery was late and support not helpful
+1899,12430,2023-05-16,App Review,5,bad experience refund still not received
+1900,12054,2023-01-01,App Review,2,love the app but payment failed twice
+1901,10458,2023-06-14,App Review,1,order got cancelled automatically
+1902,11107,2023-03-04,Email,2,refund pending from last week
+1903,10207,2023-01-22,App Review,5,delivery was late and support not helpful
+1904,10899,2023-03-11,Email,1,customer service is terrible
+1905,10021,2023-05-05,App Review,4,payment deducted but order failed
+1906,10409,2023-05-29,App Review,3,cant track my order properly
+1907,10894,2023-04-06,Email,1,App crashes again after update
+1908,10514,2023-06-12,App Review,3,delivery was late and support not helpful
+1909,10808,2023-03-20,Email,4,delivery was late and support not helpful
+1910,10873,2023-01-05,App Review,3,great service very happy
+1911,10013,2023-03-01,Email,5,bad experience refund still not received
+1912,10970,2023-04-30,App Review,2,very smooth experience no issues
+1913,12134,2023-02-15,Support Ticket,1,love the app but payment failed twice
+1914,12956,2023-06-27,App Review,5,frustrating experience will uninstall
+1915,11560,2023-06-25,Support Ticket,2,app slow and buggy sometimes
+1916,11324,2023-05-14,App Review,4,frustrating experience will uninstall
+1917,11266,2023-02-25,Email,5,checkout page not loading
+1918,12169,2023-04-20,App Review,2,app slow and buggy sometimes
+1919,10749,2023-06-06,Support Ticket,4,App crashes again after update
+1920,10684,2023-04-14,App Review,1,too many ads now hate it
+1921,11927,2023-03-18,App Review,2,payment deducted but order failed
+1922,12356,2023-05-26,App Review,1,delivery was late and support not helpful
+1923,10694,2023-01-02,App Review,5,login issue cant access account
+1924,12335,2023-01-08,App Review,1,frustrating experience will uninstall
+1925,10306,2023-03-16,Support Ticket,4,checkout page not loading
+1926,11989,2023-05-05,Support Ticket,5,everything works fine
+1927,12961,2023-02-07,App Review,3,bad experience refund still not received
+1928,10661,2023-06-25,Support Ticket,3,cant track my order properly
+1929,10548,2023-01-27,Email,3,checkout page not loading
+1930,10311,2023-01-20,App Review,2,frustrating experience will uninstall
+1931,12920,2023-05-20,Email,3,cant track my order properly
+1932,11082,2023-02-12,Email,4,everything works fine
+1933,12971,2023-01-31,Support Ticket,5,order got cancelled automatically
+1934,11737,2023-04-01,App Review,5,App crashes again after update
+1935,10754,2023-03-02,Email,5,too many ads now hate it
+1936,10034,2023-04-19,App Review,5,everything works fine
+1937,10444,2023-04-01,App Review,3,frustrating experience will uninstall
+1938,12140,2023-06-12,App Review,4,App crashes again after update
+1939,11982,2023-04-05,Support Ticket,5,price increased suddenly not fair
+1940,11230,2023-05-23,Support Ticket,2,order got cancelled automatically
+1941,10352,2023-05-24,Email,5,awesome app easy to use
+1942,10902,2023-01-13,Email,3,checkout page not loading
+1943,11355,2023-04-23,App Review,4,login issue cant access account
+1944,12909,2023-02-04,App Review,4,customer service is terrible
+1945,11748,2023-05-29,App Review,5,login issue cant access account
+1946,10158,2023-06-07,App Review,1,order got cancelled automatically
+1947,11977,2023-02-17,Email,4,bad experience refund still not received
+1948,10956,2023-02-04,Email,3,very smooth experience no issues
+1949,12071,2023-03-27,App Review,2,cant track my order properly
+1950,10403,2023-06-15,App Review,5,bad experience refund still not received
+1951,12852,2023-06-08,App Review,4,App crashes again after update
+1952,10515,2023-06-01,App Review,4,App crashes again after update
+1953,12779,2023-04-24,Support Ticket,2,login issue cant access account
+1954,11387,2023-06-26,Email,3,support team resolved issue quickly
+1955,12579,2023-04-10,Support Ticket,4,App crashes again after update
+1956,10955,2023-06-09,App Review,3,customer service is terrible
+1957,12199,2023-04-09,App Review,1,checkout page not loading
+1958,11712,2023-01-03,App Review,5,awesome app easy to use
+1959,12994,2023-03-26,Support Ticket,3,too many ads now hate it
+1960,10607,2023-05-05,Email,4,delivery was late and support not helpful
+1961,12467,2023-05-18,App Review,3,support team resolved issue quickly
+1962,11273,2023-03-24,Email,2,bad experience refund still not received
+1963,12913,2023-01-25,App Review,3,cant track my order properly
+1964,11535,2023-03-09,Email,3,payment deducted but order failed
+1965,12625,2023-03-02,Support Ticket,3,cant track my order properly
+1966,12382,2023-01-29,Email,3,payment deducted but order failed
+1967,11441,2023-05-07,Email,3,everything works fine
+1968,12979,2023-01-19,App Review,1,price increased suddenly not fair
+1969,11797,2023-06-20,App Review,3,login issue cant access account
+1970,10294,2023-03-15,App Review,1,customer service is terrible
+1971,10754,2023-03-02,App Review,1,love the app but payment failed twice
+1972,11394,2023-06-20,Email,5,order got cancelled automatically
+1973,10185,2023-06-02,Email,4,checkout page not loading
+1974,11269,2023-01-20,App Review,4,awesome app easy to use
+1975,10636,2023-02-17,Support Ticket,3,order got cancelled automatically
+1976,11291,2023-03-28,App Review,5,payment deducted but order failed
+1977,10529,2023-06-01,App Review,4,great service very happy
+1978,12068,2023-05-19,App Review,5,customer service is terrible
+1979,12958,2023-04-20,App Review,2,awesome app easy to use
+1980,12914,2023-01-28,App Review,5,app slow and buggy sometimes
+1981,10793,2023-02-28,App Review,5,refund pending from last week
+1982,12147,2023-05-13,App Review,5,delivery was late and support not helpful
+1983,12799,2023-02-20,Support Ticket,1,customer service is terrible
+1984,10477,2023-05-29,App Review,2,everything works fine
+1985,11622,2023-01-12,App Review,2,price increased suddenly not fair
+1986,10939,2023-02-19,App Review,2,awesome app easy to use
+1987,10525,2023-05-12,Email,5,app slow and buggy sometimes
+1988,12381,2023-04-23,App Review,1,great service very happy
+1989,10001,2023-06-19,Support Ticket,1,frustrating experience will uninstall
+1990,10374,2023-06-15,Email,2,customer service is terrible
+1991,12340,2023-06-02,Email,1,very smooth experience no issues
+1992,12884,2023-01-14,Email,1,cant track my order properly
+1993,10552,2023-02-01,App Review,5,support team resolved issue quickly
+1994,12365,2023-05-19,App Review,4,order got cancelled automatically
+1995,11525,2023-05-26,App Review,1,frustrating experience will uninstall
+1996,11851,2023-06-04,Email,3,very smooth experience no issues
+1997,10380,2023-02-24,App Review,3,great service very happy
+1998,11646,2023-04-30,App Review,1,very smooth experience no issues
+1999,10013,2023-03-16,Support Ticket,4,App crashes again after update
+2000,10503,2023-01-21,App Review,4,frustrating experience will uninstall
+2001,12278,2023-06-21,Support Ticket,4,customer service is terrible
+2002,12008,2023-05-13,Email,4,very smooth experience no issues
+2003,10129,2023-03-28,App Review,1,support team resolved issue quickly
+2004,10837,2023-06-18,App Review,5,cant track my order properly
+2005,12938,2023-02-28,App Review,5,order got cancelled automatically
+2006,12040,2023-03-30,Email,5,order got cancelled automatically
+2007,10027,2023-05-30,Email,1,bad experience refund still not received
+2008,12113,2023-03-24,Email,5,refund pending from last week
+2009,11252,2023-03-06,Support Ticket,5,everything works fine
+2010,10260,2023-03-05,Email,5,login issue cant access account
+2011,12046,2023-03-12,App Review,1,love the app but payment failed twice
+2012,11472,2023-01-04,App Review,4,App crashes again after update
+2013,11447,2023-05-23,Support Ticket,5,very smooth experience no issues
+2014,10459,2023-04-14,App Review,4,awesome app easy to use
+2015,10300,2023-05-30,App Review,4,payment deducted but order failed
+2016,12966,2023-06-24,Email,5,app slow and buggy sometimes
+2017,12334,2023-04-03,App Review,3,delivery was late and support not helpful
+2018,10629,2023-06-23,Support Ticket,4,bad experience refund still not received
+2019,10269,2023-05-22,Email,3,order got cancelled automatically
+2020,12639,2023-06-27,App Review,5,order got cancelled automatically
+2021,11993,2023-05-28,Support Ticket,1,price increased suddenly not fair
+2022,11628,2023-06-27,App Review,3,refund pending from last week
+2023,11801,2023-04-22,App Review,4,bad experience refund still not received
+2024,12891,2023-06-10,App Review,5,too many ads now hate it
+2025,10861,2023-04-29,App Review,4,everything works fine
+2026,11280,2023-02-28,App Review,5,bad experience refund still not received
+2027,12180,2023-02-12,App Review,5,love the app but payment failed twice
+2028,11799,2023-01-12,App Review,1,frustrating experience will uninstall
+2029,11706,2023-02-09,App Review,3,too many ads now hate it
+2030,12560,2023-04-28,Email,1,login issue cant access account
+2031,12360,2023-01-20,Support Ticket,2,refund pending from last week
+2032,10575,2023-06-15,App Review,3,very smooth experience no issues
+2033,12933,2023-05-11,App Review,5,customer service is terrible
+2034,12003,2023-06-05,App Review,5,frustrating experience will uninstall
+2035,11307,2023-03-31,App Review,1,price increased suddenly not fair
+2036,11956,2023-04-04,Email,1,delivery was late and support not helpful
+2037,12734,2023-01-13,Email,4,cant track my order properly
+2038,12020,2023-03-07,App Review,3,price increased suddenly not fair
+2039,12212,2023-02-06,App Review,2,frustrating experience will uninstall
+2040,12352,2023-06-26,App Review,5,customer service is terrible
+2041,11655,2023-03-07,Email,5,bad experience refund still not received
+2042,11579,2023-02-05,App Review,3,customer service is terrible
+2043,11847,2023-01-26,Support Ticket,5,frustrating experience will uninstall
+2044,12203,2023-03-16,Email,2,too many ads now hate it
+2045,11390,2023-04-18,App Review,4,bad experience refund still not received
+2046,11742,2023-06-17,Email,3,customer service is terrible
+2047,11925,2023-02-12,Support Ticket,1,cant track my order properly
+2048,10619,2023-05-30,Email,5,great service very happy
+2049,11274,2023-05-28,App Review,3,awesome app easy to use
+2050,10956,2023-01-08,App Review,4,price increased suddenly not fair
+2051,11939,2023-01-29,Support Ticket,2,login issue cant access account
+2052,12381,2023-02-09,Email,1,refund pending from last week
+2053,10968,2023-06-07,Email,1,login issue cant access account
+2054,12558,2023-05-08,Support Ticket,3,login issue cant access account
+2055,11316,2023-03-25,Support Ticket,4,checkout page not loading
+2056,11043,2023-04-26,Support Ticket,2,app slow and buggy sometimes
+2057,10281,2023-05-24,App Review,4,checkout page not loading
+2058,12844,2023-06-23,Email,4,refund pending from last week
+2059,12166,2023-03-03,Email,4,app slow and buggy sometimes
+2060,11058,2023-01-07,Email,3,login issue cant access account
+2061,10197,2023-02-14,Email,5,login issue cant access account
+2062,12532,2023-06-25,App Review,3,login issue cant access account
+2063,11082,2023-06-04,Email,3,great service very happy
+2064,12884,2023-03-29,Email,1,App crashes again after update
+2065,11184,2023-03-14,App Review,2,refund pending from last week
+2066,11008,2023-06-12,App Review,1,checkout page not loading
+2067,12738,2023-06-28,App Review,4,cant track my order properly
+2068,11229,2023-02-06,App Review,1,price increased suddenly not fair
+2069,11035,2023-04-29,App Review,2,price increased suddenly not fair
+2070,10489,2023-02-26,App Review,5,app slow and buggy sometimes
+2071,10275,2023-01-08,Email,2,order got cancelled automatically
+2072,12740,2023-04-05,Email,1,too many ads now hate it
+2073,12289,2023-04-27,Email,1,awesome app easy to use
+2074,11239,2023-04-20,Support Ticket,5,awesome app easy to use
+2075,11274,2023-01-20,App Review,1,customer service is terrible
+2076,10125,2023-05-04,App Review,3,price increased suddenly not fair
+2077,10216,2023-02-22,Support Ticket,3,everything works fine
+2078,11208,2023-04-29,App Review,4,frustrating experience will uninstall
+2079,11246,2023-01-12,Support Ticket,4,awesome app easy to use
+2080,12542,2023-06-26,Support Ticket,5,love the app but payment failed twice
+2081,12474,2023-01-17,Email,1,too many ads now hate it
+2082,10918,2023-03-05,Support Ticket,2,price increased suddenly not fair
+2083,11317,2023-02-11,App Review,2,customer service is terrible
+2084,12198,2023-04-04,App Review,1,awesome app easy to use
+2085,12431,2023-06-06,Email,2,cant track my order properly
+2086,11661,2023-05-27,App Review,2,frustrating experience will uninstall
+2087,10307,2023-01-11,Support Ticket,3,awesome app easy to use
+2088,11359,2023-04-08,App Review,4,checkout page not loading
+2089,11969,2023-06-27,Email,2,cant track my order properly
+2090,12793,2023-03-12,Email,4,price increased suddenly not fair
+2091,10891,2023-04-18,Email,2,refund pending from last week
+2092,10374,2023-02-27,App Review,2,payment deducted but order failed
+2093,12033,2023-02-03,App Review,3,too many ads now hate it
+2094,11364,2023-01-20,Support Ticket,1,App crashes again after update
+2095,10128,2023-02-19,App Review,1,delivery was late and support not helpful
+2096,11014,2023-04-12,Support Ticket,3,cant track my order properly
+2097,11799,2023-05-18,Email,5,App crashes again after update
+2098,12716,2023-06-09,Email,4,bad experience refund still not received
+2099,11381,2023-02-21,Email,1,delivery was late and support not helpful
+2100,10516,2023-01-15,App Review,5,frustrating experience will uninstall
+2101,11518,2023-03-25,Email,4,customer service is terrible
+2102,10085,2023-05-11,Support Ticket,4,love the app but payment failed twice
+2103,11198,2023-02-06,App Review,5,order got cancelled automatically
+2104,12358,2023-05-06,Support Ticket,3,great service very happy
+2105,11142,2023-02-09,App Review,1,price increased suddenly not fair
+2106,12474,2023-03-13,App Review,3,very smooth experience no issues
+2107,11993,2023-02-09,App Review,3,very smooth experience no issues
+2108,12161,2023-02-25,Support Ticket,3,App crashes again after update
+2109,10302,2023-05-31,App Review,4,App crashes again after update
+2110,12791,2023-04-14,Support Ticket,5,awesome app easy to use
+2111,10587,2023-05-19,Support Ticket,5,order got cancelled automatically
+2112,10986,2023-04-20,App Review,5,delivery was late and support not helpful
+2113,11863,2023-05-16,App Review,5,order got cancelled automatically
+2114,10344,2023-04-03,Email,5,frustrating experience will uninstall
+2115,10813,2023-04-04,App Review,1,support team resolved issue quickly
+2116,11987,2023-02-25,Email,2,very smooth experience no issues
+2117,12848,2023-03-01,App Review,3,bad experience refund still not received
+2118,11310,2023-05-18,App Review,5,cant track my order properly
+2119,11999,2023-02-08,Email,3,bad experience refund still not received
+2120,11677,2023-01-28,App Review,4,login issue cant access account
+2121,11327,2023-02-18,App Review,1,refund pending from last week
+2122,11092,2023-06-13,App Review,2,support team resolved issue quickly
+2123,12408,2023-05-05,App Review,4,App crashes again after update
+2124,11009,2023-01-13,Email,1,App crashes again after update
+2125,10703,2023-02-05,Support Ticket,2,frustrating experience will uninstall
+2126,10574,2023-04-11,App Review,2,bad experience refund still not received
+2127,11608,2023-01-26,Email,2,App crashes again after update
+2128,11112,2023-03-27,Email,4,app slow and buggy sometimes
+2129,10687,2023-01-04,App Review,2,delivery was late and support not helpful
+2130,12828,2023-03-23,App Review,4,awesome app easy to use
+2131,12632,2023-06-15,Support Ticket,1,love the app but payment failed twice
+2132,12636,2023-05-07,Email,5,support team resolved issue quickly
+2133,10488,2023-03-29,Email,2,order got cancelled automatically
+2134,11347,2023-05-07,Email,4,cant track my order properly
+2135,10493,2023-04-30,App Review,4,love the app but payment failed twice
+2136,11667,2023-01-22,Email,1,bad experience refund still not received
+2137,11637,2023-05-10,Email,5,bad experience refund still not received
+2138,10018,2023-01-31,Email,4,payment deducted but order failed
+2139,12444,2023-04-29,App Review,3,login issue cant access account
+2140,11000,2023-01-11,App Review,1,payment deducted but order failed
+2141,10850,2023-02-15,App Review,5,payment deducted but order failed
+2142,11388,2023-04-06,Support Ticket,5,app slow and buggy sometimes
+2143,11354,2023-01-10,App Review,1,great service very happy
+2144,11367,2023-06-17,App Review,2,cant track my order properly
+2145,10821,2023-05-08,App Review,5,very smooth experience no issues
+2146,10454,2023-06-01,App Review,4,app slow and buggy sometimes
+2147,11624,2023-04-09,Email,5,login issue cant access account
+2148,12772,2023-06-21,Email,3,everything works fine
+2149,10710,2023-04-22,Email,4,everything works fine
+2150,12190,2023-03-01,App Review,2,everything works fine
+2151,10916,2023-03-28,Email,1,very smooth experience no issues
+2152,12875,2023-05-25,App Review,4,frustrating experience will uninstall
+2153,12652,2023-03-06,App Review,5,awesome app easy to use
+2154,11496,2023-02-26,App Review,2,great service very happy
+2155,11440,2023-04-16,App Review,3,refund pending from last week
+2156,10304,2023-01-09,App Review,4,very smooth experience no issues
+2157,10735,2023-01-22,Email,3,payment deducted but order failed
+2158,12338,2023-05-21,Email,5,great service very happy
+2159,11963,2023-03-30,Support Ticket,5,customer service is terrible
+2160,12149,2023-06-25,App Review,1,checkout page not loading
+2161,12009,2023-01-18,App Review,5,very smooth experience no issues
+2162,12914,2023-04-25,App Review,5,great service very happy
+2163,12889,2023-06-17,Support Ticket,5,customer service is terrible
+2164,10961,2023-05-25,Email,4,very smooth experience no issues
+2165,12989,2023-05-23,Email,5,delivery was late and support not helpful
+2166,11026,2023-04-16,App Review,1,too many ads now hate it
+2167,12132,2023-01-15,Email,2,bad experience refund still not received
+2168,12375,2023-03-04,App Review,5,cant track my order properly
+2169,12863,2023-06-16,Email,1,app slow and buggy sometimes
+2170,11473,2023-01-13,Support Ticket,1,order got cancelled automatically
+2171,12501,2023-03-22,Support Ticket,5,refund pending from last week
+2172,11947,2023-02-01,Email,5,awesome app easy to use
+2173,12676,2023-05-17,App Review,1,price increased suddenly not fair
+2174,11177,2023-02-09,Support Ticket,5,checkout page not loading
+2175,10664,2023-05-28,Email,4,love the app but payment failed twice
+2176,10011,2023-03-23,App Review,3,order got cancelled automatically
+2177,11156,2023-03-18,App Review,5,login issue cant access account
+2178,10303,2023-03-17,App Review,3,cant track my order properly
+2179,11763,2023-06-21,App Review,1,customer service is terrible
+2180,12830,2023-02-07,App Review,2,great service very happy
+2181,10042,2023-03-12,Email,3,bad experience refund still not received
+2182,10943,2023-02-17,App Review,3,app slow and buggy sometimes
+2183,12390,2023-01-18,App Review,5,cant track my order properly
+2184,11349,2023-05-24,Email,5,app slow and buggy sometimes
+2185,12545,2023-02-08,Support Ticket,4,refund pending from last week
+2186,12411,2023-03-30,Email,5,very smooth experience no issues
+2187,10890,2023-03-03,App Review,1,App crashes again after update
+2188,12474,2023-05-21,Support Ticket,1,frustrating experience will uninstall
+2189,11004,2023-04-19,Support Ticket,5,frustrating experience will uninstall
+2190,10020,2023-03-22,App Review,1,login issue cant access account
+2191,10406,2023-05-14,App Review,1,support team resolved issue quickly
+2192,12666,2023-03-18,Email,4,price increased suddenly not fair
+2193,11014,2023-03-31,Support Ticket,3,cant track my order properly
+2194,10335,2023-01-14,Support Ticket,5,refund pending from last week
+2195,11838,2023-04-05,Support Ticket,2,very smooth experience no issues
+2196,11147,2023-02-23,Email,1,price increased suddenly not fair
+2197,12446,2023-05-12,Email,2,checkout page not loading
+2198,12840,2023-02-08,App Review,4,customer service is terrible
+2199,11827,2023-03-13,App Review,2,payment deducted but order failed
+2200,10714,2023-01-25,App Review,3,customer service is terrible
+2201,10050,2023-03-18,Email,5,refund pending from last week
+2202,10323,2023-06-09,Email,5,love the app but payment failed twice
+2203,10788,2023-06-15,Email,2,delivery was late and support not helpful
+2204,10140,2023-04-30,App Review,3,love the app but payment failed twice
+2205,10469,2023-02-22,Email,3,bad experience refund still not received
+2206,10786,2023-06-05,App Review,5,great service very happy
+2207,11825,2023-05-11,App Review,5,app slow and buggy sometimes
+2208,11357,2023-05-30,Email,1,frustrating experience will uninstall
+2209,11916,2023-04-06,Email,4,delivery was late and support not helpful
+2210,10963,2023-06-15,Support Ticket,2,very smooth experience no issues
+2211,10372,2023-03-13,App Review,1,great service very happy
+2212,12541,2023-03-03,App Review,1,great service very happy
+2213,11692,2023-01-06,App Review,3,App crashes again after update
+2214,12798,2023-02-01,App Review,3,bad experience refund still not received
+2215,11179,2023-04-09,Support Ticket,1,very smooth experience no issues
+2216,12338,2023-05-18,Email,4,very smooth experience no issues
+2217,11671,2023-05-11,Support Ticket,2,customer service is terrible
+2218,10105,2023-03-17,App Review,4,order got cancelled automatically
+2219,11443,2023-06-26,Support Ticket,2,app slow and buggy sometimes
+2220,12717,2023-02-28,App Review,1,order got cancelled automatically
+2221,11681,2023-01-31,Support Ticket,3,order got cancelled automatically
+2222,10001,2023-04-03,App Review,1,checkout page not loading
+2223,12636,2023-03-10,App Review,3,delivery was late and support not helpful
+2224,12691,2023-02-21,Email,1,bad experience refund still not received
+2225,12137,2023-03-30,Support Ticket,3,everything works fine
+2226,10349,2023-05-07,App Review,1,payment deducted but order failed
+2227,11286,2023-06-18,App Review,4,order got cancelled automatically
+2228,11062,2023-01-31,Support Ticket,5,very smooth experience no issues
+2229,12956,2023-03-25,App Review,1,delivery was late and support not helpful
+2230,12206,2023-05-07,App Review,3,too many ads now hate it
+2231,12359,2023-05-30,App Review,1,support team resolved issue quickly
+2232,10444,2023-05-12,App Review,4,great service very happy
+2233,12345,2023-01-13,Support Ticket,2,frustrating experience will uninstall
+2234,10951,2023-02-14,Email,3,support team resolved issue quickly
+2235,10035,2023-05-07,Email,3,price increased suddenly not fair
+2236,11107,2023-06-19,Support Ticket,5,frustrating experience will uninstall
+2237,11475,2023-04-24,App Review,3,price increased suddenly not fair
+2238,11798,2023-06-26,App Review,4,too many ads now hate it
+2239,11845,2023-01-20,App Review,3,love the app but payment failed twice
+2240,11408,2023-03-22,App Review,5,great service very happy
+2241,11195,2023-06-13,App Review,5,support team resolved issue quickly
+2242,11399,2023-05-09,Support Ticket,2,login issue cant access account
+2243,11708,2023-05-23,Email,5,bad experience refund still not received
+2244,11385,2023-01-17,App Review,3,login issue cant access account
+2245,12606,2023-06-01,Email,5,great service very happy
+2246,12938,2023-02-27,Email,5,payment deducted but order failed
+2247,12188,2023-03-13,Support Ticket,1,awesome app easy to use
+2248,12934,2023-04-19,Support Ticket,4,delivery was late and support not helpful
+2249,11300,2023-01-23,Email,2,cant track my order properly
+2250,12773,2023-06-23,Email,2,customer service is terrible
+2251,11243,2023-03-13,Email,2,login issue cant access account
+2252,10520,2023-01-08,Email,4,price increased suddenly not fair
+2253,11806,2023-02-28,App Review,1,too many ads now hate it
+2254,10009,2023-04-21,App Review,1,login issue cant access account
+2255,10983,2023-01-13,Email,4,checkout page not loading
+2256,12425,2023-06-16,App Review,1,frustrating experience will uninstall
+2257,11656,2023-06-05,App Review,1,login issue cant access account
+2258,11660,2023-01-16,Email,1,love the app but payment failed twice
+2259,12729,2023-04-29,App Review,2,great service very happy
+2260,12631,2023-01-02,Email,3,App crashes again after update
+2261,12199,2023-05-25,Email,1,awesome app easy to use
+2262,10719,2023-01-30,Support Ticket,5,love the app but payment failed twice
+2263,11072,2023-04-13,App Review,4,price increased suddenly not fair
+2264,10858,2023-01-13,App Review,2,support team resolved issue quickly
+2265,11316,2023-04-06,Email,2,awesome app easy to use
+2266,11603,2023-04-04,Support Ticket,3,app slow and buggy sometimes
+2267,10049,2023-03-23,Support Ticket,4,delivery was late and support not helpful
+2268,12711,2023-01-13,App Review,1,frustrating experience will uninstall
+2269,12578,2023-06-20,App Review,1,great service very happy
+2270,12904,2023-04-04,Support Ticket,5,everything works fine
+2271,10145,2023-05-29,App Review,2,cant track my order properly
+2272,10914,2023-04-22,Email,2,payment deducted but order failed
+2273,11462,2023-02-24,App Review,5,App crashes again after update
+2274,12289,2023-03-22,App Review,4,awesome app easy to use
+2275,10580,2023-06-17,App Review,2,checkout page not loading
+2276,12734,2023-04-26,App Review,4,customer service is terrible
+2277,11584,2023-05-23,Email,1,support team resolved issue quickly
+2278,10482,2023-06-29,Support Ticket,4,App crashes again after update
+2279,11249,2023-04-18,App Review,3,payment deducted but order failed
+2280,10672,2023-02-22,Support Ticket,5,support team resolved issue quickly
+2281,10630,2023-05-08,App Review,5,payment deducted but order failed
+2282,12708,2023-06-29,Email,5,cant track my order properly
+2283,10661,2023-06-07,App Review,5,delivery was late and support not helpful
+2284,12852,2023-06-10,Support Ticket,3,refund pending from last week
+2285,12466,2023-02-26,Email,2,too many ads now hate it
+2286,10987,2023-02-21,Email,3,price increased suddenly not fair
+2287,11546,2023-05-17,Support Ticket,4,checkout page not loading
+2288,10649,2023-04-21,Email,5,customer service is terrible
+2289,10968,2023-01-01,Support Ticket,1,very smooth experience no issues
+2290,12637,2023-02-13,Email,5,payment deducted but order failed
+2291,11100,2023-03-16,Support Ticket,5,too many ads now hate it
+2292,12556,2023-04-08,Email,5,love the app but payment failed twice
+2293,10440,2023-01-09,App Review,5,refund pending from last week
+2294,10920,2023-02-01,Email,2,delivery was late and support not helpful
+2295,10769,2023-01-15,App Review,1,payment deducted but order failed
+2296,11343,2023-05-20,Email,1,love the app but payment failed twice
+2297,11826,2023-05-16,App Review,2,checkout page not loading
+2298,10262,2023-03-13,Email,4,App crashes again after update
+2299,11577,2023-06-04,App Review,5,App crashes again after update
+2300,12684,2023-01-12,App Review,5,very smooth experience no issues
+2301,12506,2023-03-06,App Review,4,awesome app easy to use
+2302,10998,2023-04-17,Support Ticket,1,great service very happy
+2303,10699,2023-02-11,App Review,1,too many ads now hate it
+2304,12349,2023-04-25,App Review,1,customer service is terrible
+2305,11603,2023-05-19,Email,2,very smooth experience no issues
+2306,11241,2023-04-13,Email,3,very smooth experience no issues
+2307,11125,2023-06-20,App Review,1,love the app but payment failed twice
+2308,12601,2023-04-05,App Review,2,delivery was late and support not helpful
+2309,12335,2023-01-17,App Review,1,login issue cant access account
+2310,11190,2023-06-09,Support Ticket,4,delivery was late and support not helpful
+2311,12668,2023-03-26,App Review,3,login issue cant access account
+2312,11005,2023-06-17,App Review,3,payment deducted but order failed
+2313,10035,2023-05-31,App Review,3,payment deducted but order failed
+2314,10743,2023-02-25,App Review,5,refund pending from last week
+2315,11764,2023-05-14,Email,1,love the app but payment failed twice
+2316,10352,2023-03-27,App Review,3,refund pending from last week
+2317,11922,2023-06-27,App Review,4,payment deducted but order failed
+2318,10072,2023-04-12,App Review,4,bad experience refund still not received
+2319,12695,2023-06-14,App Review,5,order got cancelled automatically
+2320,11376,2023-02-23,App Review,2,customer service is terrible
+2321,11914,2023-06-26,Support Ticket,3,love the app but payment failed twice
+2322,11093,2023-04-25,Email,1,app slow and buggy sometimes
+2323,12472,2023-05-19,Support Ticket,4,awesome app easy to use
+2324,10707,2023-03-29,Support Ticket,2,price increased suddenly not fair
+2325,11804,2023-02-18,Email,1,checkout page not loading
+2326,12608,2023-05-29,App Review,3,love the app but payment failed twice
+2327,12875,2023-04-25,Email,3,login issue cant access account
+2328,10955,2023-03-04,Support Ticket,1,app slow and buggy sometimes
+2329,12564,2023-04-14,Email,4,frustrating experience will uninstall
+2330,12475,2023-03-24,Email,4,support team resolved issue quickly
+2331,10159,2023-04-13,App Review,1,refund pending from last week
+2332,12196,2023-06-05,Support Ticket,3,refund pending from last week
+2333,12823,2023-01-17,Email,4,payment deducted but order failed
+2334,11735,2023-01-06,Support Ticket,3,App crashes again after update
+2335,11585,2023-05-27,App Review,2,bad experience refund still not received
+2336,10066,2023-01-28,App Review,2,too many ads now hate it
+2337,12428,2023-02-07,App Review,4,great service very happy
+2338,10057,2023-04-29,Email,5,love the app but payment failed twice
+2339,10341,2023-02-06,App Review,4,delivery was late and support not helpful
+2340,11153,2023-04-25,App Review,1,love the app but payment failed twice
+2341,12774,2023-03-09,Support Ticket,3,support team resolved issue quickly
+2342,11195,2023-06-26,App Review,5,everything works fine
+2343,12817,2023-02-12,Support Ticket,1,everything works fine
+2344,12661,2023-06-13,App Review,5,order got cancelled automatically
+2345,11232,2023-02-27,Support Ticket,5,checkout page not loading
+2346,12401,2023-01-13,Email,1,payment deducted but order failed
+2347,11494,2023-02-21,Support Ticket,5,very smooth experience no issues
+2348,11821,2023-02-27,Support Ticket,2,love the app but payment failed twice
+2349,10115,2023-02-01,App Review,5,checkout page not loading
+2350,10661,2023-04-15,App Review,3,too many ads now hate it
+2351,11465,2023-03-24,App Review,3,login issue cant access account
+2352,12500,2023-04-09,Email,4,App crashes again after update
+2353,11868,2023-04-14,Support Ticket,5,too many ads now hate it
+2354,12334,2023-01-28,App Review,1,checkout page not loading
+2355,11016,2023-05-09,Email,4,cant track my order properly
+2356,10310,2023-06-19,App Review,1,everything works fine
+2357,10207,2023-02-17,Support Ticket,2,login issue cant access account
+2358,12665,2023-02-09,Support Ticket,2,everything works fine
+2359,12493,2023-04-07,App Review,3,support team resolved issue quickly
+2360,12717,2023-04-24,App Review,2,love the app but payment failed twice
+2361,10632,2023-05-12,App Review,1,very smooth experience no issues
+2362,12102,2023-06-15,Email,1,frustrating experience will uninstall
+2363,12959,2023-06-04,Email,1,checkout page not loading
+2364,10656,2023-05-17,App Review,3,price increased suddenly not fair
+2365,11423,2023-04-21,App Review,5,support team resolved issue quickly
+2366,11931,2023-05-24,App Review,1,cant track my order properly
+2367,12562,2023-03-17,Email,5,price increased suddenly not fair
+2368,11679,2023-01-31,Email,4,app slow and buggy sometimes
+2369,10236,2023-04-29,App Review,4,order got cancelled automatically
+2370,10347,2023-05-22,Email,4,login issue cant access account
+2371,12674,2023-01-25,Email,5,order got cancelled automatically
+2372,10629,2023-02-03,App Review,1,checkout page not loading
+2373,11540,2023-03-08,App Review,3,delivery was late and support not helpful
+2374,12003,2023-06-01,Email,4,love the app but payment failed twice
+2375,11271,2023-04-28,Support Ticket,4,everything works fine
+2376,10363,2023-03-14,App Review,5,App crashes again after update
+2377,12368,2023-01-26,App Review,1,app slow and buggy sometimes
+2378,10285,2023-05-28,App Review,4,refund pending from last week
+2379,10148,2023-04-14,Email,3,cant track my order properly
+2380,11107,2023-01-10,App Review,2,support team resolved issue quickly
+2381,12453,2023-03-08,App Review,2,too many ads now hate it
+2382,10455,2023-06-01,Email,4,too many ads now hate it
+2383,11766,2023-01-05,Email,5,everything works fine
+2384,10799,2023-01-27,App Review,3,app slow and buggy sometimes
+2385,11184,2023-04-23,App Review,5,love the app but payment failed twice
+2386,11012,2023-01-15,Email,3,checkout page not loading
+2387,12831,2023-06-12,App Review,1,everything works fine
+2388,12507,2023-04-15,App Review,1,great service very happy
+2389,11523,2023-02-13,Support Ticket,1,payment deducted but order failed
+2390,12785,2023-01-26,App Review,2,app slow and buggy sometimes
+2391,12556,2023-06-24,Email,2,order got cancelled automatically
+2392,10480,2023-06-11,Support Ticket,4,bad experience refund still not received
+2393,11686,2023-04-05,App Review,4,checkout page not loading
+2394,12161,2023-06-27,App Review,1,checkout page not loading
+2395,12796,2023-03-25,Email,1,App crashes again after update
+2396,11601,2023-05-20,Support Ticket,2,refund pending from last week
+2397,12408,2023-05-12,Support Ticket,3,price increased suddenly not fair
+2398,10340,2023-03-28,Email,1,delivery was late and support not helpful
+2399,12817,2023-06-25,App Review,1,everything works fine
+2400,12010,2023-04-22,Email,5,awesome app easy to use
+2401,12808,2023-05-09,App Review,5,delivery was late and support not helpful
+2402,12496,2023-03-30,App Review,1,bad experience refund still not received
+2403,11866,2023-03-07,App Review,3,App crashes again after update
+2404,10834,2023-06-07,App Review,2,everything works fine
+2405,11203,2023-05-11,Email,5,app slow and buggy sometimes
+2406,11725,2023-05-02,App Review,3,App crashes again after update
+2407,11689,2023-05-29,App Review,1,frustrating experience will uninstall
+2408,10310,2023-03-25,App Review,4,awesome app easy to use
+2409,10261,2023-06-26,Support Ticket,2,bad experience refund still not received
+2410,11442,2023-04-26,Email,2,login issue cant access account
+2411,10405,2023-04-26,App Review,2,login issue cant access account
+2412,12190,2023-02-07,App Review,3,checkout page not loading
+2413,10341,2023-05-23,App Review,2,cant track my order properly
+2414,11339,2023-04-20,Support Ticket,1,app slow and buggy sometimes
+2415,10243,2023-06-29,Email,2,price increased suddenly not fair
+2416,10489,2023-02-15,Email,1,app slow and buggy sometimes
+2417,10011,2023-01-25,Email,5,refund pending from last week
+2418,10560,2023-01-21,App Review,1,refund pending from last week
+2419,10041,2023-05-01,Support Ticket,1,frustrating experience will uninstall
+2420,12725,2023-05-02,Email,4,payment deducted but order failed
+2421,10593,2023-05-13,App Review,5,too many ads now hate it
+2422,11452,2023-03-11,App Review,5,App crashes again after update
+2423,11826,2023-04-23,Email,3,everything works fine
+2424,11693,2023-04-17,Support Ticket,1,login issue cant access account
+2425,10133,2023-04-22,App Review,4,checkout page not loading
+2426,10947,2023-04-18,Support Ticket,4,love the app but payment failed twice
+2427,10072,2023-02-16,Email,1,frustrating experience will uninstall
+2428,10398,2023-04-01,App Review,5,payment deducted but order failed
+2429,11428,2023-01-18,App Review,1,great service very happy
+2430,12625,2023-05-29,App Review,5,everything works fine
+2431,12906,2023-04-14,Email,5,delivery was late and support not helpful
+2432,10129,2023-05-31,App Review,4,bad experience refund still not received
+2433,12978,2023-02-09,App Review,5,app slow and buggy sometimes
+2434,11811,2023-05-18,Email,4,delivery was late and support not helpful
+2435,12001,2023-03-30,Email,1,price increased suddenly not fair
+2436,10265,2023-06-29,App Review,3,App crashes again after update
+2437,11560,2023-03-02,App Review,1,too many ads now hate it
+2438,11985,2023-01-05,App Review,2,payment deducted but order failed
+2439,10792,2023-05-02,Email,4,app slow and buggy sometimes
+2440,12300,2023-02-24,Support Ticket,2,cant track my order properly
+2441,12869,2023-02-06,App Review,2,App crashes again after update
+2442,11312,2023-02-25,Support Ticket,4,delivery was late and support not helpful
+2443,10163,2023-04-12,Email,5,love the app but payment failed twice
+2444,10094,2023-04-03,Email,1,support team resolved issue quickly
+2445,11805,2023-03-14,Email,2,great service very happy
+2446,12880,2023-02-28,App Review,1,app slow and buggy sometimes
+2447,11133,2023-01-02,App Review,4,app slow and buggy sometimes
+2448,12383,2023-04-14,Email,1,very smooth experience no issues
+2449,10821,2023-02-20,Email,4,checkout page not loading
+2450,10237,2023-01-30,Email,2,App crashes again after update
+2451,12428,2023-01-11,App Review,1,love the app but payment failed twice
+2452,12946,2023-04-18,Support Ticket,5,great service very happy
+2453,12530,2023-03-17,Email,1,order got cancelled automatically
+2454,11960,2023-06-16,App Review,3,price increased suddenly not fair
+2455,12949,2023-03-31,App Review,1,order got cancelled automatically
+2456,11048,2023-05-03,Email,3,support team resolved issue quickly
+2457,11676,2023-05-05,Email,3,too many ads now hate it
+2458,12529,2023-05-02,App Review,2,order got cancelled automatically
+2459,12964,2023-04-04,Support Ticket,1,price increased suddenly not fair
+2460,10963,2023-04-13,App Review,2,login issue cant access account
+2461,10536,2023-06-11,App Review,4,login issue cant access account
+2462,11603,2023-01-31,Support Ticket,5,awesome app easy to use
+2463,11979,2023-02-21,Support Ticket,3,login issue cant access account
+2464,10127,2023-03-30,Email,4,price increased suddenly not fair
+2465,10091,2023-03-17,Support Ticket,1,support team resolved issue quickly
+2466,10542,2023-05-09,App Review,2,awesome app easy to use
+2467,10845,2023-01-22,Support Ticket,1,delivery was late and support not helpful
+2468,11681,2023-02-09,App Review,1,login issue cant access account
+2469,11851,2023-04-11,App Review,1,awesome app easy to use
+2470,12494,2023-04-21,App Review,3,checkout page not loading
+2471,10389,2023-05-09,App Review,4,checkout page not loading
+2472,12719,2023-03-06,App Review,5,app slow and buggy sometimes
+2473,11884,2023-06-19,App Review,1,checkout page not loading
+2474,10042,2023-05-29,App Review,4,App crashes again after update
+2475,10253,2023-03-20,App Review,5,login issue cant access account
+2476,11083,2023-01-22,Email,4,love the app but payment failed twice
+2477,12710,2023-06-15,App Review,2,refund pending from last week
+2478,12514,2023-04-09,App Review,2,very smooth experience no issues
+2479,12334,2023-01-08,Email,1,refund pending from last week
+2480,11540,2023-06-24,Support Ticket,2,bad experience refund still not received
+2481,11953,2023-01-17,Email,4,cant track my order properly
+2482,12825,2023-01-17,App Review,1,customer service is terrible
+2483,12392,2023-03-31,Email,1,customer service is terrible
+2484,10641,2023-05-21,App Review,4,great service very happy
+2485,12429,2023-05-25,App Review,5,frustrating experience will uninstall
+2486,10689,2023-06-15,App Review,3,too many ads now hate it
+2487,11276,2023-03-22,Support Ticket,4,too many ads now hate it
+2488,11950,2023-03-19,App Review,2,checkout page not loading
+2489,11079,2023-06-22,App Review,1,too many ads now hate it
+2490,11486,2023-01-06,App Review,2,login issue cant access account
+2491,10456,2023-06-12,Support Ticket,4,customer service is terrible
+2492,10982,2023-04-20,Email,5,support team resolved issue quickly
+2493,12130,2023-01-14,App Review,1,cant track my order properly
+2494,11122,2023-03-13,Email,3,very smooth experience no issues
+2495,10148,2023-05-23,Email,2,everything works fine
+2496,11352,2023-02-23,Email,3,App crashes again after update
+2497,11179,2023-01-27,App Review,1,price increased suddenly not fair
+2498,10189,2023-01-13,Support Ticket,2,bad experience refund still not received
+2499,10882,2023-06-08,App Review,5,everything works fine
+2500,12310,2023-06-12,Email,4,great service very happy
+2501,10399,2023-03-01,App Review,3,order got cancelled automatically
+2502,12811,2023-01-06,App Review,2,love the app but payment failed twice
+2503,10608,2023-02-27,App Review,2,everything works fine
+2504,11795,2023-02-18,Email,2,App crashes again after update
+2505,11638,2023-05-31,App Review,5,App crashes again after update
+2506,11575,2023-06-11,Email,5,frustrating experience will uninstall
+2507,12832,2023-01-26,App Review,3,support team resolved issue quickly
+2508,12148,2023-02-16,Email,2,great service very happy
+2509,11382,2023-01-05,Support Ticket,5,login issue cant access account
+2510,11403,2023-01-20,Email,3,too many ads now hate it
+2511,10819,2023-05-14,Email,4,order got cancelled automatically
+2512,10819,2023-02-28,Email,1,order got cancelled automatically
+2513,10419,2023-05-26,App Review,4,cant track my order properly
+2514,10123,2023-05-12,Support Ticket,3,very smooth experience no issues
+2515,10421,2023-01-17,App Review,5,bad experience refund still not received
+2516,11508,2023-01-14,Email,5,price increased suddenly not fair
+2517,11597,2023-01-13,Email,1,great service very happy
+2518,10767,2023-05-15,App Review,4,great service very happy
+2519,12044,2023-05-08,App Review,5,cant track my order properly
+2520,12530,2023-02-13,App Review,2,payment deducted but order failed
+2521,12566,2023-04-29,Support Ticket,1,price increased suddenly not fair
+2522,12202,2023-05-23,Support Ticket,1,price increased suddenly not fair
+2523,12139,2023-01-19,Email,3,App crashes again after update
+2524,11549,2023-03-04,Email,2,cant track my order properly
+2525,12502,2023-06-12,Support Ticket,4,great service very happy
+2526,11764,2023-03-22,App Review,1,price increased suddenly not fair
+2527,12044,2023-06-12,App Review,5,order got cancelled automatically
+2528,12645,2023-05-27,Email,2,cant track my order properly
+2529,10509,2023-05-28,Support Ticket,1,support team resolved issue quickly
+2530,11206,2023-04-10,Support Ticket,3,delivery was late and support not helpful
+2531,10385,2023-06-12,App Review,3,everything works fine
+2532,11597,2023-06-09,App Review,1,frustrating experience will uninstall
+2533,12452,2023-05-02,App Review,2,order got cancelled automatically
+2534,12293,2023-06-25,App Review,1,login issue cant access account
+2535,10741,2023-02-13,App Review,4,love the app but payment failed twice
+2536,12708,2023-04-14,Email,5,everything works fine
+2537,12697,2023-06-01,App Review,3,everything works fine
+2538,11911,2023-03-02,Support Ticket,4,support team resolved issue quickly
+2539,11446,2023-05-05,App Review,4,app slow and buggy sometimes
+2540,10900,2023-05-25,Email,1,refund pending from last week
+2541,12112,2023-03-12,App Review,5,checkout page not loading
+2542,12260,2023-04-17,App Review,5,awesome app easy to use
+2543,12009,2023-02-19,App Review,1,App crashes again after update
+2544,10241,2023-03-06,Support Ticket,1,too many ads now hate it
+2545,12540,2023-04-09,Support Ticket,1,awesome app easy to use
+2546,12385,2023-02-01,App Review,1,too many ads now hate it
+2547,12020,2023-06-13,App Review,4,checkout page not loading
+2548,10172,2023-05-21,Support Ticket,3,App crashes again after update
+2549,10671,2023-02-27,App Review,5,love the app but payment failed twice
+2550,10163,2023-05-08,App Review,4,order got cancelled automatically
+2551,10464,2023-05-22,Email,4,customer service is terrible
+2552,10496,2023-06-14,Support Ticket,4,price increased suddenly not fair
+2553,10699,2023-04-22,App Review,1,order got cancelled automatically
+2554,12442,2023-03-09,App Review,2,price increased suddenly not fair
+2555,10702,2023-02-09,Support Ticket,4,order got cancelled automatically
+2556,11940,2023-05-24,App Review,1,support team resolved issue quickly
+2557,12355,2023-05-12,App Review,1,very smooth experience no issues
+2558,11791,2023-06-22,Email,5,everything works fine
+2559,10182,2023-03-31,Support Ticket,4,bad experience refund still not received
+2560,10628,2023-01-28,App Review,2,payment deducted but order failed
+2561,12557,2023-04-06,Support Ticket,4,bad experience refund still not received
+2562,11731,2023-01-31,Email,5,refund pending from last week
+2563,10545,2023-01-03,App Review,2,refund pending from last week
+2564,11587,2023-05-16,Support Ticket,1,too many ads now hate it
+2565,10623,2023-01-24,App Review,5,order got cancelled automatically
+2566,10593,2023-01-15,App Review,2,delivery was late and support not helpful
+2567,10743,2023-06-20,Email,1,price increased suddenly not fair
+2568,11768,2023-06-08,App Review,3,bad experience refund still not received
+2569,11459,2023-02-14,App Review,5,app slow and buggy sometimes
+2570,11948,2023-01-08,App Review,1,login issue cant access account
+2571,12601,2023-03-12,App Review,2,bad experience refund still not received
+2572,12068,2023-04-18,Support Ticket,1,customer service is terrible
+2573,12601,2023-04-25,Email,5,refund pending from last week
+2574,12444,2023-04-13,Support Ticket,1,customer service is terrible
+2575,12672,2023-05-05,App Review,4,support team resolved issue quickly
+2576,10104,2023-02-26,App Review,5,bad experience refund still not received
+2577,12239,2023-01-30,App Review,1,too many ads now hate it
+2578,10016,2023-05-26,App Review,5,App crashes again after update
+2579,10392,2023-04-24,App Review,5,login issue cant access account
+2580,10424,2023-04-27,Email,5,App crashes again after update
+2581,12176,2023-06-16,Support Ticket,1,everything works fine
+2582,10571,2023-03-01,Support Ticket,4,price increased suddenly not fair
+2583,12076,2023-04-08,App Review,5,love the app but payment failed twice
+2584,11120,2023-06-20,Support Ticket,5,App crashes again after update
+2585,10241,2023-05-06,App Review,1,App crashes again after update
+2586,12279,2023-06-22,App Review,5,login issue cant access account
+2587,10788,2023-05-31,Support Ticket,2,cant track my order properly
+2588,10714,2023-04-04,Email,1,App crashes again after update
+2589,10758,2023-05-14,App Review,3,customer service is terrible
+2590,12849,2023-05-02,App Review,5,refund pending from last week
+2591,10775,2023-04-18,App Review,3,bad experience refund still not received
+2592,12773,2023-01-04,Email,3,very smooth experience no issues
+2593,12247,2023-04-03,App Review,5,very smooth experience no issues
+2594,12992,2023-05-31,Support Ticket,2,order got cancelled automatically
+2595,10078,2023-01-06,App Review,4,awesome app easy to use
+2596,10855,2023-02-01,App Review,2,app slow and buggy sometimes
+2597,12514,2023-04-16,App Review,2,love the app but payment failed twice
+2598,12628,2023-05-26,Email,4,frustrating experience will uninstall
+2599,11439,2023-01-15,App Review,5,frustrating experience will uninstall
+2600,12987,2023-06-17,Email,3,very smooth experience no issues
+2601,12496,2023-05-02,Support Ticket,5,App crashes again after update
+2602,12134,2023-04-06,Support Ticket,1,App crashes again after update
+2603,12148,2023-01-06,Support Ticket,1,app slow and buggy sometimes
+2604,11031,2023-04-22,Support Ticket,3,checkout page not loading
+2605,10844,2023-04-30,Email,1,awesome app easy to use
+2606,10086,2023-05-03,Support Ticket,2,delivery was late and support not helpful
+2607,12090,2023-03-08,App Review,3,order got cancelled automatically
+2608,10407,2023-04-16,App Review,1,price increased suddenly not fair
+2609,12711,2023-05-19,App Review,2,support team resolved issue quickly
+2610,11668,2023-02-12,App Review,3,frustrating experience will uninstall
+2611,10147,2023-05-25,App Review,4,payment deducted but order failed
+2612,12324,2023-04-06,Support Ticket,5,too many ads now hate it
+2613,10231,2023-05-12,App Review,4,refund pending from last week
+2614,11950,2023-03-22,App Review,3,App crashes again after update
+2615,10365,2023-02-10,Email,5,login issue cant access account
+2616,11674,2023-05-13,App Review,5,support team resolved issue quickly
+2617,10435,2023-06-09,App Review,1,payment deducted but order failed
+2618,10398,2023-02-04,App Review,1,customer service is terrible
+2619,11234,2023-01-22,App Review,4,everything works fine
+2620,11414,2023-05-30,App Review,4,delivery was late and support not helpful
+2621,12546,2023-04-22,Email,5,awesome app easy to use
+2622,12587,2023-01-11,Email,4,love the app but payment failed twice
+2623,10562,2023-01-03,App Review,4,bad experience refund still not received
+2624,12489,2023-05-17,App Review,5,frustrating experience will uninstall
+2625,11284,2023-03-01,App Review,3,login issue cant access account
+2626,10772,2023-03-17,Email,1,very smooth experience no issues
+2627,12397,2023-03-28,App Review,5,bad experience refund still not received
+2628,12037,2023-01-14,App Review,2,app slow and buggy sometimes
+2629,12567,2023-01-18,Email,5,too many ads now hate it
+2630,11343,2023-04-23,App Review,5,refund pending from last week
+2631,12185,2023-03-14,App Review,4,love the app but payment failed twice
+2632,11573,2023-01-23,App Review,4,order got cancelled automatically
+2633,10991,2023-03-24,Support Ticket,3,payment deducted but order failed
+2634,12415,2023-05-05,Support Ticket,2,app slow and buggy sometimes
+2635,11246,2023-06-24,Email,2,app slow and buggy sometimes
+2636,10359,2023-03-10,App Review,4,app slow and buggy sometimes
+2637,10920,2023-02-16,Email,5,love the app but payment failed twice
+2638,12376,2023-04-26,Support Ticket,4,awesome app easy to use
+2639,12510,2023-01-30,Support Ticket,1,order got cancelled automatically
+2640,12993,2023-01-25,App Review,3,checkout page not loading
+2641,10962,2023-06-05,Support Ticket,5,everything works fine
+2642,11827,2023-04-22,App Review,3,everything works fine
+2643,12883,2023-01-25,App Review,3,very smooth experience no issues
+2644,11613,2023-03-15,Email,5,great service very happy
+2645,11640,2023-02-27,App Review,4,customer service is terrible
+2646,12216,2023-04-04,Support Ticket,3,awesome app easy to use
+2647,10216,2023-04-29,App Review,5,awesome app easy to use
+2648,10377,2023-05-07,Email,1,too many ads now hate it
+2649,10118,2023-06-18,Support Ticket,5,very smooth experience no issues
+2650,10189,2023-01-25,Support Ticket,1,delivery was late and support not helpful
+2651,12814,2023-03-19,App Review,1,frustrating experience will uninstall
+2652,10369,2023-04-09,App Review,5,support team resolved issue quickly
+2653,11801,2023-04-26,Email,1,bad experience refund still not received
+2654,12196,2023-02-17,App Review,4,great service very happy
+2655,10651,2023-01-10,Support Ticket,5,price increased suddenly not fair
+2656,11882,2023-04-09,Support Ticket,5,app slow and buggy sometimes
+2657,11511,2023-01-11,App Review,5,login issue cant access account
+2658,10769,2023-03-26,App Review,2,refund pending from last week
+2659,12421,2023-05-29,App Review,4,great service very happy
+2660,10780,2023-06-22,Support Ticket,1,customer service is terrible
+2661,11716,2023-05-15,App Review,3,awesome app easy to use
+2662,12207,2023-05-06,App Review,5,great service very happy
+2663,12398,2023-03-05,App Review,2,love the app but payment failed twice
+2664,11311,2023-01-02,Email,4,app slow and buggy sometimes
+2665,12939,2023-03-17,App Review,3,great service very happy
+2666,11249,2023-05-01,App Review,4,awesome app easy to use
+2667,10522,2023-02-11,Support Ticket,5,checkout page not loading
+2668,10521,2023-02-23,Support Ticket,1,price increased suddenly not fair
+2669,10782,2023-03-16,Email,4,delivery was late and support not helpful
+2670,12320,2023-01-16,App Review,5,price increased suddenly not fair
+2671,10935,2023-01-18,App Review,3,price increased suddenly not fair
+2672,12230,2023-03-31,Email,1,bad experience refund still not received
+2673,11688,2023-05-24,App Review,4,everything works fine
+2674,10487,2023-01-06,Support Ticket,2,checkout page not loading
+2675,11850,2023-04-18,Email,1,App crashes again after update
+2676,10845,2023-06-24,App Review,5,frustrating experience will uninstall
+2677,12171,2023-02-17,Support Ticket,3,awesome app easy to use
+2678,12837,2023-02-11,Support Ticket,5,checkout page not loading
+2679,12461,2023-03-17,App Review,5,very smooth experience no issues
+2680,12003,2023-03-18,Email,4,App crashes again after update
+2681,11748,2023-05-12,App Review,1,login issue cant access account
+2682,10685,2023-05-10,App Review,3,everything works fine
+2683,12160,2023-02-28,App Review,1,App crashes again after update
+2684,12935,2023-06-04,Email,5,login issue cant access account
+2685,12169,2023-01-27,Support Ticket,1,delivery was late and support not helpful
+2686,11567,2023-03-20,Email,2,login issue cant access account
+2687,11245,2023-03-13,App Review,3,everything works fine
+2688,10038,2023-01-07,Email,2,cant track my order properly
+2689,12544,2023-04-21,App Review,1,great service very happy
+2690,10779,2023-04-29,Support Ticket,4,everything works fine
+2691,11256,2023-06-23,App Review,1,App crashes again after update
+2692,12990,2023-03-04,App Review,1,App crashes again after update
+2693,12196,2023-05-04,App Review,2,checkout page not loading
+2694,12708,2023-01-12,Email,4,App crashes again after update
+2695,11927,2023-05-21,App Review,4,great service very happy
+2696,10301,2023-02-12,Email,3,support team resolved issue quickly
+2697,12285,2023-01-17,App Review,4,very smooth experience no issues
+2698,10646,2023-03-04,App Review,2,support team resolved issue quickly
+2699,10662,2023-04-30,App Review,5,checkout page not loading
+2700,12283,2023-02-05,Support Ticket,1,payment deducted but order failed
+2701,11759,2023-01-08,Support Ticket,4,App crashes again after update
+2702,12250,2023-03-10,App Review,5,everything works fine
+2703,10255,2023-03-31,App Review,5,app slow and buggy sometimes
+2704,10597,2023-02-05,App Review,1,delivery was late and support not helpful
+2705,10661,2023-01-28,Email,2,login issue cant access account
+2706,10234,2023-04-28,App Review,4,frustrating experience will uninstall
+2707,11368,2023-04-03,Support Ticket,1,delivery was late and support not helpful
+2708,12581,2023-06-24,Support Ticket,5,everything works fine
+2709,12907,2023-03-17,App Review,4,too many ads now hate it
+2710,10769,2023-04-11,App Review,4,app slow and buggy sometimes
+2711,12588,2023-06-07,Support Ticket,1,support team resolved issue quickly
+2712,10212,2023-05-31,Support Ticket,4,price increased suddenly not fair
+2713,10462,2023-05-24,App Review,4,payment deducted but order failed
+2714,12483,2023-01-14,App Review,5,support team resolved issue quickly
+2715,10282,2023-03-12,App Review,1,frustrating experience will uninstall
+2716,11486,2023-06-29,App Review,1,frustrating experience will uninstall
+2717,11430,2023-05-04,App Review,2,support team resolved issue quickly
+2718,10087,2023-05-05,App Review,1,price increased suddenly not fair
+2719,11067,2023-02-06,Email,4,awesome app easy to use
+2720,10460,2023-01-29,App Review,5,delivery was late and support not helpful
+2721,12325,2023-05-23,App Review,2,App crashes again after update
+2722,12468,2023-06-24,App Review,5,support team resolved issue quickly
+2723,11724,2023-06-23,Support Ticket,1,support team resolved issue quickly
+2724,11376,2023-06-29,Support Ticket,1,cant track my order properly
+2725,12743,2023-01-19,App Review,1,price increased suddenly not fair
+2726,10514,2023-04-16,App Review,2,great service very happy
+2727,10702,2023-01-21,Support Ticket,5,love the app but payment failed twice
+2728,11653,2023-03-05,App Review,1,bad experience refund still not received
+2729,12066,2023-06-14,App Review,4,order got cancelled automatically
+2730,10022,2023-01-27,App Review,3,customer service is terrible
+2731,12460,2023-02-24,App Review,5,customer service is terrible
+2732,11053,2023-01-29,App Review,1,frustrating experience will uninstall
+2733,11830,2023-05-28,Support Ticket,1,love the app but payment failed twice
+2734,12155,2023-01-25,Email,1,too many ads now hate it
+2735,11304,2023-03-11,App Review,3,App crashes again after update
+2736,11134,2023-03-04,Support Ticket,2,customer service is terrible
+2737,12183,2023-06-13,App Review,5,awesome app easy to use
+2738,10361,2023-05-10,App Review,4,login issue cant access account
+2739,12176,2023-05-30,Email,4,delivery was late and support not helpful
+2740,11899,2023-01-16,Email,3,app slow and buggy sometimes
+2741,11284,2023-05-26,App Review,1,awesome app easy to use
+2742,10514,2023-04-10,App Review,3,too many ads now hate it
+2743,10448,2023-01-30,Email,5,delivery was late and support not helpful
+2744,11923,2023-02-14,Email,5,order got cancelled automatically
+2745,11506,2023-01-19,Email,5,App crashes again after update
+2746,11247,2023-02-03,App Review,5,App crashes again after update
+2747,11855,2023-05-21,App Review,1,bad experience refund still not received
+2748,10873,2023-06-20,App Review,1,frustrating experience will uninstall
+2749,12520,2023-03-03,App Review,1,customer service is terrible
+2750,11428,2023-04-28,Support Ticket,2,price increased suddenly not fair
+2751,12349,2023-04-10,App Review,1,App crashes again after update
+2752,12278,2023-01-22,App Review,3,everything works fine
+2753,11754,2023-06-29,Email,4,payment deducted but order failed
+2754,10922,2023-06-29,App Review,5,order got cancelled automatically
+2755,12984,2023-04-21,App Review,4,app slow and buggy sometimes
+2756,12159,2023-06-13,Support Ticket,5,very smooth experience no issues
+2757,11036,2023-03-14,Support Ticket,1,support team resolved issue quickly
+2758,11416,2023-05-27,Email,1,login issue cant access account
+2759,12547,2023-02-07,App Review,4,very smooth experience no issues
+2760,12979,2023-03-11,Email,2,awesome app easy to use
+2761,12645,2023-04-26,Email,2,price increased suddenly not fair
+2762,12281,2023-03-20,App Review,2,order got cancelled automatically
+2763,12649,2023-05-28,App Review,2,great service very happy
+2764,10313,2023-01-09,Support Ticket,3,refund pending from last week
+2765,12613,2023-02-01,App Review,3,delivery was late and support not helpful
+2766,12256,2023-05-12,Email,3,customer service is terrible
+2767,11997,2023-02-19,App Review,4,order got cancelled automatically
+2768,11037,2023-03-23,App Review,2,love the app but payment failed twice
+2769,11656,2023-01-05,App Review,2,App crashes again after update
+2770,12634,2023-05-28,Support Ticket,1,checkout page not loading
+2771,11778,2023-03-28,App Review,2,checkout page not loading
+2772,11014,2023-05-06,Email,4,bad experience refund still not received
+2773,11093,2023-03-16,Email,5,awesome app easy to use
+2774,11124,2023-06-14,Email,4,everything works fine
+2775,10697,2023-01-22,Support Ticket,1,everything works fine
+2776,12179,2023-03-09,Email,4,app slow and buggy sometimes
+2777,11404,2023-02-13,App Review,4,great service very happy
+2778,11155,2023-02-03,Support Ticket,3,everything works fine
+2779,11043,2023-03-18,Email,3,payment deducted but order failed
+2780,11929,2023-02-11,App Review,3,login issue cant access account
+2781,12583,2023-05-17,App Review,4,great service very happy
+2782,11013,2023-04-16,Support Ticket,4,frustrating experience will uninstall
+2783,10226,2023-04-05,App Review,1,very smooth experience no issues
+2784,11828,2023-05-15,Email,4,everything works fine
+2785,11492,2023-03-09,App Review,1,awesome app easy to use
+2786,10821,2023-05-27,App Review,1,very smooth experience no issues
+2787,12023,2023-06-08,Email,5,bad experience refund still not received
+2788,10870,2023-05-08,App Review,5,very smooth experience no issues
+2789,12452,2023-06-12,App Review,1,checkout page not loading
+2790,12249,2023-03-26,Email,3,order got cancelled automatically
+2791,12085,2023-06-08,App Review,1,everything works fine
+2792,12989,2023-03-24,Email,3,customer service is terrible
+2793,11795,2023-04-05,Support Ticket,5,payment deducted but order failed
+2794,10187,2023-02-01,Email,5,delivery was late and support not helpful
+2795,11080,2023-03-07,App Review,4,customer service is terrible
+2796,10940,2023-04-26,App Review,2,App crashes again after update
+2797,12320,2023-05-18,Email,4,order got cancelled automatically
+2798,12630,2023-05-10,Support Ticket,2,checkout page not loading
+2799,12563,2023-03-01,Support Ticket,5,cant track my order properly
+2800,10525,2023-01-17,Support Ticket,5,great service very happy
+2801,10335,2023-04-06,App Review,4,too many ads now hate it
+2802,12745,2023-05-24,App Review,2,App crashes again after update
+2803,11078,2023-01-16,App Review,2,app slow and buggy sometimes
+2804,12547,2023-02-15,App Review,1,great service very happy
+2805,12947,2023-06-16,App Review,5,App crashes again after update
+2806,12813,2023-06-08,Support Ticket,3,payment deducted but order failed
+2807,12583,2023-04-17,App Review,2,login issue cant access account
+2808,10161,2023-03-29,App Review,3,checkout page not loading
+2809,10593,2023-05-09,App Review,5,frustrating experience will uninstall
+2810,11938,2023-05-19,Support Ticket,1,app slow and buggy sometimes
+2811,12206,2023-04-29,Email,5,awesome app easy to use
+2812,10059,2023-03-26,Email,5,bad experience refund still not received
+2813,12962,2023-01-04,Support Ticket,5,customer service is terrible
+2814,11901,2023-03-12,App Review,2,awesome app easy to use
+2815,12258,2023-06-03,Email,1,awesome app easy to use
+2816,10405,2023-04-21,App Review,2,very smooth experience no issues
+2817,10663,2023-02-19,App Review,2,price increased suddenly not fair
+2818,11132,2023-05-20,Support Ticket,1,price increased suddenly not fair
+2819,11099,2023-04-05,Email,4,checkout page not loading
+2820,10541,2023-04-02,App Review,3,too many ads now hate it
+2821,11337,2023-03-06,App Review,5,great service very happy
+2822,10997,2023-02-16,Email,1,delivery was late and support not helpful
+2823,11140,2023-04-16,App Review,4,very smooth experience no issues
+2824,12974,2023-05-10,App Review,5,bad experience refund still not received
+2825,10867,2023-04-16,App Review,5,cant track my order properly
+2826,12066,2023-01-24,App Review,5,order got cancelled automatically
+2827,10431,2023-01-04,Support Ticket,4,customer service is terrible
+2828,10739,2023-04-18,App Review,5,support team resolved issue quickly
+2829,11373,2023-01-19,App Review,2,App crashes again after update
+2830,10182,2023-06-03,Email,3,awesome app easy to use
+2831,12160,2023-02-09,Support Ticket,1,very smooth experience no issues
+2832,11206,2023-02-19,App Review,1,great service very happy
+2833,12528,2023-06-20,App Review,1,checkout page not loading
+2834,11169,2023-03-16,App Review,1,frustrating experience will uninstall
+2835,10830,2023-01-12,Email,2,delivery was late and support not helpful
+2836,11651,2023-01-27,Email,1,bad experience refund still not received
+2837,11136,2023-04-23,Support Ticket,1,awesome app easy to use
+2838,12810,2023-02-18,Support Ticket,5,too many ads now hate it
+2839,10475,2023-05-24,Email,1,very smooth experience no issues
+2840,12810,2023-05-10,Email,4,checkout page not loading
+2841,11326,2023-03-01,App Review,1,frustrating experience will uninstall
+2842,10970,2023-01-30,App Review,5,bad experience refund still not received
+2843,11019,2023-03-25,Support Ticket,5,App crashes again after update
+2844,11141,2023-06-15,App Review,4,awesome app easy to use
+2845,11836,2023-01-28,App Review,4,checkout page not loading
+2846,10160,2023-01-25,Email,1,refund pending from last week
+2847,12448,2023-04-06,App Review,5,love the app but payment failed twice
+2848,10197,2023-05-05,Email,5,awesome app easy to use
+2849,11283,2023-01-10,Email,5,great service very happy
+2850,10659,2023-02-11,App Review,4,love the app but payment failed twice
+2851,11775,2023-02-09,Support Ticket,2,login issue cant access account
+2852,11070,2023-03-18,App Review,5,too many ads now hate it
+2853,12010,2023-04-15,App Review,2,App crashes again after update
+2854,10398,2023-04-28,Email,4,everything works fine
+2855,11733,2023-02-11,Email,1,login issue cant access account
+2856,11582,2023-02-16,Email,5,bad experience refund still not received
+2857,12125,2023-06-14,App Review,1,very smooth experience no issues
+2858,12171,2023-01-22,Email,1,frustrating experience will uninstall
+2859,10074,2023-04-17,App Review,4,checkout page not loading
+2860,12184,2023-01-27,Support Ticket,5,support team resolved issue quickly
+2861,10601,2023-02-10,App Review,4,everything works fine
+2862,10836,2023-03-21,Email,1,bad experience refund still not received
+2863,11528,2023-06-11,App Review,1,App crashes again after update
+2864,10499,2023-06-09,App Review,5,support team resolved issue quickly
+2865,11596,2023-03-30,App Review,5,awesome app easy to use
+2866,10137,2023-03-07,Support Ticket,5,price increased suddenly not fair
+2867,12097,2023-01-12,Email,3,awesome app easy to use
+2868,11794,2023-06-17,Support Ticket,5,awesome app easy to use
+2869,10972,2023-03-14,App Review,3,checkout page not loading
+2870,11642,2023-03-17,App Review,3,login issue cant access account
+2871,11885,2023-03-31,App Review,3,checkout page not loading
+2872,12301,2023-01-10,Support Ticket,3,customer service is terrible
+2873,12028,2023-04-06,App Review,5,delivery was late and support not helpful
+2874,12757,2023-06-25,Support Ticket,3,bad experience refund still not received
+2875,11900,2023-01-20,Support Ticket,2,frustrating experience will uninstall
+2876,12610,2023-02-08,Support Ticket,2,customer service is terrible
+2877,12804,2023-03-01,Email,1,love the app but payment failed twice
+2878,11449,2023-03-07,Email,4,delivery was late and support not helpful
+2879,10546,2023-03-06,Email,1,love the app but payment failed twice
+2880,10921,2023-06-28,App Review,1,great service very happy
+2881,10580,2023-05-04,Email,4,delivery was late and support not helpful
+2882,11372,2023-06-13,App Review,4,everything works fine
+2883,11956,2023-06-01,App Review,5,frustrating experience will uninstall
+2884,12003,2023-06-04,App Review,3,delivery was late and support not helpful
+2885,12096,2023-05-10,App Review,5,delivery was late and support not helpful
+2886,12964,2023-06-08,App Review,5,frustrating experience will uninstall
+2887,10703,2023-02-26,App Review,5,checkout page not loading
+2888,12308,2023-03-19,Email,4,frustrating experience will uninstall
+2889,12403,2023-01-29,App Review,2,refund pending from last week
+2890,11625,2023-01-15,Email,5,awesome app easy to use
+2891,10637,2023-01-12,App Review,2,very smooth experience no issues
+2892,12790,2023-04-11,Email,1,payment deducted but order failed
+2893,11009,2023-06-05,Email,3,payment deducted but order failed
+2894,12978,2023-03-25,Email,1,login issue cant access account
+2895,10640,2023-05-05,Email,5,very smooth experience no issues
+2896,12839,2023-04-13,App Review,4,customer service is terrible
+2897,12659,2023-01-24,Email,4,great service very happy
+2898,11861,2023-05-29,App Review,4,delivery was late and support not helpful
+2899,12856,2023-05-18,App Review,3,customer service is terrible
+2900,11205,2023-04-20,Email,1,awesome app easy to use
+2901,10685,2023-03-19,App Review,4,payment deducted but order failed
+2902,11851,2023-04-11,Email,4,too many ads now hate it
+2903,10187,2023-05-26,Email,3,cant track my order properly
+2904,11619,2023-05-22,App Review,5,everything works fine
+2905,11687,2023-06-11,App Review,1,app slow and buggy sometimes
+2906,10984,2023-05-08,App Review,1,everything works fine
+2907,10547,2023-02-27,Support Ticket,1,great service very happy
+2908,12772,2023-03-17,Email,2,login issue cant access account
+2909,12973,2023-05-30,App Review,5,payment deducted but order failed
+2910,11431,2023-02-05,App Review,5,refund pending from last week
+2911,10875,2023-06-22,Email,2,customer service is terrible
+2912,10617,2023-06-13,Support Ticket,4,checkout page not loading
+2913,12461,2023-01-22,App Review,4,bad experience refund still not received
+2914,11365,2023-05-07,App Review,1,App crashes again after update
+2915,11243,2023-03-21,Support Ticket,1,awesome app easy to use
+2916,10902,2023-04-10,App Review,5,refund pending from last week
+2917,10162,2023-04-06,App Review,4,everything works fine
+2918,11974,2023-06-10,Support Ticket,5,great service very happy
+2919,10269,2023-06-22,Email,2,bad experience refund still not received
+2920,10631,2023-06-13,App Review,4,cant track my order properly
+2921,10905,2023-05-28,App Review,1,checkout page not loading
+2922,12014,2023-01-18,App Review,2,very smooth experience no issues
+2923,11641,2023-02-07,App Review,3,awesome app easy to use
+2924,10204,2023-05-31,Support Ticket,2,support team resolved issue quickly
+2925,10581,2023-04-19,App Review,1,bad experience refund still not received
+2926,11579,2023-05-03,Email,2,great service very happy
+2927,10840,2023-05-24,Support Ticket,1,support team resolved issue quickly
+2928,11836,2023-05-29,App Review,4,cant track my order properly
+2929,11251,2023-04-14,App Review,3,app slow and buggy sometimes
+2930,11719,2023-05-20,Email,1,customer service is terrible
+2931,11642,2023-05-24,Support Ticket,1,cant track my order properly
+2932,12643,2023-03-22,Support Ticket,1,bad experience refund still not received
+2933,12297,2023-03-28,App Review,4,cant track my order properly
+2934,10874,2023-05-22,Email,1,price increased suddenly not fair
+2935,11464,2023-03-02,Email,5,cant track my order properly
+2936,12243,2023-02-15,Support Ticket,1,awesome app easy to use
+2937,10689,2023-02-01,App Review,1,frustrating experience will uninstall
+2938,12010,2023-01-15,Email,5,frustrating experience will uninstall
+2939,12686,2023-02-13,Support Ticket,4,cant track my order properly
+2940,11422,2023-05-25,App Review,1,great service very happy
+2941,12001,2023-06-18,App Review,5,too many ads now hate it
+2942,10671,2023-02-23,App Review,3,great service very happy
+2943,11171,2023-02-13,App Review,5,cant track my order properly
+2944,11495,2023-04-08,App Review,4,great service very happy
+2945,10943,2023-01-05,Support Ticket,4,cant track my order properly
+2946,12246,2023-04-19,App Review,5,frustrating experience will uninstall
+2947,11449,2023-01-27,App Review,1,price increased suddenly not fair
+2948,12539,2023-04-26,Email,4,support team resolved issue quickly
+2949,10895,2023-03-28,App Review,3,everything works fine
+2950,12189,2023-04-14,App Review,1,frustrating experience will uninstall
+2951,11336,2023-05-03,Email,1,awesome app easy to use
+2952,10164,2023-03-20,Support Ticket,1,app slow and buggy sometimes
+2953,12361,2023-02-12,Email,4,payment deducted but order failed
+2954,12068,2023-04-07,Email,4,great service very happy
+2955,11105,2023-01-31,App Review,4,support team resolved issue quickly
+2956,11753,2023-04-09,Support Ticket,1,payment deducted but order failed
+2957,12352,2023-01-17,App Review,3,everything works fine
+2958,11938,2023-03-24,Email,5,delivery was late and support not helpful
+2959,10370,2023-04-20,App Review,2,too many ads now hate it
+2960,11880,2023-02-01,Support Ticket,4,App crashes again after update
+2961,10852,2023-06-17,Email,5,love the app but payment failed twice
+2962,10383,2023-05-21,Email,5,love the app but payment failed twice
+2963,11931,2023-02-04,App Review,3,refund pending from last week
+2964,12492,2023-05-13,App Review,5,frustrating experience will uninstall
+2965,10424,2023-01-29,Email,2,great service very happy
+2966,12208,2023-03-11,Email,5,order got cancelled automatically
+2967,10628,2023-06-02,App Review,1,awesome app easy to use
+2968,10894,2023-04-05,Support Ticket,2,too many ads now hate it
+2969,12537,2023-01-22,Support Ticket,1,refund pending from last week
+2970,12374,2023-06-22,App Review,5,refund pending from last week
+2971,10597,2023-03-10,Support Ticket,3,order got cancelled automatically
+2972,12336,2023-03-30,Email,1,price increased suddenly not fair
+2973,10592,2023-03-13,App Review,1,price increased suddenly not fair
+2974,11687,2023-05-09,App Review,5,everything works fine
+2975,10572,2023-06-21,Email,5,support team resolved issue quickly
+2976,12075,2023-03-28,Email,4,payment deducted but order failed
+2977,12090,2023-04-06,App Review,4,cant track my order properly
+2978,11704,2023-03-16,Email,3,cant track my order properly
+2979,12470,2023-06-16,Email,2,everything works fine
+2980,10176,2023-02-23,Email,5,everything works fine
+2981,10528,2023-03-29,App Review,1,great service very happy
+2982,11633,2023-06-06,Support Ticket,3,customer service is terrible
+2983,10965,2023-02-23,App Review,2,support team resolved issue quickly
+2984,11517,2023-01-16,App Review,3,frustrating experience will uninstall
+2985,10197,2023-04-09,App Review,3,love the app but payment failed twice
+2986,12657,2023-01-20,App Review,3,everything works fine
+2987,12889,2023-02-15,Support Ticket,1,great service very happy
+2988,10852,2023-05-07,App Review,3,price increased suddenly not fair
+2989,11537,2023-02-27,Email,1,refund pending from last week
+2990,12069,2023-04-21,App Review,1,love the app but payment failed twice
+2991,11080,2023-05-09,App Review,1,cant track my order properly
+2992,12889,2023-03-22,Support Ticket,5,payment deducted but order failed
+2993,10097,2023-06-06,Email,3,price increased suddenly not fair
+2994,11903,2023-03-25,App Review,4,everything works fine
+2995,10434,2023-03-11,Email,4,app slow and buggy sometimes
+2996,10636,2023-01-08,App Review,4,checkout page not loading
+2997,10587,2023-01-29,App Review,3,checkout page not loading
+2998,10343,2023-04-22,Email,2,login issue cant access account
+2999,11317,2023-06-28,Email,2,customer service is terrible
+3000,11979,2023-06-10,App Review,4,too many ads now hate it
